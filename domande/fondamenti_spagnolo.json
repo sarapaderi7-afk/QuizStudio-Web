@@ -1,0 +1,758 @@
+[
+  {
+    "domanda": "Completa con el artículo correcto: \"__amiga de Pedro se llama Nadia\":",
+    "A": "la",
+    "B": "el",
+    "C": "las",
+    "D": "los",
+    "corretta": "A",
+    "numero": 1
+  },
+  {
+    "domanda": "Completa con el artículo correcto: \"__importante es caer bien a tus amigos\":",
+    "A": "la",
+    "B": "lo",
+    "C": "las",
+    "D": "el",
+    "corretta": "B",
+    "numero": 2
+  },
+  {
+    "domanda": "Completa con el artículo correcto: \"__chicos juegan el dormitorio\":",
+    "A": "la",
+    "B": "lo",
+    "C": "las",
+    "D": "los",
+    "corretta": "D",
+    "numero": 3
+  },
+  {
+    "domanda": "Completa con el artículo correcto: \"me gustan ____gatos negros\":",
+    "A": "la",
+    "B": "los",
+    "C": "lo",
+    "D": "las",
+    "corretta": "B",
+    "numero": 4
+  },
+  {
+    "domanda": "Completa con el artículo correcto: \"__hambre en el mundo es un problema grande\":",
+    "A": "la",
+    "B": "los",
+    "C": "el",
+    "D": "las",
+    "corretta": "C",
+    "numero": 5
+  },
+  {
+    "domanda": "Indica la forma correcta para completar la frase: \"Juan y Sara son dos (hermano/a, cariñoso/a)\":",
+    "A": "hermano carinoso",
+    "B": "hermanos carinosos",
+    "C": "hermana carinosa",
+    "D": "hermanas carinosas",
+    "corretta": "B",
+    "numero": 6
+  },
+  {
+    "domanda": "Indica la forma correcta para completar la frase: \"Carlos y Luis son dos (profesional, capaz) de solucionar el problema.\":",
+    "A": "profesionales capaces",
+    "B": "profesionales capazes",
+    "C": "profesional capaz",
+    "D": "profesional capaces",
+    "corretta": "A",
+    "numero": 7
+  },
+  {
+    "domanda": "Indica la forma correcta para completar la frase: \"Pilar y Pedro son dos (colega, experto)\":",
+    "A": "colega experta",
+    "B": "colegas expertos",
+    "C": "colegas expertas",
+    "D": "colegas experto",
+    "corretta": "C",
+    "numero": 8
+  },
+  {
+    "domanda": "Indica la forma correcta para completar la frase: \"Carla y Patricia son mis (mejor, amigo/a)\":",
+    "A": "mejores amigas",
+    "B": "mejor amigo",
+    "C": "mejores amigos",
+    "D": "mejor amiga",
+    "corretta": "A",
+    "numero": 9
+  },
+  {
+    "domanda": "Indica la forma correcta para completar la frase: Juan y yo somos (chico/a, joven):",
+    "A": "chicas jovenes",
+    "B": "chicas joven",
+    "C": "chicos jovenes",
+    "D": "chico jovenes",
+    "corretta": "C",
+    "numero": 10
+  },
+  {
+    "domanda": "Conjuga el verbo \"ser\" en presente indicativo: \"Marina _____la madre de Alberto.\":",
+    "A": "ser",
+    "B": "es",
+    "C": "son",
+    "D": "somos",
+    "corretta": "B",
+    "numero": 11
+  },
+  {
+    "domanda": "Conjuga el verbo \"ser\" en presente indicativo: \" Alberto e Iñaki no ______ingleses.\":",
+    "A": "somos",
+    "B": "son",
+    "C": "es",
+    "D": "ser",
+    "corretta": "B",
+    "numero": 12
+  },
+  {
+    "domanda": "Conjuga el verbo \"ser\" en presente indicativo: \"¿______(tú) traductor como Marina?\":",
+    "A": "es",
+    "B": "eres",
+    "C": "ser",
+    "D": "son",
+    "corretta": "B",
+    "numero": 13
+  },
+  {
+    "domanda": "Conjuga el verbo \"ser\" en presente indicativo: \"Nosotros no________compañeros de clase de Alberto.\":",
+    "A": "somos",
+    "B": "son",
+    "C": "es",
+    "D": "ser",
+    "corretta": "A",
+    "numero": 14
+  },
+  {
+    "domanda": "Conjuga el verbo \"ser\" en presente indicativo: \"¿________(tú) español?\":",
+    "A": "es",
+    "B": "ser",
+    "C": "eres",
+    "D": "somos",
+    "corretta": "C",
+    "numero": 15
+  },
+  {
+    "domanda": "Completa con la forma correcta: \"El abogado es ____ feo y antipático\":",
+    "A": "muy",
+    "B": "mucho",
+    "C": "muchos",
+    "D": "mucha",
+    "corretta": "A",
+    "numero": 16
+  },
+  {
+    "domanda": "Completa con la forma correcta: \"Los alumnos de la escuela son_____inteligentes\":",
+    "A": "muy",
+    "B": "mucho",
+    "C": "mucha",
+    "D": "muchas",
+    "corretta": "A",
+    "numero": 17
+  },
+  {
+    "domanda": "Completa con la forma correcta: \"En esta cocina hay ___cosas\":",
+    "A": "muy",
+    "B": "muchas",
+    "C": "muchos",
+    "D": "mucha",
+    "corretta": "B",
+    "numero": 18
+  },
+  {
+    "domanda": "Completa con la forma correcta: \"La doctora es_________simpática\":",
+    "A": "muy",
+    "B": "muchas",
+    "C": "muchos",
+    "D": "mucha",
+    "corretta": "A",
+    "numero": 19
+  },
+  {
+    "domanda": "Completa con la forma correcta: \"El lavavajillas es _____________nuevo\":",
+    "A": "muy",
+    "B": "mucho",
+    "C": "muchas",
+    "D": "mucha",
+    "corretta": "A",
+    "numero": 20
+  },
+  {
+    "domanda": "\"pájaro\", por su acentuación es una palabra:",
+    "A": "aguda",
+    "B": "llana",
+    "C": "esdrújula",
+    "D": "sobresdrújula",
+    "corretta": "C",
+    "numero": 21
+  },
+  {
+    "domanda": "\"cajón\", por su acentuación es una palabra:",
+    "A": "aguda",
+    "B": "llana",
+    "C": "esdrújula",
+    "D": "sobresdrújula",
+    "corretta": "A",
+    "numero": 22
+  },
+  {
+    "domanda": "\"camisa\", por su acentuación es una palabra:",
+    "A": "aguda",
+    "B": "llana",
+    "C": "esdrújula",
+    "D": "sobresdrújula",
+    "corretta": "B",
+    "numero": 23
+  },
+  {
+    "domanda": "\"cuéntaselo -,\", por su acentuación es una palabra:",
+    "A": "aguda",
+    "B": "llana",
+    "C": "esdrújula",
+    "D": "sobresdrújula",
+    "corretta": "D",
+    "numero": 24
+  },
+  {
+    "domanda": "\"papá\", por su acentuación es una palabra:",
+    "A": "aguda",
+    "B": "llana",
+    "C": "esdrújula",
+    "D": "sobresdrújula",
+    "corretta": "A",
+    "numero": 25
+  },
+  {
+    "domanda": "Indica la frase con la acentuación correcta:",
+    "A": "que suerte más grande tuvo en la lotería",
+    "B": "qué suerte más grande tuvo en la lotería",
+    "C": "que suerte mas grande tuvo en la lotería",
+    "D": "qué suerte más grande tuvo en la loteria",
+    "corretta": "B",
+    "numero": 26
+  },
+  {
+    "domanda": "Indica la frase con la acentuación correcta:",
+    "A": "oímos en la estación que vendrían el sábado",
+    "B": "oímos en la estacion que vendrían el sábado",
+    "C": "oímos en la estación que vendrían el sabado",
+    "D": "oímos en la estacion que vendrian el sábado",
+    "corretta": "B",
+    "numero": 27
+  },
+  {
+    "domanda": "Indica la frase con la acentuación correcta:",
+    "A": "su egoismo es todavía más fuerte",
+    "B": "su egoísmo es todavía más fuerte",
+    "C": "su egoísmo es todavia mas fuerte",
+    "D": "su egoísmo es todavía mas fuerte",
+    "corretta": "B",
+    "numero": 28
+  },
+  {
+    "domanda": "Indica la frase con la acentuación correcta:",
+    "A": "traigame una ración de gambas",
+    "B": "tráigame una racion de gambas",
+    "C": "tráigame una ración de gambas",
+    "D": "traigame una racion de gambas",
+    "corretta": "C",
+    "numero": 29
+  },
+  {
+    "domanda": "Indica la frase con la acentuación correcta:",
+    "A": "cuándo me toca a mí",
+    "B": "cuando me toca a mí",
+    "C": "cuándo me toca a mi",
+    "D": "cuando me toca a mi",
+    "corretta": "A",
+    "numero": 30
+  },
+  {
+    "domanda": "Lee las frases y decide el pronombre sujeto correspondiente: \". Somos catalanes, de Barcelona\":",
+    "A": "nostros",
+    "B": "vostros",
+    "C": "yo",
+    "D": "ellos",
+    "corretta": "A",
+    "numero": 31
+  },
+  {
+    "domanda": "Lee las frases y decide el pronombre sujeto correspondiente: \"Como sólo verduras verdes y rojas\":",
+    "A": "nostros",
+    "B": "vostros",
+    "C": "yo",
+    "D": "ellos",
+    "corretta": "C",
+    "numero": 32
+  },
+  {
+    "domanda": "Lee las frases y decide el pronombre sujeto correspondiente: \". Los niños saltan día y noche\":",
+    "A": "nostros",
+    "B": "vostros",
+    "C": "yo",
+    "D": "ellos",
+    "corretta": "D",
+    "numero": 33
+  },
+  {
+    "domanda": "Lee las frases y decide el pronombre sujeto correspondiente: \"Venden su casa\":",
+    "A": "nostros",
+    "B": "vostros",
+    "C": "yo",
+    "D": "ellos",
+    "corretta": "D",
+    "numero": 34
+  },
+  {
+    "domanda": "Lee las frases y decide el pronombre sujeto correspondiente: \"Trabajan mucho\":",
+    "A": "nostros",
+    "B": "vostros",
+    "C": "yo",
+    "D": "ellos",
+    "corretta": "D",
+    "numero": 35
+  },
+  {
+    "domanda": "Completa la frase con la forma del verbo estar en presente indicativo \"¿Por qué las ventanas de la cocina……..abiertas?\":",
+    "A": "esta",
+    "B": "estan",
+    "C": "estoy",
+    "D": "estas",
+    "corretta": "B",
+    "numero": 36
+  },
+  {
+    "domanda": "Completa la frase con la forma del verbo estar en presente indicativo \"Lo siento, hoy no soy una buena compañía,………de mal humor\":",
+    "A": "esta",
+    "B": "estan",
+    "C": "estoy",
+    "D": "estas",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "Completa la frase con la forma del verbo estar en presente indicativo \"¿Raúl y tú …………..bien en Lima?\":",
+    "A": "esta",
+    "B": "estan",
+    "C": "estoy",
+    "D": "estas",
+    "corretta": "B",
+    "numero": 38
+  },
+  {
+    "domanda": "Completa la frase con la forma del verbo estar en presente indicativo \"No…………contenta con mi trabajo\":",
+    "A": "esta",
+    "B": "estan",
+    "C": "estoy",
+    "D": "estan",
+    "corretta": "C",
+    "numero": 39
+  },
+  {
+    "domanda": "Completa la frase con la forma del verbo estar en presente indicativo \"¿Seguro que ……bien? Me pareces muy pálida\":",
+    "A": "esta",
+    "B": "estas",
+    "C": "estoy",
+    "D": "estan",
+    "corretta": "B",
+    "numero": 40
+  },
+  {
+    "domanda": "Presente indicativo del verbo tener: yo…:",
+    "A": "tengo",
+    "B": "tenéis",
+    "C": "tienen",
+    "D": "tenermos",
+    "corretta": "A",
+    "numero": 41
+  },
+  {
+    "domanda": "Presente indicativo del verbo tener: tu…:",
+    "A": "tengo",
+    "B": "tenéis",
+    "C": "tienes",
+    "D": "tenermos",
+    "corretta": "C",
+    "numero": 42
+  },
+  {
+    "domanda": "Presente indicativo del verbo tener: vosotros…:",
+    "A": "tengo",
+    "B": "tenéis",
+    "C": "tienen",
+    "D": "tenermos",
+    "corretta": "B",
+    "numero": 43
+  },
+  {
+    "domanda": "Presente indicativo del verbo tener: ellos…",
+    "A": "tengo",
+    "B": "tenéis",
+    "C": "tienen",
+    "D": "tenermos",
+    "corretta": "C",
+    "numero": 44
+  },
+  {
+    "domanda": "Presente indicativo del verbo tener: nostros…:",
+    "A": "tengo",
+    "B": "tenéis",
+    "C": "tienen",
+    "D": "tenermos",
+    "corretta": "D",
+    "numero": 45
+  },
+  {
+    "domanda": "Presente indicativo del verbo hacer: nostros…:",
+    "A": "hago",
+    "B": "haces",
+    "C": "hace",
+    "D": "hacemos",
+    "corretta": "D",
+    "numero": 46
+  },
+  {
+    "domanda": "Presente indicativo del verbo hacer: vosotros…:",
+    "A": "hago",
+    "B": "hacéis",
+    "C": "hace",
+    "D": "hacemos",
+    "corretta": "B",
+    "numero": 47
+  },
+  {
+    "domanda": "Presente indicativo del verbo hacer: yo…:",
+    "A": "hago",
+    "B": "haces",
+    "C": "hace",
+    "D": "hacemos",
+    "corretta": "A",
+    "numero": 48
+  },
+  {
+    "domanda": "Presente indicativo del verbo hacer: ellos…:",
+    "A": "hago",
+    "B": "haces",
+    "C": "hacen",
+    "D": "hacemos",
+    "corretta": "C",
+    "numero": 49
+  },
+  {
+    "domanda": "Presente indicativo del verbo hacer: tu…:",
+    "A": "hago",
+    "B": "haces",
+    "C": "hace",
+    "D": "hacemos",
+    "corretta": "B",
+    "numero": 50
+  },
+  {
+    "domanda": "Relaciona la frase con el final más adecuado; \"Ayer Marisol venía a cenar a casa…:",
+    "A": "pero se puso enferma y llamó por teléfono para cancelar la cena",
+    "B": "pero llamó por teléfono",
+    "C": "pero se puso colorada",
+    "D": "llamó por teléfono para cancelar la cena.",
+    "corretta": "A",
+    "numero": 51
+  },
+  {
+    "domanda": "Relaciona la frase con el final más adecuado; \"Ayer Marisol vino a cenar a casa…:",
+    "A": "pero bebió",
+    "B": "pero bebió demasiado y le sentó mal la cena",
+    "C": "y bebió demasiado",
+    "D": "pero bebió y lmal la cena",
+    "corretta": "B",
+    "numero": 52
+  },
+  {
+    "domanda": "Relaciona la frase con el final más adecuado; \"Cuando escribía Amor en bicicleta, se puso muy enfermo…:",
+    "A": "y salto el final",
+    "B": "y la estaba terminando",
+    "C": "terminando",
+    "D": "y no pudo terminarla",
+    "corretta": "D",
+    "numero": 53
+  },
+  {
+    "domanda": "Relaciona la frase con el final más adecuado; \"Ayer mi hermano fue al cine y lo atropelló un taxi…:",
+    "A": "así que no pudo ver la película",
+    "B": "es que salió del cine bastante distraído",
+    "C": "así que pudo ver la película",
+    "D": "así que no pudo ver la película",
+    "corretta": "B",
+    "numero": 54
+  },
+  {
+    "domanda": "Relaciona la frase con el final más adecuado; \"Ayer mi hermano iba al cine y lo atropelló un taxi…:",
+    "A": "así que no pudo ver la película",
+    "B": "es que salió del cine bastante distraído",
+    "C": "así que pudo ver la película",
+    "D": "así que no pudo ver la película",
+    "corretta": "A",
+    "numero": 55
+  },
+  {
+    "domanda": "Conjuga el verbo entre paréntesis en pretérito perfecto. \"Me (tocar) unas entradas de cine.\":",
+    "A": "han tocado",
+    "B": "tocado",
+    "C": "haber tocado",
+    "D": "tocan",
+    "corretta": "A",
+    "numero": 56
+  },
+  {
+    "domanda": "Conjuga el verbo entre paréntesis en pretérito perfecto. \"El grupo (volver) de su gira americana:",
+    "A": "vuelto",
+    "B": "ha vuelto",
+    "C": "vuelve",
+    "D": "va",
+    "corretta": "B",
+    "numero": 57
+  },
+  {
+    "domanda": "Conjuga el verbo entre paréntesis en pretérito perfecto. \"Los comercios (abrir)a las diez:",
+    "A": "abierto",
+    "B": "abrir",
+    "C": "han abierto",
+    "D": "fueron abiertos",
+    "corretta": "C",
+    "numero": 58
+  },
+  {
+    "domanda": "Conjuga el verbo entre paréntesis en pretérito perfecto. \"Todos los periódicos (publicar) la misma noticia:",
+    "A": "han publicado",
+    "B": "ha publicado",
+    "C": "publicado",
+    "D": "publican",
+    "corretta": "A",
+    "numero": 59
+  },
+  {
+    "domanda": "Conjuga el verbo entre paréntesis en pretérito perfecto. \"¿Qué nota (sacar/tú) en el examen?\":",
+    "A": "has sacado",
+    "B": "han sacado",
+    "C": "hemos sacado",
+    "D": "sacado",
+    "corretta": "A",
+    "numero": 60
+  },
+  {
+    "domanda": "Conjugar el verbo entre paréntesis en futuro simple: \"Nunca (llegar/ellos) a tiempo para el tren de las cinco.\":",
+    "A": "llegaron",
+    "B": "llegarán",
+    "C": "han llegado",
+    "D": "llegan",
+    "corretta": "B",
+    "numero": 61
+  },
+  {
+    "domanda": "Conjugar el verbo entre paréntesis en futuro simple: \"Cuando seáis padres (deber/vosotros) ocuparos de vuestros hijos.\":",
+    "A": "deberéis",
+    "B": "debes",
+    "C": "deben",
+    "D": "has deber",
+    "corretta": "A",
+    "numero": 62
+  },
+  {
+    "domanda": "Conjugar el verbo entre paréntesis en futuro simple: \"A partir de mañana (empezar/nosotros) a cobrar las entradas.\":",
+    "A": "empezaremos",
+    "B": "empezaran",
+    "C": "empezaron",
+    "D": "empezaban",
+    "corretta": "A",
+    "numero": 63
+  },
+  {
+    "domanda": "Conjugar el verbo entre paréntesis en futuro simple: \"Dentro de una década no (quedar) bosques en esta comarca.\":",
+    "A": "quedan",
+    "B": "quedaron",
+    "C": "quedarán",
+    "D": "quedaban",
+    "corretta": "C",
+    "numero": 64
+  },
+  {
+    "domanda": "Conjugar el verbo entre paréntesis en futuro simple: \"Este próximo domingo (abrir) todos los centros comerciales.\":",
+    "A": "abrieron",
+    "B": "abrir",
+    "C": "abren",
+    "D": "abrirán",
+    "corretta": "D",
+    "numero": 65
+  },
+  {
+    "domanda": "Escribe la forma correcta del subjuntivo. \"Me (gustar) poder haber ido contigo.\":",
+    "A": "me hubiera gustado poder haber ido contigo",
+    "B": "me gustado poder haber ido contigo",
+    "C": "me gustaba poder haber ido contigo",
+    "D": "me gusta poder haber ido contigo",
+    "corretta": "A",
+    "numero": 66
+  },
+  {
+    "domanda": "Escribe la forma correcta del subjuntivo. \"Voy a quedarme un rato más a pesar de que ya (ser) la hora.\":",
+    "A": "voy a quedarme un rato más a pesar de que ya es la hora",
+    "B": "Voy a quedarme un rato más a pesar de que ya sea la hora.",
+    "C": "Voy a quedarme un rato más a pesar de que ya fue la hora.",
+    "D": "voy a quedarme un rato más a pesar de que ya era la hora",
+    "corretta": "B",
+    "numero": 67
+  },
+  {
+    "domanda": "Escribe la forma correcta del subjuntivo. \"Seguro que le dejaron entrar al examen aunque no (llegar) a tiempo.\":",
+    "A": "Voy a quedarme un rato más a pesar de que ya ser la hora.",
+    "B": "voy a quedarme un rato más a pesar de que ya esta la hora",
+    "C": "voy a quedarme un rato más a pesar de que ya es la hora",
+    "D": "seguro que le dejaron entrar al examen aunque no llegara a tiempo",
+    "corretta": "D",
+    "numero": 68
+  },
+  {
+    "domanda": "Escribe la forma correcta del subjuntivo. \"Si antes (hacer/nosotros) las cosas bien, ahora no tendríamos ningún problema.\":",
+    "A": "si antes hubiéramos hecho las cosas bien, ahora no tendríamos ningún problema",
+    "B": "si antes hubiéramos hecho las cosas bien, ahora no tenemos ningún problema",
+    "C": "si antes hubiéramos hecho las cosas bien, ahora no tener ningún problema",
+    "D": "si antes hubiéramos hecho las cosas bien, ahora no tengo ningún problema",
+    "corretta": "A",
+    "numero": 69
+  },
+  {
+    "domanda": "Escribe la forma correcta del subjuntivo.\"Mientras no te (comer) todo, no te levantarás de la mesa.\":",
+    "A": "mientras no te hayas comido todo, no te levantas de la mesa",
+    "B": "mientras no te hayas comido todo, no te levantarás de la mesa",
+    "C": "mientras no te hayas comido todo, no te levantar de la mesa",
+    "D": "mientras no te hayas comido todo, no te levantaste de la mesa",
+    "corretta": "B",
+    "numero": 70
+  },
+  {
+    "domanda": "Elije la respuesta correcta, luego de leer: \"Vivo en un pueblo divertido en el sur de España en la costa, se llama Estepona. Es un pueblo antiguo y típico con un puerto limpio y animado. El centro es histórico e interesante con muchos bares. Cerca hay una playa preciosa.\":",
+    "A": "estepona es un pueblo nuevo",
+    "B": "estepona es un pueblo mas nuevo de Espana",
+    "C": "estepona es un pueblo viejo",
+    "D": "estepona es un pueblo fantasma",
+    "corretta": "C",
+    "numero": 71
+  },
+  {
+    "domanda": "Elije la respuesta correcta, luego de leer: \"Vivo en un pueblo divertido en el sur de España en la costa, se llama Estepona. Es un pueblo antiguo y típico con un puerto limpio y animado. El centro es histórico e interesante con muchos bares. Cerca hay una playa preciosa.\":",
+    "A": "estopona es un pueblo sin puerto",
+    "B": "estopona es un pueblo del interior de España",
+    "C": "estopona es un pueblo de Francia",
+    "D": "estepona es un pueblo con un puerto",
+    "corretta": "D",
+    "numero": 72
+  },
+  {
+    "domanda": "Elije la respuesta correcta, luego de leer: \"Vivo en un pueblo divertido en el sur de España en la costa, se llama Estepona. Es un pueblo antiguo y típico con un puerto limpio y animado. El centro es histórico e interesante con muchos bares. Cerca hay una playa preciosa.\":",
+    "A": "el centro de Estopona es muy nuevo",
+    "B": "el centro de Estopona es muy aburrido",
+    "C": "el Centro de Estopona es histórico",
+    "D": "el centro de Estopona es histórico y aburrido",
+    "corretta": "C",
+    "numero": 73
+  },
+  {
+    "domanda": "Elije la respuesta correcta, luego de leer: \"Vivo en un pueblo divertido en el sur de España en la costa, se llama Estepona. Es un pueblo antiguo y típico con un puerto limpio y animado. El centro es histórico e interesante con muchos bares. Cerca hay una playa preciosa.\":",
+    "A": "pueblo con pocos bares",
+    "B": "pueblo sin bares",
+    "C": "pueblo con muchos bares",
+    "D": "pueblo silencioso",
+    "corretta": "C",
+    "numero": 74
+  },
+  {
+    "domanda": "Elije la respuesta correcta, luego de leer: \"Vivo en un pueblo divertido en el sur de España en la costa, se llama Estepona. Es un pueblo antiguo y típico con un puerto limpio y animado. El centro es histórico e interesante con muchos bares. Cerca hay una playa preciosa.\":",
+    "A": "cerca no hay playas",
+    "B": "cerca hay una playa muy bonita",
+    "C": "cerca hay una playa aburrida",
+    "D": "cerca hay una playa antigua",
+    "corretta": "B",
+    "numero": 75
+  },
+  {
+    "domanda": "Elije la respuesta correcta luego de leer: \"Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media:",
+    "A": "frodo hace un viaje sin ninguna ayuda",
+    "B": "frodo hace un viaje con poca ayuda",
+    "C": "frodo hace un viaje con la ayuda de un grupo de amigos",
+    "D": "ninguna es correcta",
+    "corretta": "C",
+    "numero": 76
+  },
+  {
+    "domanda": "Elije la respuesta correcta luego de leer: \"Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media:",
+    "A": "frodo afronta un duro viaje con el objetivo de destruir el Anillo",
+    "B": "frodo afronta un viaje complicado con el objetivo de costruir el Anillo",
+    "C": "frodo evita un duro viaje con el objetivo de destruir el Anillo",
+    "D": "frodo emprende un viaje con el objetivo de armar el Anillo",
+    "corretta": "A",
+    "numero": 77
+  },
+  {
+    "domanda": "Elije la respuesta correcta luego de leer: \"Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media:",
+    "A": "el Señor Oscuro Sauron, quien creara el Anillo, manda a sus servidores para perseguir al grupo",
+    "B": "el Señor Oscuro Sauron, desea el Anillo con este objetivo manda a sus servidores para perseguir al grupo",
+    "C": "el Señor Oscuro Sauron, tiene el Anillo y manda a sus servidores para perseguir al grupo",
+    "D": "ningua de las frases",
+    "corretta": "A",
+    "numero": 78
+  },
+  {
+    "domanda": "Elije la respuesta correcta luego de leer: \"Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media:",
+    "A": "si Sauron recupera el Anillo, la Tierra Media llega a su final",
+    "B": "si Sauron pierde el Anillo, la Tierra Media llega a su final",
+    "C": "si Sauron crea el Anillo, la Tierra Media llega a su final",
+    "D": "si Sauron ayudara a recuperar el Anillo, la Tierra Media llega a su final",
+    "corretta": "A",
+    "numero": 79
+  },
+  {
+    "domanda": "Elije la respuesta correcta luego de leer: \"Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media:",
+    "A": "si el Señor Oscuro Sauron, lograra recuperar el Anillo, sería el final de la Tierra Media",
+    "B": "el Señor Oscuro Sauron, quien creara el Anillo, envía a recuperar el Anillo, sería el final de la Tierra Media",
+    "C": "el Señor Oscuro Sauron, q recuperar el Anillo y esto provoca el final de la Tierra Media",
+    "D": "ninguna de las frases es correcta",
+    "corretta": "A",
+    "numero": 80
+  },
+  {
+    "domanda": "Lee la frase que aparece en el texto y relaciónala con su significado.: \"Estar confundido\":",
+    "A": "tener unas ganas locas",
+    "B": "tener un jaleo en la cabeza",
+    "C": "la vieja escuela",
+    "D": "quedarse en blanco",
+    "corretta": "B",
+    "numero": 81
+  },
+  {
+    "domanda": "Lee la frase que aparece en el texto y relaciónala con su significado.: \"Querer con intensidad algo en concreto\":",
+    "A": "tener unas ganas locas",
+    "B": "tener un jaleo en la cabeza",
+    "C": "venir a la memoria",
+    "D": "quedarse en blanco",
+    "corretta": "A",
+    "numero": 83
+  },
+  {
+    "domanda": "Lee la frase que aparece en el texto y relaciónala con su significado.: \"Percatarse de / notar algo\":",
+    "A": "tener unas ganas locas",
+    "B": "darse cuenta de",
+    "C": "la vieja escuela",
+    "D": "quedarse en blanco",
+    "corretta": "B",
+    "numero": 84
+  },
+  {
+    "domanda": "Lee la frase que aparece en el texto y relaciónala con su significado.: \"Cambiar de perspectiva o de actitud\":",
+    "A": "tener unas ganas locas",
+    "B": "tener un jaleo en la cabeza",
+    "C": "tomárselo con otra filosofía",
+    "D": "quedarse en blanco",
+    "corretta": "C",
+    "numero": 85
+  }
+]
