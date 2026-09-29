@@ -1,0 +1,1715 @@
+[
+  {
+    "domanda": "Il periodo di diffusione degli studi culturali è:",
+    "A": "Ottocento",
+    "B": "Anni Novanta",
+    "C": "Anni ottanta",
+    "D": "Illuminismo",
+    "corretta": "C",
+    "numero": 1
+  },
+  {
+    "domanda": "Una delle caratteristiche della Sociologia dei Processi Culturali è:",
+    "A": "Rilevare come la cultura è parte edificante della struttura sociale",
+    "B": "Rivelare come la cultura è parte edificante della struttura sociale",
+    "C": "Rilevare come la cultura è parte edificante della struttura politico-economica",
+    "D": "Analizzare l'agire inconscio",
+    "corretta": "A",
+    "numero": 2
+  },
+  {
+    "domanda": "Uno degli elementi caratterizzanti il corso è:",
+    "A": "Comprendere il valore del concetto di cultura",
+    "B": "Apprendere la formazione delle politiche coercitive",
+    "C": "Osservare la disciplina in modo discreto",
+    "D": "Applicare strumenti quantitativi per la sua analisi",
+    "corretta": "A",
+    "numero": 3
+  },
+  {
+    "domanda": "Saggio sulla libertà è un testo di:",
+    "A": "Mill",
+    "B": "Sennet",
+    "C": "Haraway",
+    "D": "Harari",
+    "corretta": "A",
+    "numero": 4
+  },
+  {
+    "domanda": "Homo Deus è stato pubblicato nel:",
+    "A": "2017",
+    "B": "2019",
+    "C": "2018",
+    "D": "2020 Ripeti",
+    "corretta": "C",
+    "numero": 5
+  },
+  {
+    "domanda": "La sociologia è una scienza che:",
+    "A": "osserva i fatti sociali",
+    "B": "analizza i fenomeni sociali",
+    "C": "prevede ideologie sociopolitiche",
+    "D": "comprendere i prodromi della società",
+    "corretta": "B",
+    "numero": 6
+  },
+  {
+    "domanda": "La sociologia nasce con:",
+    "A": "Comte",
+    "B": "Voltaire",
+    "C": "Gutenberg",
+    "D": "Spencer",
+    "corretta": "A",
+    "numero": 7
+  },
+  {
+    "domanda": "La rivoluzione scientifica ha inizio nel:",
+    "A": "1354",
+    "B": "1453",
+    "C": "1543",
+    "D": "1455",
+    "corretta": "C",
+    "numero": 8
+  },
+  {
+    "domanda": "La prima rivoluzione industriale ha inizio nel:",
+    "A": "Settecento",
+    "B": "Ottocento",
+    "C": "fine Settecento",
+    "D": "metà Settecento",
+    "corretta": "A",
+    "numero": 9
+  },
+  {
+    "domanda": "La scienza connessa all'attivismo politico è caratteristica del pensiero di:",
+    "A": "Weber",
+    "B": "Comte",
+    "C": "Durkheim",
+    "D": "Spencer",
+    "corretta": "A",
+    "numero": 10
+  },
+  {
+    "domanda": "Il periodo di durata della scuola francese è:",
+    "A": "seconda metà del 1800 fino al 1920",
+    "B": "seconda metà del 1700 fino al 1920",
+    "C": "dal 1800 fino al 1920",
+    "D": "dal 1850 fino al 1990",
+    "corretta": "A",
+    "numero": 11
+  },
+  {
+    "domanda": "La dimensione simbolica indica che:",
+    "A": "nella cultura si possono riscontrare i simboli che costituiscono ogni società",
+    "B": "attraverso la cultura di produce una teoria esplicativa delle leggi universali",
+    "C": "la cultura ha una funzione riproduttiva ma immutevole",
+    "D": "la cultura ha radici nell'immaginario",
+    "corretta": "A",
+    "numero": 12
+  },
+  {
+    "domanda": "Una delle caratteristiche della scuola tedesca è:",
+    "A": "dibattito escatologico",
+    "B": "cultura e fintezza",
+    "C": "stasi e atemporalità",
+    "D": "dimensione simbolica",
+    "corretta": "B",
+    "numero": 13
+  },
+  {
+    "domanda": "L'immigrazione e le metropoli sono state studiate per la prima volta da:",
+    "A": "Scuola francese",
+    "B": "Scuola tedesca",
+    "C": "Scuola di Chicago",
+    "D": "Scuola inglese",
+    "corretta": "C",
+    "numero": 14
+  },
+  {
+    "domanda": "Il concetto di \"individuo marginale\" è stata coniato da:",
+    "A": "Park",
+    "B": "Thomas",
+    "C": "Lynd",
+    "D": "Mead",
+    "corretta": "A",
+    "numero": 15
+  },
+  {
+    "domanda": "Il prodotto culturale è:",
+    "A": "un simbolo",
+    "B": "un fine",
+    "C": "una metodologia",
+    "D": "un caso",
+    "corretta": "A",
+    "numero": 16
+  },
+  {
+    "domanda": "Il comportamento di un soggetto dipende da:",
+    "A": "etnia",
+    "B": "ambiente",
+    "C": "politica",
+    "D": "profitto",
+    "corretta": "B",
+    "numero": 17
+  },
+  {
+    "domanda": "Il concetto di \"processo culturale\" è stato coniato da:",
+    "A": "Berger",
+    "B": "Boas",
+    "C": "Spiro",
+    "D": "Weber",
+    "corretta": "A",
+    "numero": 18
+  },
+  {
+    "domanda": "Le norme sono:",
+    "A": "principi condivisi",
+    "B": "elementi etici",
+    "C": "sistemi strutturati",
+    "D": "raffigurazioni",
+    "corretta": "A",
+    "numero": 19
+  },
+  {
+    "domanda": "Il diamante culturale è:",
+    "A": "una teoria",
+    "B": "una pressi",
+    "C": "uno strumento etico",
+    "D": "uno strumento euristico",
+    "corretta": "D",
+    "numero": 20
+  },
+  {
+    "domanda": "Il rapporto tra cultura e società è:",
+    "A": "monodirezionale",
+    "B": "bidirezionale",
+    "C": "dipendente",
+    "D": "esogeno",
+    "corretta": "B",
+    "numero": 21
+  },
+  {
+    "domanda": "La cultura è:",
+    "A": "una costante costruzione sociale",
+    "B": "un'istituzione statica",
+    "C": "uno strumento etico",
+    "D": "un ornamento dell'individuo",
+    "corretta": "A",
+    "numero": 22
+  },
+  {
+    "domanda": "L'opera \"L'uomo. La sua natura e il suo posto ne mondo\" è di:",
+    "A": "Gehelen",
+    "B": "Boas",
+    "C": "Berger",
+    "D": "Weber",
+    "corretta": "A",
+    "numero": 23
+  },
+  {
+    "domanda": "I meccanismi che regolano l'ordine culturale sono:",
+    "A": "metodologici",
+    "B": "politici",
+    "C": "sociali",
+    "D": "strutturati",
+    "corretta": "C",
+    "numero": 24
+  },
+  {
+    "domanda": "Gehelen definisce l'essere umano come:",
+    "A": "animale definito",
+    "B": "animale non definito",
+    "C": "ente sociale",
+    "D": "costrutto logico",
+    "corretta": "A",
+    "numero": 25
+  },
+  {
+    "domanda": "Il relativismo afferma che:",
+    "A": "ogni cultura è un cosmo a sé stante",
+    "B": "ogni cultura è un ambiente relativo",
+    "C": "ogni cultura è immaginazione sociale",
+    "D": "ogni cultura è costruzione presente",
+    "corretta": "A",
+    "numero": 26
+  },
+  {
+    "domanda": "Le \"Storia\" sono un'opera di:",
+    "A": "Erodoto",
+    "B": "Montesquieu",
+    "C": "Montaigne",
+    "D": "Machiavelli",
+    "corretta": "A",
+    "numero": 27
+  },
+  {
+    "domanda": "Sumner descrisse l'etnocentrismo come:",
+    "A": "la pretesa di centralità del proprio gruppo culturale",
+    "B": "l'idea di una gerarchia di etnie",
+    "C": "uno strumento euristico",
+    "D": "una prospettiva sociale",
+    "corretta": "A",
+    "numero": 28
+  },
+  {
+    "domanda": "Il concetto di culture fu introdotto da:",
+    "A": "Spencer",
+    "B": "Boas",
+    "C": "Strauss",
+    "D": "Murdock",
+    "corretta": "B",
+    "numero": 29
+  },
+  {
+    "domanda": "L'opera \"Interpretazione di culture\" è di:",
+    "A": "Gehelen",
+    "B": "Geertz",
+    "C": "Boas",
+    "D": "Strauss",
+    "corretta": "B",
+    "numero": 30
+  },
+  {
+    "domanda": "Nelle società agricole:",
+    "A": "educazione e istruzione sono differenti in base all'estrazione sociale",
+    "B": "educazione e istruzione sono sinonimi",
+    "C": "educazione e istruzione sono differenti in base all'etnia",
+    "D": "educazione e istruzione sono segmenti orizzontali",
+    "corretta": "A",
+    "numero": 31
+  },
+  {
+    "domanda": "All'apice della piramide della società industriale si trova:",
+    "A": "upper class",
+    "B": "ceto tecno-politico",
+    "C": "burocrati",
+    "D": "partiti politici",
+    "corretta": "A",
+    "numero": 32
+  },
+  {
+    "domanda": "Il pluralismo culturale è stato coniato da:",
+    "A": "Geertz",
+    "B": "Boas",
+    "C": "Gehelen",
+    "D": "Schutz",
+    "corretta": "D",
+    "numero": 33
+  },
+  {
+    "domanda": "La subcultura è:",
+    "A": "una sottocultura",
+    "B": "condivisa dalla maggioranza",
+    "C": "uno strumento di ricerca",
+    "D": "una proiezione immaginifica",
+    "corretta": "A",
+    "numero": 34
+  },
+  {
+    "domanda": "\"Il quarto stato\" è del:",
+    "A": "1991",
+    "B": "1901",
+    "C": "1851",
+    "D": "1911",
+    "corretta": "B",
+    "numero": 35
+  },
+  {
+    "domanda": "Nelle società agricole:",
+    "A": "educazione e istruzione sono differenti in base all'estrazione sociale",
+    "B": "educazione e istruzione sono sinonimi",
+    "C": "educazione e istruzione sono differenti in base all'etnia",
+    "D": "educazione e istruzione sono segmenti orizzontali",
+    "corretta": "A",
+    "numero": 36
+  },
+  {
+    "domanda": "All'apice della piramide della società industriale si trova:",
+    "A": "burocrati",
+    "B": "ceto tecno-politico",
+    "C": "upper class",
+    "D": "partiti politici",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "Il pluralismo culturale è stato coniato da:",
+    "A": "Schutz",
+    "B": "Boas",
+    "C": "Gehelen",
+    "D": "Geertz",
+    "corretta": "A",
+    "numero": 38
+  },
+  {
+    "domanda": "La subcultura è:",
+    "A": "una sottocultura",
+    "B": "condivisa dalla maggioranza",
+    "C": "uno strumento di ricerca",
+    "D": "una proiezione immaginifica",
+    "corretta": "A",
+    "numero": 39
+  },
+  {
+    "domanda": "\"Il quarto stato\" è del:",
+    "A": "1991",
+    "B": "1901",
+    "C": "1851",
+    "D": "1911",
+    "corretta": "B",
+    "numero": 40
+  },
+  {
+    "domanda": "La parola \"comunicazione\" deriva dal:",
+    "A": "latino",
+    "B": "greco",
+    "C": "inglese",
+    "D": "greco moderno",
+    "corretta": "A",
+    "numero": 41
+  },
+  {
+    "domanda": "Il rapporto tra cultura e comunicazione è caratterizzato da:",
+    "A": "linguaggio, simboli, dipendenze, agire",
+    "B": "linguaggio, simboli, relazioni, agire",
+    "C": "mezzi, paradigmi, dipendenze, agire",
+    "D": "linguaggio, strutture, enti, agire",
+    "corretta": "B",
+    "numero": 42
+  },
+  {
+    "domanda": "I mass media possono essere definiti come:",
+    "A": "tecniche di diffusione monodirezionali",
+    "B": "insieme di metodologie con la finalità di comunicare ideologie",
+    "C": "insieme di mezzi con la finalità di comunicare informazioni",
+    "D": "strumenti spazialmente e temporalmente limitati",
+    "corretta": "C",
+    "numero": 43
+  },
+  {
+    "domanda": "Le narrazioni individuali tramite i mass media:",
+    "A": "sono indipendenti",
+    "B": "vengono formalizzate attraverso l'uso dei media e delle scelte di linguaggio e dello strumento",
+    "C": "sono codipendenti",
+    "D": "sono proiezioni immaginifiche",
+    "corretta": "B",
+    "numero": 44
+  },
+  {
+    "domanda": "L'opera \"Perché studiare i media?\" è di:",
+    "A": "Geertz",
+    "B": "Boas",
+    "C": "Gehelen",
+    "D": "Silverstone",
+    "corretta": "D",
+    "numero": 45
+  },
+  {
+    "domanda": "Le tavolette di argilla sono state create da:",
+    "A": "sumeri",
+    "B": "egizi",
+    "C": "greci",
+    "D": "romani",
+    "corretta": "A",
+    "numero": 46
+  },
+  {
+    "domanda": "La stampa a caratteri mobili è stata introdotta nel:",
+    "A": "1544",
+    "B": "1555",
+    "C": "1545",
+    "D": "1455",
+    "corretta": "D",
+    "numero": 47
+  },
+  {
+    "domanda": "La prima forma di media simile al quotidiano è:",
+    "A": "tavole di cera",
+    "B": "Acta diurna",
+    "C": "papiro",
+    "D": "i testi stampati con caratteri mobili",
+    "corretta": "C",
+    "numero": 48
+  },
+  {
+    "domanda": "Il cinema nasce nel:",
+    "A": "1895",
+    "B": "1985",
+    "C": "1888",
+    "D": "1855",
+    "corretta": "A",
+    "numero": 49
+  },
+  {
+    "domanda": "La radio nasce nel:",
+    "A": "1896",
+    "B": "1897",
+    "C": "1884",
+    "D": "1890",
+    "corretta": "B",
+    "numero": 50
+  },
+  {
+    "domanda": "La declinazione del termine \"nuovi media\" ha origine:",
+    "A": "inizio Novecento",
+    "B": "negli anni '80 del Novecento",
+    "C": "negli anni '70 del Novecento",
+    "D": "negli anni'60 del Novecento",
+    "corretta": "D",
+    "numero": 51
+  },
+  {
+    "domanda": "\"Handbook of New Media\" è un testo di:",
+    "A": "Boas",
+    "B": "Lievrouw",
+    "C": "McLuhan",
+    "D": "Strauss",
+    "corretta": "C",
+    "numero": 52
+  },
+  {
+    "domanda": "Tempo e spazio divengono:",
+    "A": "parametri fissi",
+    "B": "esemplificazioni del mutamento",
+    "C": "sinonimi di comunicazione",
+    "D": "elementi caratterizzanti i metodi",
+    "corretta": "A",
+    "numero": 53
+  },
+  {
+    "domanda": "La sigla ICT sta per:",
+    "A": "Information and Communication Technologies",
+    "B": "Internet and Communication Technologies",
+    "C": "Information and Cultural Technologies",
+    "D": "Internet and Cultural Technologies",
+    "corretta": "A",
+    "numero": 54
+  },
+  {
+    "domanda": "Il contesto di azione dell'utente è caratterizzato da:",
+    "A": "big data, digital device, reti sociali",
+    "B": "internet, digital device, reti sociali",
+    "C": "internet, media, reti sociali",
+    "D": "informazione, media, reti sociali",
+    "corretta": "B",
+    "numero": 55
+  },
+  {
+    "domanda": "Due proprietà della comunità sono:",
+    "A": "spaziale e relazionale",
+    "B": "temporale e relazionale",
+    "C": "prospettiva e razionale",
+    "D": "spaziale e relazionale",
+    "corretta": "A",
+    "numero": 56
+  },
+  {
+    "domanda": "La prima delle tre rivoluzioni culturali è stata quella:",
+    "A": "delle culture orali",
+    "B": "dell'alfabetizzazione",
+    "C": "dei segni",
+    "D": "della comunicazione mediatica",
+    "corretta": "A",
+    "numero": 57
+  },
+  {
+    "domanda": "I sistemi di scrittura fonetica nascono:",
+    "A": "in Oriente",
+    "B": "in Medio Oriente",
+    "C": "in Grecia",
+    "D": "in Africa",
+    "corretta": "B",
+    "numero": 58
+  },
+  {
+    "domanda": "La riforma protestante è del:",
+    "A": "1715",
+    "B": "1571",
+    "C": "1751",
+    "D": "1517",
+    "corretta": "D",
+    "numero": 59
+  },
+  {
+    "domanda": "I media elettronici vengono inseriti nella:",
+    "A": "terza rivoluzione comunicativa",
+    "B": "quarta rivoluzione comunicativa",
+    "C": "rivoluzione culturale",
+    "D": "rivoluzione informativa",
+    "corretta": "A",
+    "reference": "Paragrafo di riferimento - Le rivoluzioni della comunicazione",
+    "numero": 60
+  },
+  {
+    "domanda": "Per rete sociale si intende:",
+    "A": "una struttura composta solo da oggetti",
+    "B": "una struttura digitale di elementi connessi tra loro",
+    "C": "un insieme ordinato di enti codipendenti ma stabili",
+    "D": "un insieme eterogeneo di elementi connessi tra loro",
+    "corretta": "D",
+    "numero": 61
+  },
+  {
+    "domanda": "La cricca indica:",
+    "A": "l'instaurazione di legami interni",
+    "B": "il collegamento tra soggetti",
+    "C": "la costruzione di rapporti oltre la propria rete",
+    "D": "la rappresentatività delle unità",
+    "corretta": "B",
+    "numero": 62
+  },
+  {
+    "domanda": "La teoria della complessità trova uno dei suoi massimi esponenti in:",
+    "A": "Morin",
+    "B": "Strauss",
+    "C": "Dominici",
+    "D": "Comte",
+    "corretta": "A",
+    "numero": 63
+  },
+  {
+    "domanda": "Le sfide della complessità sono:",
+    "A": "sociologica, storica, civica",
+    "B": "culturale, sociologica, politica",
+    "C": "culturale, sociologica, civica",
+    "D": "sociologica, politica, civica",
+    "corretta": "C",
+    "numero": 64
+  },
+  {
+    "domanda": "La network analisys indaga:",
+    "A": "gli aspetti di tipo comportamentale",
+    "B": "gli enti non umani",
+    "C": "la diffusione del progresso",
+    "D": "la teoria della complessità",
+    "corretta": "A",
+    "numero": 65
+  },
+  {
+    "domanda": "Il concetto di \"società in rete\" indica:",
+    "A": "una struttura composta solo da oggetti",
+    "B": "le reti digitali sono strutture distaccate dalla società contemporaneità",
+    "C": "un insieme ordinato di enti codipendenti e stabili",
+    "D": "le reti digitali sono divenute strutture peculiari nella contemporaneità",
+    "corretta": "D",
+    "numero": 66
+  },
+  {
+    "domanda": "La comunicazione è caratterizzata da tre elementi:",
+    "A": "di/per masse; multimodale; autonomaB di/per masse; multimodale; dipendete",
+    "B": "",
+    "C": "dalle masse; multimodale; autonoma",
+    "D": "di/per masse; monofunzionale; autonoma",
+    "corretta": "",
+    "numero": 67,
+    "_errore": "Risposta corretta non identificata in modo univoco"
+  },
+  {
+    "domanda": "\"La cultura della sorveglianza\" è un'opera di:",
+    "A": "Morin",
+    "B": "Lyon",
+    "C": "Castells",
+    "D": "Latour",
+    "corretta": "B",
+    "numero": 68
+  },
+  {
+    "domanda": "L'actor network theory stabilisce che:",
+    "A": "gli enti non umani cooperano nella costituzione degli attori umani",
+    "B": "gli enti non umani ostacolano costituzione degli attori umani",
+    "C": "gli enti non umani inficiano nella costituzione degli attori umani",
+    "D": "gli enti non umani cooperano nella devalorizzazione degli attori umani",
+    "corretta": "A",
+    "numero": 69
+  },
+  {
+    "domanda": "I software studies studiano:",
+    "A": "i software come sistemi che condizionano la cultura",
+    "B": "i software come sistemi che inquinano la cultura",
+    "C": "i software come archivi che manipolano la cultura",
+    "D": "i software come enti neutrali per la cultura",
+    "corretta": "A",
+    "numero": 70
+  },
+  {
+    "domanda": "Della struttura sociale fanno parte:",
+    "A": "i dettagli",
+    "B": "le caratteristiche",
+    "C": "i meccanismi sociali",
+    "D": "le identità",
+    "corretta": "C",
+    "numero": 71
+  },
+  {
+    "domanda": "La sociologia dei processi culturali e comunicativi indaga:",
+    "A": "i significati sociali",
+    "B": "i microfenomeni",
+    "C": "la microfisica del potere",
+    "D": "l'esistenzialismo individuale",
+    "corretta": "A",
+    "numero": 72
+  },
+  {
+    "domanda": "Un oggetto culturale è:",
+    "A": "ciò che detiene un significato condiviso dai membri di una stessa società",
+    "B": "ciò che detiene un significato non delinearo dai membri di una stessa società",
+    "C": "ciò che detiene un significato uniersale",
+    "D": "ciò che detiene un significato normatio condiiso",
+    "corretta": "A",
+    "numero": 73
+  },
+  {
+    "domanda": "I concetti di \"comunità e società\" sono stati indagati per lo più da:",
+    "A": "Marx",
+    "B": "Weber",
+    "C": "Tonnies",
+    "D": "Comte",
+    "corretta": "C",
+    "numero": 74
+  },
+  {
+    "domanda": "Pareto è un:",
+    "A": "esistenzialista",
+    "B": "elitista",
+    "C": "organicista",
+    "D": "epicureo",
+    "corretta": "",
+    "numero": 75,
+    "_errore": "Risposta corretta non identificata in modo univoco"
+  },
+  {
+    "domanda": "Il processo di urbanizzazione è avvenuto nel:",
+    "A": "Seicento",
+    "B": "Settecento",
+    "C": "Ottocento",
+    "D": "Cinquecento",
+    "corretta": "C",
+    "numero": 76
+  },
+  {
+    "domanda": "Le Bon è nato nel:",
+    "A": "1864",
+    "B": "1851",
+    "C": "1781",
+    "D": "1841",
+    "corretta": "A",
+    "numero": 77
+  },
+  {
+    "domanda": "\"Psicologia delle folle\" è di:",
+    "A": "Sighele",
+    "B": "Tarde",
+    "C": "Le Bon",
+    "D": "Pareto",
+    "corretta": "C",
+    "numero": 78
+  },
+  {
+    "domanda": "La folla è un attore sociale nato in epoca:",
+    "A": "globalizzata",
+    "B": "contemporanea",
+    "C": "postmoderna",
+    "D": "moderna",
+    "corretta": "D",
+    "numero": 79
+  },
+  {
+    "domanda": "\"La folla delinquente\" è un'opera del:",
+    "A": "1879",
+    "B": "1881",
+    "C": "1781",
+    "D": "1891",
+    "corretta": "D",
+    "numero": 80
+  },
+  {
+    "domanda": "La Scuola di Francoforte nasce nel:",
+    "A": "1917",
+    "B": "1927",
+    "C": "1923",
+    "D": "1918",
+    "corretta": "C",
+    "numero": 81
+  },
+  {
+    "domanda": "L'Istituto per la ricerca sociale aveva lo scopo di:",
+    "A": "studiare le complesse connessioni sociali",
+    "B": "sviluppare una metodologia empirica",
+    "C": "studiare i fenomeni religiosi",
+    "D": "criticare gli sviluppi identitari del secolo precedente",
+    "corretta": "A",
+    "numero": 82
+  },
+  {
+    "domanda": "\"Personalità autoritaria\" è un'opera di:",
+    "A": "Pollock",
+    "B": "Marcuse",
+    "C": "Horkheimer",
+    "D": "Adorno",
+    "corretta": "D",
+    "numero": 83
+  },
+  {
+    "domanda": "La dialettica dell'Illuminismo mirava a:",
+    "A": "studiare la lotta di classe",
+    "B": "analizzare la cultura di massa",
+    "C": "criticare il sistema imperialista",
+    "D": "analizzare i fenomeni microsociali",
+    "corretta": "B",
+    "numero": 84
+  },
+  {
+    "domanda": "\"L'uomo a una dimensione\" è un'opera di:",
+    "A": "Marcuse",
+    "B": "Adorno",
+    "C": "Horkheimer",
+    "D": "Pollock",
+    "corretta": "A",
+    "numero": 85
+  },
+  {
+    "domanda": "L'ambito di studi di McLuhan è:",
+    "A": "media ed educazione",
+    "B": "media e politica",
+    "C": "media e filosofia",
+    "D": "globalizzazione e media",
+    "corretta": "A",
+    "numero": 86
+  },
+  {
+    "domanda": "\"Blade runner\" è un film di:",
+    "A": "Spencer",
+    "B": "McLuhan",
+    "C": "Scott",
+    "D": "Lyotard",
+    "corretta": "C",
+    "numero": 87
+  },
+  {
+    "domanda": "I media sono categorizzati in:",
+    "A": "digitali e mediali",
+    "B": "caldi e freddi",
+    "C": "alti e bassi",
+    "D": "popolari ed elitari",
+    "corretta": "A",
+    "numero": 88
+  },
+  {
+    "domanda": "La stampa a caratteri mobili è stata introdotta da:",
+    "A": "Volta",
+    "B": "Marcuse",
+    "C": "Marconi",
+    "D": "Gutenberg",
+    "corretta": "D",
+    "numero": 89
+  },
+  {
+    "domanda": "Il medium è:",
+    "A": "lo strumento",
+    "B": "il messaggio",
+    "C": "la cultura",
+    "D": "l'individuo",
+    "corretta": "B",
+    "numero": 90
+  },
+  {
+    "domanda": "Il gruppo sociale fondato da Lyotard fu chiamato:",
+    "A": "Potere e popolo",
+    "B": "Potere sociale",
+    "C": "Potere operaio",
+    "D": "Potere proletario",
+    "corretta": "C",
+    "numero": 91
+  },
+  {
+    "domanda": "Le metà narrazioni indicate da Lyotard sono:",
+    "A": "illuminismo, idealismo, storicismo marxista",
+    "B": "lotta di classe, idealismo, storicismo marxista",
+    "C": "illuminismo, capitalismo, industrializzazione",
+    "D": "capitalismo, industrializzazione, globalizzazione",
+    "corretta": "A",
+    "numero": 92
+  },
+  {
+    "domanda": "Il concetto di postmoderno era già presente in:",
+    "A": "filosofia",
+    "B": "arte",
+    "C": "medicina",
+    "D": "ingegneria",
+    "corretta": "B",
+    "numero": 93
+  },
+  {
+    "domanda": "\"La condizione postmoderna\" è stata scritta nel:",
+    "A": "1999",
+    "B": "1979",
+    "C": "1989",
+    "D": "1899",
+    "corretta": "B",
+    "numero": 94
+  },
+  {
+    "domanda": "La paralogia rappresenta:",
+    "A": "opacità",
+    "B": "omologazione",
+    "C": "incoerenza",
+    "D": "dissenso",
+    "corretta": "D",
+    "numero": 95
+  },
+  {
+    "domanda": "Foucault ebbe un forte legame intellettuale con:",
+    "A": "Lyotard",
+    "B": "Heidegger",
+    "C": "Sartre",
+    "D": "Nietzsche",
+    "corretta": "C",
+    "numero": 96
+  },
+  {
+    "domanda": "Le strutture moderne sono:",
+    "A": "ordini di potere repressivo",
+    "B": "ordini di potere onniscienti",
+    "C": "ordini di potere totalizzanti",
+    "D": "ordini di potere accoglienti",
+    "corretta": "A",
+    "numero": 97
+  },
+  {
+    "domanda": "Il dispositivo è:",
+    "A": "un meccanismo istituzionale finalizzato all'esercizio del potere capitalista all'interno del corpo sociale",
+    "B": "un meccanismo culturale finalizzato all'esercizio del potere all'interno del corpo sociale",
+    "C": "un meccanismo istituzionale finalizzato all'esercizio del potere all'interno del corpo sociale",
+    "D": "un meccanismo culturale finalizzato all'esercizio del potere politico all'interno del corpo sociale",
+    "corretta": "C",
+    "numero": 98
+  },
+  {
+    "domanda": "Il termine \"biopolitica\" compare per la prima volta nel volume:",
+    "A": "la nascita della biopolitica",
+    "B": "la volontà di sapere",
+    "C": "la condizione postmoderna",
+    "D": "sorvegliare e punire",
+    "corretta": "B",
+    "numero": 99
+  },
+  {
+    "domanda": "\"Sorvegliare e punire\" è stato scritto nel:",
+    "A": "1988",
+    "B": "1985",
+    "C": "1978",
+    "D": "1975",
+    "corretta": "D",
+    "numero": 100
+  },
+  {
+    "domanda": "Baudrillard critica le teorie:",
+    "A": "economiche e sociologiche del consumo",
+    "B": "economiche e politiche del consumo",
+    "C": "culturali e politiche del consumo",
+    "D": "sociologiche e culturali del consumo",
+    "corretta": "A",
+    "numero": 101
+  },
+  {
+    "domanda": "\"Il sistema degli oggetti\" è stata scritta nel:",
+    "A": "1978",
+    "B": "1988",
+    "C": "1976",
+    "D": "1968",
+    "corretta": "D",
+    "numero": 102
+  },
+  {
+    "domanda": "Il valore segnico è:",
+    "A": "un meccanismo istituzionale finalizzato all'esercizio del potere all'interno del corpo sociale",
+    "B": "un meccanismo culturale finalizzato all'esercizio del potere all'interno del corpo sociale",
+    "C": "un meccanismo istituzionale finalizzato all'esercizio del potere capitalista all'interno del corpo sociale",
+    "D": "un meccanismo culturale finalizzato all'esercizio del potere politico all'interno del corpo sociale",
+    "corretta": "A",
+    "numero": 103
+  },
+  {
+    "domanda": "Il termine \"biopolitica\" compare per la prima volta nel volume:",
+    "A": "il valore che un bene può manifestare all'interno di differenti contesti sociali",
+    "B": "il valore che un bene può acquisire solo all'interno di un dato sistema di oggetti",
+    "C": "il valore che un bene può manifestare solo all'interno di un dato sistema di oggetti",
+    "D": "il valore che un bene può acquisire solo all'interno di un dato lasso di tempo",
+    "corretta": "C",
+    "numero": 104
+  },
+  {
+    "domanda": "L'industria dell'intrattenimento:",
+    "A": "decide i riassetti sociali",
+    "B": "manipola la cultura globale",
+    "C": "planetarizza l'immaginario",
+    "D": "subire le pressioni economiche",
+    "corretta": "A",
+    "numero": 105
+  },
+  {
+    "domanda": "Beck nasce nel:",
+    "A": "1956",
+    "B": "1944",
+    "C": "1950",
+    "D": "1952",
+    "corretta": "B",
+    "numero": 106
+  },
+  {
+    "domanda": "\"La società del rischio\" è stata pubblicata nel:",
+    "A": "1986",
+    "B": "1984",
+    "C": "1987",
+    "D": "1989",
+    "corretta": "A",
+    "numero": 107
+  },
+  {
+    "domanda": "La postmodernità è definita anche:",
+    "A": "seconda modernità",
+    "B": "nuova modernità",
+    "C": "modernità accelerata",
+    "D": "modernità del rischio",
+    "corretta": "A",
+    "numero": 108
+  },
+  {
+    "domanda": "Il capitalismo senza classi:",
+    "A": "massifica le classi sociali",
+    "B": "crea comunità",
+    "C": "isola le classi meno agiate",
+    "D": "isola maggiormente il soggetto",
+    "corretta": "D",
+    "numero": 109
+  },
+  {
+    "domanda": "La teoria della società del rischio è stata formulata da Beck e:",
+    "A": "Foucault",
+    "B": "Lyotard",
+    "C": "Giddens",
+    "D": "Baudrillard",
+    "corretta": "C",
+    "numero": 110
+  },
+  {
+    "domanda": "Nella teoria cyborg:",
+    "A": "natura e tecnologia sono sinonimi",
+    "B": "natura e tecnologia sono divergenti",
+    "C": "natura e tecnologia sono metafore",
+    "D": "natura e tecnologia sono opposti",
+    "corretta": "A",
+    "numero": 111
+  },
+  {
+    "domanda": "L'ente non umano è:",
+    "A": "strumento",
+    "B": "soggetto",
+    "C": "oggetto",
+    "D": "schiavo",
+    "corretta": "C",
+    "numero": 112
+  },
+  {
+    "domanda": "Artificio è sinonimo di:",
+    "A": "liberalizzazione dei corpi",
+    "B": "incatenamento dei corpo",
+    "C": "corruzione dei corpi",
+    "D": "neutralità dei corpi",
+    "corretta": "A",
+    "numero": 113
+  },
+  {
+    "domanda": "Manifesto cyborg è stato scritto nel:",
+    "A": "1984",
+    "B": "1985",
+    "C": "1995",
+    "D": "1993",
+    "corretta": "B",
+    "numero": 114
+  },
+  {
+    "domanda": "Making kin vuol dire:",
+    "A": "generare parentele ampie e prive di confini",
+    "B": "generare parentele biologiche e strutturate",
+    "C": "generare istituzioni coercitive",
+    "D": "generare enti non umani paritari",
+    "corretta": "A",
+    "numero": 115
+  },
+  {
+    "domanda": "Braidotti, in adolescenza, si trasferisce in:",
+    "A": "Francia",
+    "B": "Australia",
+    "C": "Inghilterra",
+    "D": "Germania",
+    "corretta": "B",
+    "numero": 116
+  },
+  {
+    "domanda": "La convergenza postumana è:",
+    "A": "un progetto capitalista",
+    "B": "un progetto sanitario",
+    "C": "un progetto culturale e politico",
+    "D": "un progetto culturale e sanitario",
+    "corretta": "C",
+    "numero": 117
+  },
+  {
+    "domanda": "Il soggetto nomade è:",
+    "A": "un ente transindividuale",
+    "B": "un ente apolide",
+    "C": "un ente ribelle",
+    "D": "un ente capitalizzato",
+    "corretta": "A",
+    "numero": 118
+  },
+  {
+    "domanda": "L'uomo di ragione è un'opera di:",
+    "A": "Braidotti",
+    "B": "Lloyd",
+    "C": "Haraway",
+    "D": "Foucault",
+    "corretta": "B",
+    "numero": 119
+  },
+  {
+    "domanda": "Il capitalismo ha formato un:",
+    "A": "postantropocentrismo capitalizzato",
+    "B": "postantropocentrismo ecologista",
+    "C": "postantropocentrismo dinamico",
+    "D": "postantropocentrismo secondario",
+    "corretta": "A",
+    "numero": 120
+  },
+  {
+    "domanda": "Butler insegna presso l'università di:",
+    "A": "Yale",
+    "B": "Stanford",
+    "C": "Berkely",
+    "D": "Columbia",
+    "corretta": "C",
+    "numero": 121
+  },
+  {
+    "domanda": "La cultura è l'elemento che:",
+    "A": "definisce e delinea ogni elemento della società",
+    "B": "definisce le politiche etiche sociali",
+    "C": "definisce i rapporti istituzionali",
+    "D": "definisce l'identità della comunità",
+    "corretta": "A",
+    "numero": 122
+  },
+  {
+    "domanda": "Atti performativi e costituzione di genere viene pubblicato nel:",
+    "A": "1999",
+    "B": "1998",
+    "C": "1989",
+    "D": "1988",
+    "corretta": "D",
+    "numero": 123
+  },
+  {
+    "domanda": "Il genere è:",
+    "A": "un atto performativo",
+    "B": "solo un elemento biologico",
+    "C": "una caratteristica sanitaria",
+    "D": "un elemento coercitivo",
+    "corretta": "A",
+    "numero": 124
+  },
+  {
+    "domanda": "Butler studierà, tra le altre personalità, anche:",
+    "A": "Kristeva",
+    "B": "Han",
+    "C": "Davis",
+    "D": "Floridi",
+    "corretta": "A",
+    "numero": 125
+  },
+  {
+    "domanda": "Tra i temi di Han vi è:",
+    "A": "indagare la coercizione marxista",
+    "B": "indagare i sistemi politici identitari",
+    "C": "indagare le fratture identitarie della persona",
+    "D": "indagare l'ecoterrorismo",
+    "corretta": "C",
+    "numero": 126
+  },
+  {
+    "domanda": "La società della stanchezza è stato pubblicato nel:",
+    "A": "2012",
+    "B": "2015",
+    "C": "2011",
+    "D": "2009",
+    "corretta": "A",
+    "numero": 127
+  },
+  {
+    "domanda": "Il terrore della non-performatività conduce il soggetto a:",
+    "A": "cronicizzazione dell'antropocentrismo",
+    "B": "inflazione del capitale",
+    "C": "digitalizzazione del sé",
+    "D": "disturbi di salute mentale",
+    "corretta": "D",
+    "numero": 128
+  },
+  {
+    "domanda": "La società senza dolore espone una disamina:",
+    "A": "sulla paura del dolore",
+    "B": "sulla paura dei luoghi",
+    "C": "sulla paura dell'altro",
+    "D": "sulla paura di sé",
+    "corretta": "A",
+    "numero": 129
+  },
+  {
+    "domanda": "Il segreto e la società segreta è un'opera di:",
+    "A": "Han",
+    "B": "Simmel",
+    "C": "Comte",
+    "D": "Pareto",
+    "corretta": "B",
+    "numero": 130
+  },
+  {
+    "domanda": "\"Le origini del totalitarismo\" descrive:",
+    "A": "lo studio scientifico dei regimi totalitari e della loro manifestazione",
+    "B": "lo studio scientifico dei regimi totalitari come metafora del capitalismo",
+    "C": "lo studio scientifico dei regimi totalitari come idealtipo storico",
+    "D": "lo studio scientifico dei regimi totalitari come evento irripetibile della storia sociale",
+    "corretta": "A",
+    "numero": 131
+  },
+  {
+    "domanda": "Eichmann venne processato a:",
+    "A": "Parigi",
+    "B": "New York",
+    "C": "Norimberga",
+    "D": "Gerusalemme",
+    "corretta": "D",
+    "numero": 132
+  },
+  {
+    "domanda": "In \"Vita activa\" si indaga:",
+    "A": "la condizione storico-esistenziale dell'essere umano",
+    "B": "la condizione storico-esistenziale del capitalismo",
+    "C": "la condizione storico-esistenziale della storia umana",
+    "D": "la condizione storico-esistenziale della postmodernità",
+    "corretta": "A",
+    "numero": 133
+  },
+  {
+    "domanda": "\"La banalità del male\" è del:",
+    "A": "1943",
+    "B": "1963",
+    "C": "1956",
+    "D": "1971",
+    "corretta": "B",
+    "numero": 134
+  },
+  {
+    "domanda": "\"La banalità del male\" è stato criticato, tra gli altri, da:",
+    "A": "Marcuse",
+    "B": "Anders",
+    "C": "Scholem",
+    "D": "Adorno",
+    "corretta": "C",
+    "numero": 135
+  },
+  {
+    "domanda": "Una macchina può pensare è un articolo di:",
+    "A": "Moore",
+    "B": "McCarthy",
+    "C": "Weisenbaum",
+    "D": "Turing",
+    "corretta": "D",
+    "numero": 136
+  },
+  {
+    "domanda": "Searle introduce i concetti di:",
+    "A": "IA forte e debole",
+    "B": "IA calda e fredda",
+    "C": "IA analogica e digitale",
+    "D": "IA veloce e lenta",
+    "corretta": "A",
+    "numero": 137
+  },
+  {
+    "domanda": "La rottura biologica è data dagli studi di:",
+    "A": "Copernico",
+    "B": "Darwin",
+    "C": "Floridi",
+    "D": "Cartesio",
+    "corretta": "B",
+    "numero": 138
+  },
+  {
+    "domanda": "Il chatterbot di Weisenbaum si chiama:",
+    "A": "Elsa",
+    "B": "Sarah",
+    "C": "Eliza",
+    "D": "Selma",
+    "corretta": "C",
+    "numero": 139
+  },
+  {
+    "domanda": "IoT sta per:",
+    "A": "Internet of Things",
+    "B": "Internet of Theories",
+    "C": "Intelligence of Things",
+    "D": "Internet of Tech",
+    "corretta": "A",
+    "numero": 140
+  },
+  {
+    "domanda": "Kimmel afferma che il genere è:",
+    "A": "un elemento sociale radicato nelle istituzioni comunitarie",
+    "B": "un elemento prettamente biologico",
+    "C": "un elemento costitutivo dalla modernità",
+    "D": "un elemento legato alla sfera sanitaria e politica",
+    "corretta": "A",
+    "numero": 141
+  },
+  {
+    "domanda": "L'identità di genere è:",
+    "A": "il ruolo sociale",
+    "B": "il dato biologico",
+    "C": "la percezione del sé",
+    "D": "una costruzione culturale",
+    "corretta": "C",
+    "numero": 142
+  },
+  {
+    "domanda": "La scuola de-costruzionista mira a risolvere i dibattiti legati al genere:",
+    "A": "con lo scardinamento delle imposizioni istituzionali e culturali",
+    "B": "con la decostruzione della cultura",
+    "C": "con la costruzione di un ordine storico-sociale Occidentale",
+    "D": "con la centralitùà della biologia e la decostruzione dei saperi",
+    "corretta": "A",
+    "numero": 143
+  },
+  {
+    "domanda": "Uno stereotipo di genere è:",
+    "A": "una visione generalizzata o un preconcetto prodotto e applicato culturalmente",
+    "B": "una costruzione funzionale all'ordine sociale",
+    "C": "un preconcetto ideologico",
+    "D": "una costruzione liberatoria",
+    "corretta": "A",
+    "numero": 144
+  },
+  {
+    "domanda": "Il racconto dell'ancella è un'opera di:",
+    "A": "Davis",
+    "B": "Irigaray",
+    "C": "Butler",
+    "D": "Atwood",
+    "corretta": "D",
+    "numero": 145
+  },
+  {
+    "domanda": "Il corpo può essere considerato come:",
+    "A": "costruzione collettiva",
+    "B": "ente a sé stante",
+    "C": "pura manifestazione biologica",
+    "D": "costrutto sanitario",
+    "corretta": "A",
+    "numero": 146
+  },
+  {
+    "domanda": "Il corpo, in sociologia, assume anche il ruolo di:",
+    "A": "narrazione biografica della persona",
+    "B": "ente a sé stante",
+    "C": "pura manifestazione biologica",
+    "D": "costrutto sanitario",
+    "corretta": "A",
+    "numero": 147
+  },
+  {
+    "domanda": "Tecniche del corpo è una formula coniata da:",
+    "A": "Braidotti",
+    "B": "Butler",
+    "C": "Mauss",
+    "D": "Haraway",
+    "corretta": "C",
+    "numero": 148
+  },
+  {
+    "domanda": "Mary Douglas ha indagato come il corpo organico sia un riflesso:",
+    "A": "della globalizzazione",
+    "B": "dei paradigmi etici",
+    "C": "della morale cattolica",
+    "D": "delle costruzioni sociali",
+    "corretta": "D",
+    "numero": 149
+  },
+  {
+    "domanda": "Sassatelli delinea cinque elementi per la corporeità nel:",
+    "A": "2021",
+    "B": "2018",
+    "C": "2008",
+    "D": "2001",
+    "corretta": "B",
+    "numero": 150
+  },
+  {
+    "domanda": "Hoffmann suggerisce di sostituire il termine medicalizzazione con quello di:",
+    "A": "sovradiagnosi",
+    "B": "farmacologizzazione",
+    "C": "sanitarizzazione",
+    "D": "ospedalizzazione",
+    "corretta": "A",
+    "numero": 151
+  },
+  {
+    "domanda": "Il concetto di dominanza medica è stato introdotto da:",
+    "A": "Zola",
+    "B": "Hoffmann",
+    "C": "Freidson",
+    "D": "Shim",
+    "corretta": "C",
+    "numero": 152
+  },
+  {
+    "domanda": "Zola afferma che la medicina è divenuta:",
+    "A": "un regime univoco",
+    "B": "una istituzione totale",
+    "C": "una costruzione capitalista",
+    "D": "una manifestazione incorporea",
+    "corretta": "B",
+    "numero": 153
+  },
+  {
+    "domanda": "Nemesi media è un'opera di:",
+    "A": "Shim",
+    "B": "Zola",
+    "C": "Freidson",
+    "D": "Illich",
+    "corretta": "D",
+    "numero": 154
+  },
+  {
+    "domanda": "La molecolarità è dovuta dalla diffusione di:",
+    "A": "tecnomedicina",
+    "B": "capitalismo",
+    "C": "globalizzazione",
+    "D": "media digitali",
+    "corretta": "A",
+    "numero": 155
+  },
+  {
+    "domanda": "Il termine biopolitica è stato coniato da:",
+    "A": "Han",
+    "B": "Sartre",
+    "C": "Foucault",
+    "D": "Lyotard",
+    "corretta": "C",
+    "numero": 156
+  },
+  {
+    "domanda": "L'intento ultimo del sistema biopolitico è l'attuazione del processo di «normalizzazione». Sono parole di:",
+    "A": "Heller",
+    "B": "Foucault",
+    "C": "Huxley",
+    "D": "Beck",
+    "corretta": "A",
+    "numero": 157
+  },
+  {
+    "domanda": "Sistema di politica positiva è un'opera di:",
+    "A": "Heller",
+    "B": "Foucault",
+    "C": "Haraway",
+    "D": "Comte",
+    "corretta": "D",
+    "numero": 158
+  },
+  {
+    "domanda": "Psicopolitica è un termine coniato da:",
+    "A": "Heller",
+    "B": "Han",
+    "C": "Huxley",
+    "D": "Lyotard",
+    "corretta": "B",
+    "numero": 159
+  },
+  {
+    "domanda": "Tra i campi di intervento della biopolitica non rientra:",
+    "A": "arte",
+    "B": "natalità",
+    "C": "morbilità",
+    "D": "ambiente",
+    "corretta": "A",
+    "numero": 160
+  },
+  {
+    "domanda": "La popolazione mondiale stimata al 2021 è pari a:",
+    "A": "7 miliardi",
+    "B": "oltre gli 8 miliardi",
+    "C": "meno di 8 miliardi",
+    "D": "9 miliardi",
+    "corretta": "C",
+    "numero": 161
+  },
+  {
+    "domanda": "Saggio sul principio di popolazione è di:",
+    "A": "Malthus",
+    "B": "Foucault",
+    "C": "Butler",
+    "D": "Zola",
+    "corretta": "A",
+    "numero": 162
+  },
+  {
+    "domanda": "I freni repressivi sono:",
+    "A": "aumento della mortalità",
+    "B": "diminuzione della mortalità",
+    "C": "stabilizzazione della mortalità",
+    "D": "aumento della sanità pubblica",
+    "corretta": "A",
+    "numero": 163
+  },
+  {
+    "domanda": "Al controllo di mortalità e fecondità corrisponde:",
+    "A": "l'esplosione demografica",
+    "B": "il declino della fecondità",
+    "C": "la transizione demografica",
+    "D": "la stagnazione demografica",
+    "corretta": "D",
+    "numero": 164
+  },
+  {
+    "domanda": "Per comprendere l'accelerazione della popolazione si ricorre alla teoria:",
+    "A": "della transizione democrafica",
+    "B": "del declino della fecondità",
+    "C": "della transizione demografica",
+    "D": "dell'esplosione demografica",
+    "corretta": "A",
+    "numero": 165
+  },
+  {
+    "domanda": "La caduta delle Torri Gemelle è avvenuta nel:",
+    "A": "2003",
+    "B": "2011",
+    "C": "2001",
+    "D": "2010",
+    "corretta": "C",
+    "numero": 166
+  },
+  {
+    "domanda": "L'occupazione di piazza Tahrir è avvenuta nel:",
+    "A": "2009",
+    "B": "2001",
+    "C": "2010",
+    "D": "2011",
+    "corretta": "D",
+    "numero": 167
+  },
+  {
+    "domanda": "Con la globalizzazione nasce:",
+    "A": "l'impresa transnazionale",
+    "B": "la stampa",
+    "C": "la digitalizzazione",
+    "D": "internet",
+    "corretta": "A",
+    "numero": 168
+  },
+  {
+    "domanda": "I paesi occidentali agirono capillarmente nella conquista e depauperamento di zone occupate da società tradizionali tramite il modello del colonialismo nei secoli:",
+    "A": "XV-XVIII",
+    "B": "XVI-XIX",
+    "C": "XVI-XVII",
+    "D": "XIV-XIX",
+    "corretta": "B",
+    "numero": 169
+  },
+  {
+    "domanda": "Le prime tracce di globalizzazione si trovano:",
+    "A": "la produzione meccanizzata",
+    "B": "stampa",
+    "C": "radio",
+    "D": "digitalizzazione",
+    "corretta": "A",
+    "numero": 170
+  },
+  {
+    "domanda": "Il costruttivismo sostiene che ogni elemento della società possa essere catalogato come:",
+    "A": "costrutto culturale",
+    "B": "paradigma oggettivato",
+    "C": "principio culturale",
+    "D": "ente non umano",
+    "corretta": "A",
+    "numero": 171
+  },
+  {
+    "domanda": "L'approccio pluralista è caratterizzato da:",
+    "A": "variabilità, integrazione, multidimensione",
+    "B": "variabilità, interazione, multidimensione",
+    "C": "variabilità, integrazione, multimodale",
+    "D": "veridicità, integrazione, multidimensione",
+    "corretta": "A",
+    "numero": 172
+  },
+  {
+    "domanda": "Logica della scoperta scientifica è un'opera di:",
+    "A": "Zola",
+    "B": "Foucault",
+    "C": "Strauss",
+    "D": "Popper",
+    "corretta": "D",
+    "numero": 173
+  },
+  {
+    "domanda": "Le storie di vita sono:",
+    "A": "paradigmi della ricerca qualitativa",
+    "B": "ricostruzioni statistiche",
+    "C": "episodi biografici",
+    "D": "strumento quantitativo",
+    "corretta": "C",
+    "numero": 174
+  },
+  {
+    "domanda": "La cluster analysis appartiene:",
+    "A": "al metodo strutturale",
+    "B": "al metodo biografico",
+    "C": "al metodo deduttivo",
+    "D": "al metodo fenomenologico",
+    "corretta": "A",
+    "numero": 175
+  },
+  {
+    "domanda": "La GT nasce nel:",
+    "A": "1977",
+    "B": "1976",
+    "C": "1967",
+    "D": "1979",
+    "corretta": "C",
+    "numero": 176
+  },
+  {
+    "domanda": "La GT è definita anche:",
+    "A": "teoria emergente",
+    "B": "teoria nascente",
+    "C": "teoria empirica",
+    "D": "teoria della qualità",
+    "corretta": "A",
+    "numero": 177
+  },
+  {
+    "domanda": "Teoria e struttura sociale è un'opera di:",
+    "A": "Zola",
+    "B": "Glaser",
+    "C": "Strauss",
+    "D": "Merton",
+    "corretta": "D",
+    "numero": 178
+  },
+  {
+    "domanda": "Le istanze della GT sono:",
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "D": "3",
+    "corretta": "B",
+    "numero": 179
+  },
+  {
+    "domanda": "La GT costruttivista è stata introdotta da:",
+    "A": "Charmaz",
+    "B": "Merton",
+    "C": "Glaser",
+    "D": "Zola",
+    "corretta": "A",
+    "numero": 180
+  },
+  {
+    "domanda": "La netnografia è stata sviluppata da:",
+    "A": "Kozinets",
+    "B": "Lupton",
+    "C": "Merton",
+    "D": "Glaser",
+    "corretta": "A",
+    "numero": 181
+  },
+  {
+    "domanda": "Il primo punto per la strutturazione di una ricerca è:",
+    "A": "metodologia",
+    "B": "interstizio teorico",
+    "C": "ricerca bibliografica",
+    "D": "selezione strumenti di ricerca",
+    "corretta": "C",
+    "numero": 182
+  },
+  {
+    "domanda": "Le principali strategie di accesso al campo sono:",
+    "A": "covert e overt",
+    "B": "in e out",
+    "C": "up e down",
+    "D": "hot e cold",
+    "corretta": "A",
+    "numero": 183
+  },
+  {
+    "domanda": "Per la netnografia, i dispositivi digitali sono:",
+    "A": "ecosistema dei processi mediali",
+    "B": "costrutti tecnologici",
+    "C": "paradigmi morali",
+    "D": "oggetti neutrali",
+    "corretta": "A",
+    "numero": 184
+  },
+  {
+    "domanda": "Le fasi di manifestazione sono:",
+    "A": "4",
+    "B": "2",
+    "C": "3",
+    "D": "6",
+    "corretta": "C",
+    "numero": 185
+  },
+  {
+    "domanda": "Il concetto di ritardo culturale è stato introdotto da:",
+    "A": "Butler",
+    "B": "Foucault",
+    "C": "Haraway",
+    "D": "Ogburn",
+    "corretta": "D",
+    "numero": 186
+  },
+  {
+    "domanda": "STS nasce come campo di ricerca negli anni:",
+    "A": "70",
+    "B": "80",
+    "C": "90",
+    "D": "60",
+    "corretta": "A",
+    "numero": 187
+  },
+  {
+    "domanda": "Il principio di falsificazione è attribuito a:",
+    "A": "Weber",
+    "B": "Marx",
+    "C": "Popper",
+    "D": "Ogburn",
+    "corretta": "C",
+    "numero": 188
+  },
+  {
+    "domanda": "I principi metodologici della Scuola di Edimburgo sono:",
+    "A": "6",
+    "B": "4",
+    "C": "3",
+    "D": "5",
+    "corretta": "B",
+    "numero": 189
+  },
+  {
+    "domanda": "L'ANT è stata introdotta da:",
+    "A": "Latour",
+    "B": "Popper",
+    "C": "Pinch",
+    "D": "Woolgar",
+    "corretta": "A",
+    "numero": 190
+  }
+]
