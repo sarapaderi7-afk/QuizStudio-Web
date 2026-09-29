@@ -1,0 +1,1262 @@
+[
+  {
+    "domanda": "Generare utilità non solo per gli shareholder, ma anche per gli stakeholder esterni all'impresa. E' il cosiddetto modello gestionale:",
+    "A": "chiuso all'esterno",
+    "B": "aperto all'esterno",
+    "C": "difensivo",
+    "D": "operativo",
+    "corretta": "B",
+    "numero": 1
+  },
+  {
+    "domanda": "Una gestione imprenditoriale moderna punta ad ottenere:",
+    "A": "profitto ed instabilità dell'azienda",
+    "B": "soltanto il profitto aziendale",
+    "C": "profitto e stabilità aziendale",
+    "D": "soltanto la stabilità aziendale",
+    "corretta": "C",
+    "numero": 2
+  },
+  {
+    "domanda": "Una organizzazione volta esclusivamente alla produzione di beni e/o servizi di pubblico interesse è definizione calzante per:",
+    "A": "un'impresa privata",
+    "B": "una pubblica amministrazione",
+    "C": "una società per azioni",
+    "D": "un ente religioso",
+    "corretta": "B",
+    "numero": 3
+  },
+  {
+    "domanda": "Un obiettivo di un'impresa moderna deve essere anche quello di:",
+    "A": "opporsi a possibili cambiamenti",
+    "B": "resistere sul mercato senza adattarsi ai cambiamenti esterni",
+    "C": "rallentare possibili processi di cambiamento",
+    "D": "anticipare ed adattarsi a possibili cambiamenti ambientali o economici",
+    "corretta": "D",
+    "numero": 4
+  },
+  {
+    "domanda": "Shareholder e stakeholder per un'azienda :",
+    "A": "sono sinonimi",
+    "B": "shareholder sono i portatori di interesse esterni o interni mentre stakeholder sono i proprietari",
+    "C": "shareholder sono i proprietari e stakeholder sono i portatori di interesse esterni o interni",
+    "D": "sono concetti assai simili",
+    "corretta": "C",
+    "numero": 5
+  },
+  {
+    "domanda": "Il tema dell'impatto della presenza di un'impresa su un dato territorio vede coinvolti prevalentemente:",
+    "A": "gli azionisti",
+    "B": "i dipendenti",
+    "C": "gli stakeholder esterni",
+    "D": "gli stakeholder interni",
+    "corretta": "C",
+    "numero": 6
+  },
+  {
+    "domanda": "I rappresentanti di una determinata comunità locale sono per un azienda che opera su un dato territorio:",
+    "A": "shareholder",
+    "B": "stakeholder interni",
+    "C": "partner",
+    "D": "stakeholder esterni",
+    "corretta": "D",
+    "numero": 7
+  },
+  {
+    "domanda": "La capacità di valorizzare le differenze rappresenta per un'azienda moderna:",
+    "A": "un tema lontano e poco rilevante",
+    "B": "un fattore di rischio",
+    "C": "un fattore di insuccesso",
+    "D": "un tema attuale e non rinviabile",
+    "corretta": "D",
+    "numero": 8
+  },
+  {
+    "domanda": "Analizzare, gestire e valorizzare le differenze in azienda, è il cosiddetto:",
+    "A": "diversity process",
+    "B": "diversity option",
+    "C": "diversity management",
+    "D": "diversity need",
+    "corretta": "C",
+    "numero": 9
+  },
+  {
+    "domanda": "La capacità di integrare le competenze di giovani ed anziani rappresenta, in azienda:",
+    "A": "un'opportunità di successo",
+    "B": "un fattore di rischio",
+    "C": "un opportunità di decrescita",
+    "D": "un fattore di incertezza",
+    "corretta": "A",
+    "numero": 10
+  },
+  {
+    "domanda": "La programmazione operativa rappresenta per un'azienda:",
+    "A": "la fase di programmazione di breve termine",
+    "B": "la fase di programmazione di bilancio",
+    "C": "la fase di programmazione di lungo termine",
+    "D": "la fase di programmazione finanziaria",
+    "corretta": "A",
+    "numero": 11
+  },
+  {
+    "domanda": "Programmazione operativa e programmazione strategica:",
+    "A": "la seconda discende dalla prima",
+    "B": "la prima discende dalla seconda",
+    "C": "sono due aspetti tra loro non correlati",
+    "D": "sono due aspetti tra loro alternativi",
+    "corretta": "B",
+    "numero": 12
+  },
+  {
+    "domanda": "Nell'ambito dei processi di business, la gestione degli approvvigionamenti è tra le:",
+    "A": "attività di supporto",
+    "B": "attività accessorie",
+    "C": "attività di staff",
+    "D": "attività primarie",
+    "corretta": "A",
+    "numero": 13
+  },
+  {
+    "domanda": "Le quattro fasi di vita di un'azienda sono:",
+    "A": "crescita, maturità,declino e decesso",
+    "B": "nascita,crescita,maturità, e decesso",
+    "C": "nascita,crescita, declino e decesso",
+    "D": "nascita, sviluppo,maturità e declino",
+    "corretta": "D",
+    "numero": 14
+  },
+  {
+    "domanda": "Nell'ambito dei processi di business, la gestione dei servizi post vendita è tra le:",
+    "A": "attività di supporto",
+    "B": "attività accessorie",
+    "C": "attività di staff",
+    "D": "attività primarie",
+    "corretta": "D",
+    "numero": 15
+  },
+  {
+    "domanda": "La capacità di spingere il cliente ad incrementare e rinnovare spesso l'acquisto di beni ad elevato contenuto tecnologico si definisce:",
+    "A": "technology imprinting",
+    "B": "technology influence",
+    "C": "technology opportunity",
+    "D": "technology push",
+    "corretta": "D",
+    "numero": 16
+  },
+  {
+    "domanda": "La Customer satisfaction:",
+    "A": "è sinonimo di centralità del cliente",
+    "B": "è concetto più limitato della \"centralità del cliente\"",
+    "C": "è concetto più ampio della \"centralità del cliente\"",
+    "D": "è sinonimo di \"customer care\"",
+    "corretta": "B",
+    "numero": 17
+  },
+  {
+    "domanda": "Le indagini di Customer satisfaction sono necessarie:",
+    "A": "solo nelle aziende private",
+    "B": "solo nelle Pubbliche amministrazioni",
+    "C": "né nelle aziende private né nelle Pubbliche amministrazioni",
+    "D": "sia nelle aziende private che nelle Pubbliche amministrazioni",
+    "corretta": "D",
+    "numero": 18
+  },
+  {
+    "domanda": "Si definisce \"prosumer\" un cliente moderno, la cui opinione:",
+    "A": "concorre alla definizione delle campagne di marketing aziendali",
+    "B": "concorre alla distribuzione dei prodotti aziendali",
+    "C": "concorre alla definizione del prezzo dei beni o dei servizi",
+    "D": "concorre anche alla scelta di nuovi beni o servizi da immettere sul mercato da parte dell'azienda",
+    "corretta": "D",
+    "numero": 19
+  },
+  {
+    "domanda": "Il cliente moderno, rispetto al passato, tende ad essere in genere:",
+    "A": "particolarmente fedele all'azienda ed ai suoi prodotti",
+    "B": "meno fedele all'azienda ed ai suoi prodotti",
+    "C": "meno orientato al cambiameto",
+    "D": "più stabile nelle preferenze di acquisto",
+    "corretta": "D",
+    "numero": 20
+  },
+  {
+    "domanda": "Le più complete e moderne dimensioni della qualità sono:",
+    "A": "qualità implicita, esplicita e latente",
+    "B": "qualità implicita ed esplicita",
+    "C": "qualità esplicita e latente",
+    "D": "qualità implicita e latente",
+    "corretta": "A",
+    "numero": 21
+  },
+  {
+    "domanda": "La tempestività nella risposta ai reclami è tra i cosiddetti servizi:",
+    "A": "prevendita",
+    "B": "post vendita",
+    "C": "ante vendita",
+    "D": "intorno alla vendita",
+    "corretta": "B",
+    "numero": 22
+  },
+  {
+    "domanda": "La tempestività nell'assistenza è tra i cosiddetti servizi:",
+    "A": "prevendita",
+    "B": "post vendita",
+    "C": "ante vendita",
+    "D": "intorno alla vendita",
+    "corretta": "B",
+    "numero": 23
+  },
+  {
+    "domanda": "Quale tra le seguenti affermazioni è più convincente:",
+    "A": "capacità di innovazione e flessibilità sono sinonimi",
+    "B": "la flessibilità è un concetto più ampio di quello di innovazione",
+    "C": "la flessibilità comporta inevitabilmente innovazione",
+    "D": "la capacità di innovazione è un concetto più ampio della flessibilità",
+    "corretta": "D",
+    "numero": 24
+  },
+  {
+    "domanda": "Il tema della centralità del cliente:",
+    "A": "riguarda solo le grandi aziende",
+    "B": "riguarda solo le piccole imprese",
+    "C": "riguarda le aziende di qualsiasi dimensione",
+    "D": "riguarda prevalentemente le grandi aziende",
+    "corretta": "C",
+    "numero": 25
+  },
+  {
+    "domanda": "Il rapporto tra attivo circolante e totale degli impieghi esprime:",
+    "A": "il grado di elasticità patrimoniale",
+    "B": "il grado di rigidità aziendale",
+    "C": "il grado di rigidità patrimoniale",
+    "D": "il grado di liquidità patrimoniale",
+    "corretta": "A",
+    "numero": 26
+  },
+  {
+    "domanda": "Il rapporto tra capitale di prestito e capitale investito complessivo esprime:",
+    "A": "il grado di autonomia finanziaria",
+    "B": "il grado di dipendenza finanziaria",
+    "C": "il grado di liquidità totale",
+    "D": "il grado di liquidità immediata",
+    "corretta": "B",
+    "numero": 27
+  },
+  {
+    "domanda": "Per \"mezzi propri\" si intende:",
+    "A": "il capitale di rischio apportato dagli imprenditori o dagli azionisti",
+    "B": "il capitale di debito",
+    "C": "sia il capitale di rischio che il capitale di debito",
+    "D": "i capitali presi a prestito",
+    "corretta": "A",
+    "numero": 28
+  },
+  {
+    "domanda": "Il totale delle fonti di finanziamento è dato da:",
+    "A": "mezzi propri più passività a breve termine",
+    "B": "mezzi propri più passività a medio lungo termine",
+    "C": "passività a breve più passività a medio lungo termine",
+    "D": "mezzi propri più passività a breve più passività a medio lungo termine",
+    "corretta": "D",
+    "numero": 29
+  },
+  {
+    "domanda": "La rigidità patrimoniale è rappresentata da un alto valore del rapporto tra:",
+    "A": "attivo circolante e totale impieghi",
+    "B": "attivo fisso e totale impieghi",
+    "C": "totale impieghi ed attivo circolante",
+    "D": "totale impieghi e totale fonti",
+    "corretta": "B",
+    "numero": 30
+  },
+  {
+    "domanda": "La redditività del solo capitale di rischio è espressa dal:",
+    "A": "ROI",
+    "B": "ROE",
+    "C": "ROS",
+    "D": "ROA",
+    "corretta": "B",
+    "numero": 31
+  },
+  {
+    "domanda": "In genere l'imprea punta ad avere un ROE:",
+    "A": "inferiore ai rendimenti attesi di investimenti alternativi privi di rischio",
+    "B": "inferiore ai rendimenti dei titoli di Stato",
+    "C": "superiore ai rendimenti attesi di investimenti alternativi privi di rischio",
+    "D": "almeno pari al 20%",
+    "corretta": "C",
+    "numero": 32
+  },
+  {
+    "domanda": "Se l'utile netto è pari a 1.000 ed i mezzi propri sono pari a 20.000 il ROE è del:",
+    "A": "10%",
+    "B": "20%",
+    "C": "15%",
+    "D": "5%",
+    "corretta": "D",
+    "numero": 33
+  },
+  {
+    "domanda": "Quale delle seguenti gestioni non incide sul ROI:",
+    "A": "la gestione operativa",
+    "B": "la gestione extra-operativa",
+    "C": "la gestione finanziaria",
+    "D": "tutte le gestioni incidono sul ROE",
+    "corretta": "D",
+    "numero": 34
+  },
+  {
+    "domanda": "La parte di utile netto che non si intende distribuire è data dal rapporto tra:",
+    "A": "utile a riserva e mezzi propri",
+    "B": "utile a riserva e capitale di prestito",
+    "C": "utile distribuibile e mezzi propri",
+    "D": "utile distribuibile e capitale di prestito",
+    "corretta": "B",
+    "numero": 35
+  },
+  {
+    "domanda": "Quale delle seguenti gestioni va esclusa ai fini della determinazione del Roe normalizzato:",
+    "A": "la gestione straordinaria",
+    "B": "la gestione operativa",
+    "C": "la gestione caratteristica",
+    "D": "la gestione extraoperativa",
+    "corretta": "A",
+    "numero": 36
+  },
+  {
+    "domanda": "La valenza informativa del Roi è relativa:",
+    "A": "alla sola redditività del capitale di rischio",
+    "B": "alla redditività del solo capitale di prestito",
+    "C": "alla redditività del capitale investito nel suo complesso",
+    "D": "alla redditività dell'attivo circolante",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "Se l'utile operativo è di un milione di euro rispetto ad un capitale investito di quattro milioni di euro il ROI è pari:",
+    "A": "al 25 %",
+    "B": "al 30 %",
+    "C": "al 5 %",
+    "D": "al 20 %",
+    "corretta": "A",
+    "numero": 38
+  },
+  {
+    "domanda": "Ai fini del corretto calcolo del Roi medio annuale, occorre fare riferimento al:",
+    "A": "capitale di rischio di fine anno",
+    "B": "capitale investito ad inizio anno",
+    "C": "al capitale investito medio ponderato",
+    "D": "al capitale investito medio riclassificato",
+    "corretta": "C",
+    "numero": 39
+  },
+  {
+    "domanda": "Se l'utile operativo è di un milione di euro rispetto ad un capitale investito di dieci imilioni di euro il ROI è pari:",
+    "A": "al 25 %",
+    "B": "al 30 %",
+    "C": "al 10 %",
+    "D": "al 20 %",
+    "corretta": "C",
+    "numero": 40
+  },
+  {
+    "domanda": "La redditività degli impieghi è misurata dal:",
+    "A": "return on equities(ROE)",
+    "B": "return on activities(ROA)",
+    "C": "capital turnover",
+    "D": "return on sales (ROS)",
+    "corretta": "B",
+    "numero": 41
+  },
+  {
+    "domanda": "Una gestione del tutto imprevedbile e legata a fatti di gestione imprevisti è la:",
+    "A": "attività operativa",
+    "B": "attività tributaria",
+    "C": "attività straordinaria",
+    "D": "attività extra-operativa",
+    "corretta": "C",
+    "numero": 42
+  },
+  {
+    "domanda": "Per un'impresa di servizi informatici, una eventuale attività di gestione immobiliare si definisce:",
+    "A": "attività operativa",
+    "B": "attività tributaria",
+    "C": "attività straordinaria",
+    "D": "attività extra-operativa",
+    "corretta": "D",
+    "numero": 43
+  },
+  {
+    "domanda": "Il risultato di tutte le gestioni accessorie è misurato dal:",
+    "A": "Roi caratteristico",
+    "B": "Roi operativo",
+    "C": "Roi finanziario",
+    "D": "Roi extra-operativo",
+    "corretta": "D",
+    "numero": 44
+  },
+  {
+    "domanda": "Per un'impresa di servizi informatici, l'attività legata proprio a tale settore si definisce:",
+    "A": "attività operativa",
+    "B": "attività tributaria",
+    "C": "attività straordinaria",
+    "D": "attività extra-operativa",
+    "corretta": "A",
+    "numero": 45
+  },
+  {
+    "domanda": "Se il ROI è inferiore al tasso al quale l'azienda si indebita si avrà:",
+    "A": "un effetto leva finanziaria negativa",
+    "B": "un effetto leva operativa negativa",
+    "C": "un effetto leva finanziaria positiva",
+    "D": "un effetto leva operativa positiva",
+    "corretta": "A",
+    "numero": 46
+  },
+  {
+    "domanda": "Se il ROI è superiore al tasso al quale l'azienda si indebita si avrà:",
+    "A": "un effetto leva finanziaria negativa",
+    "B": "un effetto leva operativa negativa",
+    "C": "un effetto leva finanziaria positiva",
+    "D": "un effetto leva operativa positiva",
+    "corretta": "D",
+    "numero": 47
+  },
+  {
+    "domanda": "Quando il capitale di rischio investito nell'azienda è troppo modesto si parla di impresa:",
+    "A": "sottodimensionata",
+    "B": "sottostrutturata",
+    "C": "sottoutilizzata",
+    "D": "sottocapitalizzata",
+    "corretta": "D",
+    "numero": 48
+  },
+  {
+    "domanda": "Se il ROI è superiore al tasso al quale l'azienda si indebita l'effetto sarà che:",
+    "A": "il Roe cresce al crescere dei finanziamenti",
+    "B": "il Roe decresce al crescere dei finanziamenti",
+    "C": "non ci sono effetti sul Roe al crescere dei finanziamenti",
+    "D": "non ci sono effetti sul Roe al decrescere dei finanziamenti",
+    "corretta": "A",
+    "numero": 49
+  },
+  {
+    "domanda": "Se il Roi è inferiore al tasso al quale l'impresa si indebita l'effetto sarà che:",
+    "A": "il Roe cresce al crescere dei finanziamenti",
+    "B": "il Roe decresce al crescere dei finanziamenti",
+    "C": "non ci sono effetti sul Roe al crescere dei finanziamenti",
+    "D": "non ci sono effetti sul Roe al decrescere dei finanziamenti",
+    "corretta": "B",
+    "numero": 50
+  },
+  {
+    "domanda": "Per ottenere effetti positivi sul ROI occorre incidere su:",
+    "A": "ROS o capital turnover",
+    "B": "ROA o capital turnover",
+    "C": "ROS o capital market",
+    "D": "ROA o capital market",
+    "corretta": "A",
+    "numero": 51
+  },
+  {
+    "domanda": "La redditività delle vendite è espressa da un indicatore detto:",
+    "A": "ROI",
+    "B": "ROS",
+    "C": "ROA",
+    "D": "RONA",
+    "corretta": "B",
+    "numero": 52
+  },
+  {
+    "domanda": "Se il ROS è pari al 20 % ed il capital turnover a 2, conseguentemente il ROI è pari a:",
+    "A": "80%",
+    "B": "60%",
+    "C": "40%",
+    "D": "20%",
+    "corretta": "C",
+    "numero": 53
+  },
+  {
+    "domanda": "Aziende che operano su grandi volumi di vendita di beni di prezzo unitario molto basso, verosimilmente per migliorare il ROI punteranno:",
+    "A": "ad aumentare il capital turnover",
+    "B": "ad aumentare il ROE",
+    "C": "ad aumentare il ROS",
+    "D": "ad aumentare il ROA",
+    "corretta": "A",
+    "numero": 54
+  },
+  {
+    "domanda": "Si tende a dire rispetto ad efficacia ed efficienza, che:",
+    "A": "agire sul Ros attiene all'efficacia, agire sul capital turnover è tema di efficienza",
+    "B": "agire sul Ros attiene all'efficienza, agire sul capital turnover è tema di efficacia",
+    "C": "Ros e capital turmver sono variabili entrambe legate alla dimensone dell'efficienza",
+    "D": "Ros e capital turnover sono variabili entrambe legate alla dimensione dell'efficacia",
+    "corretta": "D",
+    "numero": 55
+  },
+  {
+    "domanda": "Se l'utile operativo è pari a 5.000 ed il capitale operativo a 20.000 il Roi è pari al:",
+    "A": "10%",
+    "B": "20%",
+    "C": "25%",
+    "D": "15%",
+    "corretta": "C",
+    "numero": 56
+  },
+  {
+    "domanda": "Se l'utile operativo è pari a 10.000 ed il capitale operativo a 50.000 il Roi è pari al:",
+    "A": "10%",
+    "B": "20%",
+    "C": "25%",
+    "D": "15%",
+    "corretta": "B",
+    "numero": 57
+  },
+  {
+    "domanda": "Se un'azienda ha un Ros del 30% ed un'altra del 20% ne consegue che:",
+    "A": "la seconda è più efficace della prima",
+    "B": "la prima è più efficace della seconda",
+    "C": "la seconda è più efficiente della prima",
+    "D": "la prima è più efficiente della seconda",
+    "corretta": "D",
+    "numero": 58
+  },
+  {
+    "domanda": "Se un'azienda ha un capital turnover di 2,8 ed un'altra di 1,8 ne consegue che:",
+    "A": "la seconda è più efficace della prima",
+    "B": "la prima è più efficace della seconda",
+    "C": "la seconda è più efficiente della prima",
+    "D": "la prima è più efficiente della seconda",
+    "corretta": "B",
+    "numero": 59
+  },
+  {
+    "domanda": "Se un'azienda presenta nell'anno 1 Ros 25% capital turnover 1,5 e nel secondo anno Ros 20% e capital turnover 2 il Roi del secondo anno, rispetto al primo:",
+    "A": "rimane invariato",
+    "B": "diminuisce",
+    "C": "si azzera",
+    "D": "aumenta",
+    "corretta": "D",
+    "numero": 60
+  },
+  {
+    "domanda": "Sottraendo al valore aggiunto i costi interni si ottiene:",
+    "A": "l'utile netto",
+    "B": "il valore aggiunto",
+    "C": "il margine negativo",
+    "D": "il margine operativo",
+    "corretta": "A",
+    "numero": 61
+  },
+  {
+    "domanda": "Una struttura di costi flessibile è quella in cui prevalgono:",
+    "A": "i costi fissi",
+    "B": "i costi variabili",
+    "C": "i costi per materie prime",
+    "D": "i costi per semilavorati",
+    "corretta": "B",
+    "numero": 62
+  },
+  {
+    "domanda": "Il margine di contribuzione è dato dalla differenza tra:",
+    "A": "fatturato e costi fissi",
+    "B": "fatturato e margine operativo",
+    "C": "fatturato e costi variabili",
+    "D": "costi fissi e costi variabili",
+    "corretta": "C",
+    "numero": 63
+  },
+  {
+    "domanda": "Sottraendo al margine di contribuzione i costi fissi si ottiene:",
+    "A": "l'utile lordo",
+    "B": "l'utile netto",
+    "C": "l'utile extracaratteristico",
+    "D": "l'utile finanziario",
+    "corretta": "A",
+    "numero": 64
+  },
+  {
+    "domanda": "La leva operativa è data dal rapporto tra:",
+    "A": "margine di contribuzione e costi totali",
+    "B": "margine di contribuzione e costi fissi",
+    "C": "margine di contribuzione e osti variabili",
+    "D": "margine di contribuzione ed utile operativo",
+    "corretta": "D",
+    "numero": 65
+  },
+  {
+    "domanda": "Le moderne modalità di gestione aziendale portano a considerare l'equilibrio aziendale:",
+    "A": "come statico ed immutabile",
+    "B": "orientato all'immobilismo ed alla conservazione di quote di mercato",
+    "C": "orientato alla riduzione dei costi",
+    "D": "in senso dinamico ed orientato alla innovazione",
+    "corretta": "D",
+    "numero": 66
+  },
+  {
+    "domanda": "I concetti di business innovation e di social innovation sono:",
+    "A": "tra loro indipendenti",
+    "B": "sostanzialmente sinonimi",
+    "C": "tra loro correlati",
+    "D": "tra loro in competizione",
+    "corretta": "C",
+    "numero": 67
+  },
+  {
+    "domanda": "Uno dei profili qualificanti la moderna gestione aziendale è dato :",
+    "A": "dalla capacità di ascolto delle esigenze del cliente",
+    "B": "della capacità di riduzione dei costi",
+    "C": "dalla capacità di imporre i propri prodotti sul mercato",
+    "D": "dalla capacità di resistere ai cambiamenti esterni",
+    "corretta": "A",
+    "numero": 68
+  },
+  {
+    "domanda": "Quale affermazione appare più convincente:",
+    "A": "l'innovazione può riguardare prevalentemente i prodotti",
+    "B": "l'innovazione può riguardare prevalentementi i processi produttivi",
+    "C": "l'innovazione può riguardare solo l'assetto organizzativo",
+    "D": "l'innovazione può riguardare praticamente tutte le funzioni aziendali",
+    "corretta": "D",
+    "numero": 69
+  },
+  {
+    "domanda": "Le attenzioni agli stakeholder interni ed interni:",
+    "A": "sono parte di un evoluto processo di innovazione aziendale",
+    "B": "sono estranee al processo di innovazione aziendale",
+    "C": "sono incompatibili con un processo di innovazione aziendale",
+    "D": "sono da sviluppare solo dopo aver completato un percorso di innovazione aziendale",
+    "corretta": "A",
+    "numero": 70
+  },
+  {
+    "domanda": "Un aumento di fatturato genera maggiore incremento maggiore dell' utile operativo se:",
+    "A": "prevalgono i costi fissi sui costi variabili",
+    "B": "prevalgono i costi variabili sui costi fissi",
+    "C": "costi fissi e variabili sono di pari entità",
+    "D": "non esistono costi fissi",
+    "corretta": "A",
+    "numero": 71
+  },
+  {
+    "domanda": "Una riduzione di fatturato genera una più forte riduzione di utile operativo se:",
+    "A": "prevalgono i costi fissi sui costi variabili",
+    "B": "prevalgono i costi variabili sui costi fissi",
+    "C": "costi fissi e variabili sono di pari entità",
+    "D": "non esistono costi fissi",
+    "corretta": "A",
+    "numero": 72
+  },
+  {
+    "domanda": "Una struttura di costi in cui prevalgono i costi variabili è in genere considerata struttura:",
+    "A": "aggressiva",
+    "B": "difensiva",
+    "C": "neutrale",
+    "D": "propositiva",
+    "corretta": "B",
+    "numero": 73
+  },
+  {
+    "domanda": "Una struttura di costi in cui prevalgono i costi fissi in genere considerata struttura:",
+    "A": "aggressiva",
+    "B": "difensiva",
+    "C": "neutrale",
+    "D": "propositiva",
+    "corretta": "A",
+    "numero": 74
+  },
+  {
+    "domanda": "Una struttura di costi fissi:",
+    "A": "è tale senza limiti",
+    "B": "è tale per sempre",
+    "C": "è tale fino alla saturazione della capacità produttiva",
+    "D": "è tale fino alla riduzione del fatturato",
+    "corretta": "C",
+    "numero": 75
+  },
+  {
+    "domanda": "L'analisi per indici non ha particolare significato se:",
+    "A": "si confrontano i dati in sequenza temporale",
+    "B": "si confrontano i dati con quelli di aziende simili",
+    "C": "si analizzano solo i dati diuna sola annualità",
+    "D": "si confrontano i dati sia con quelli di anni precedenti che con quelli di altre aziende simili",
+    "corretta": "C",
+    "numero": 76
+  },
+  {
+    "domanda": "Il confronto dei propri dati dibilancio con quelli di aziende simili si definisce:",
+    "A": "analisi temporale",
+    "B": "analisi spaziale",
+    "C": "analisi empirica",
+    "D": "analisi teorica",
+    "corretta": "B",
+    "numero": 77
+  },
+  {
+    "domanda": "Un cluster di imprese è un gruppo di imprese:",
+    "A": "con caratteristiche simili e quindi tra loro confrontabili",
+    "B": "con caratteristiche diverse e quindi non confrontabili",
+    "C": "tutte orientate all'esportazione",
+    "D": "tutte orentate al mercato interno",
+    "corretta": "D",
+    "numero": 78
+  },
+  {
+    "domanda": "Azienda A con ROE atteso del 10% ed azienda B con ROE atteso del 18 %; conviene investire:",
+    "A": "nell'azienda A",
+    "B": "nell'azienda B",
+    "C": "in nessuna delle due",
+    "D": "in entrambe",
+    "corretta": "B",
+    "numero": 79
+  },
+  {
+    "domanda": "Il confronto tra imprese omogenee si definisce attività di :",
+    "A": "clustering",
+    "B": "benchwatching",
+    "C": "benchmarking",
+    "D": "benchsitting",
+    "corretta": "C",
+    "numero": 80
+  },
+  {
+    "domanda": "Per approccio inegrato all'analisi aziendale si intende opportuno:",
+    "A": "effettuare un'analisi separata per ciascuna tipologia di indicatori",
+    "B": "effettuare un'analisi integrata tra i vari tipi di indicatori",
+    "C": "effettuare un'analisi di bilancio senza analizzare gli indicatori",
+    "D": "effettuare un'analisi che consideri solo il risultato operativo",
+    "corretta": "B",
+    "numero": 81
+  },
+  {
+    "domanda": "Se un'azienda presenta stabilmente un ROS superiore a quello di imprese concorrenti, ciò significa:",
+    "A": "che l'azienda è più efficiente delle concorrenti",
+    "B": "che l'azienda è più efficace delle concorrenti",
+    "C": "che l'azienda è meno efficace delle concorrenti",
+    "D": "che l'azienda è meno efficiente delle concorrenti",
+    "corretta": "A",
+    "numero": 82
+  },
+  {
+    "domanda": "Se un'azienda presenta stabilmente un capital turnover inferiore a quello di imprese concorrenti, ciò significa:",
+    "A": "che l'azienda è più efficiente delle concorrenti",
+    "B": "che l'azienda è più efficace delle concorrenti",
+    "C": "che l'azienda è meno efficace delle concorrenti",
+    "D": "che l'azienda è meno efficiente delle concorrenti",
+    "corretta": "C",
+    "numero": 83
+  },
+  {
+    "domanda": "Se i costi di produzione sono superiori di quelli di imprese concorrenti si avrà, a parità di prezzi di vendita:",
+    "A": "un ros più elevato dei concorrenti",
+    "B": "un ros inferiore ai concorrenti",
+    "C": "un capital turnover superiore ai concorrenti",
+    "D": "un capital turnover inferiore ai concorrenti",
+    "corretta": "B",
+    "numero": 84
+  },
+  {
+    "domanda": "A parità di prezzo di vendita di un prodotto, avere costi di produzione più bassi dei concorrenti genera:",
+    "A": "un ros più elevato dei concorrenti",
+    "B": "un ros inferiore ai concorrenti",
+    "C": "un capital turnover superiore ai concorrenti",
+    "D": "un capital turnover inferiore ai concorrenti",
+    "corretta": "A",
+    "numero": 85
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è più convincente:",
+    "A": "Nelle PA eventuali riduzioni dei costi vanno valutate in correlazione con i dati sui volumi di servizio erogati e sulla qualità offerta",
+    "B": "Nelle PA le riduzioni dei costi dei servizi pubblici sono sempre un fatto positivo",
+    "C": "Nelle PA le riduzioni dei costi dei servizi pubblici sono sempre un fatto negativo",
+    "D": "Nelle PA non è possibile ridurre i costi dei servizi pubblici",
+    "corretta": "A",
+    "numero": 86
+  },
+  {
+    "domanda": "Rendere conto con trasparenza ed imparzialità dei risultati raggiunti e dei costi sostenuti da parte delle Pubbliche Amministrazioni, è la cosiddetta:",
+    "A": "performance management",
+    "B": "web analysis",
+    "C": "accountability",
+    "D": "business analysis",
+    "corretta": "C",
+    "numero": 87
+  },
+  {
+    "domanda": "Il rapporto tra una specifica voce di spesa ed il totale delle spese si definisce:",
+    "A": "indice di struttura",
+    "B": "indice di composizione",
+    "C": "indice di copertura",
+    "D": "indice di redditività",
+    "corretta": "B",
+    "numero": 88
+  },
+  {
+    "domanda": "Il rapporto tra una specifica voce di spesa ed il totale delle entrate si definisce:",
+    "A": "indice di struttura",
+    "B": "indice di composizione",
+    "C": "indice di copertura",
+    "D": "indice di redditività",
+    "corretta": "C",
+    "numero": 89
+  },
+  {
+    "domanda": "Quale dei seguenti è un indice di struttura:",
+    "A": "il rapporto tra spese per il personale e spese correnti",
+    "B": "il rapporto tra spese per il personale ed entrate correnti",
+    "C": "il rapporto tra spese per il personale ed entrate tributarie",
+    "D": "il rapporto tra spese correnti ed abitanti di un Comune",
+    "corretta": "D",
+    "numero": 90
+  },
+  {
+    "domanda": "Nell'analisi di bilancio delle Pubbliche Amministrazioni è fondamentale il confronto:",
+    "A": "tra valori certi e presunti",
+    "B": "tra valori previsti e valori stimati",
+    "C": "tra valori stimati e valori certi",
+    "D": "tra valori previsti e valori effettivi a consuntivo",
+    "corretta": "D",
+    "numero": 91
+  },
+  {
+    "domanda": "Nelle Pubbliche Amministrazion i è fondamentale verificare, tramite l'analisi di bilancio:",
+    "A": "se sia possibile distribuire utili ai cittadini",
+    "B": "se sia possibile distribuire utili al personale",
+    "C": "se ci sia stata coerenza tra programmazione e risultati raggiunti",
+    "D": "se ci siano servizi pubblici da eliminare",
+    "corretta": "C",
+    "numero": 92
+  },
+  {
+    "domanda": "\"Nelle Pubbliche Amministrazioni l'analisi di bilancio non deve essere assolutamente collegata alla verifica dei risultati raggiunti\"; questa affermazione:",
+    "A": "è pienamente corretta",
+    "B": "è totaLmente scorretta",
+    "C": "è pienamente condivisibile",
+    "D": "è sensata",
+    "corretta": "B",
+    "numero": 93
+  },
+  {
+    "domanda": "La pianificazione è la fase della programmazione:",
+    "A": "di brevissimo termine",
+    "B": "di breve termine",
+    "C": "di medio termine",
+    "D": "di lungo termine",
+    "corretta": "D",
+    "numero": 94
+  },
+  {
+    "domanda": "Se le spese per investimenti previste rispetto alle previsioni di spesa totale, ed a consuntivo tale rapporto è del 10,5%, ne consegue:",
+    "A": "che c'è stata una cattiva capacità di attuazione del proramma di investimenti",
+    "B": "che c'è stata una buona capacità di attuazione del programa di investimenti",
+    "C": "che non si sono realizzati inestimenti",
+    "D": "che si sono completamente sbagliate pe previsioni sugli investimenti",
+    "corretta": "B",
+    "numero": 95
+  },
+  {
+    "domanda": "Soddisfare le aspettative di shareholder e stakeholder significa effettuare una valutazione:",
+    "A": "solo su aspetti economici",
+    "B": "solo su aspetti sociali ed ambientali",
+    "C": "solo su aspetti sociali",
+    "D": "integrando aspetti legati al profitto con effetti economici, sociali ed ambientali",
+    "corretta": "D",
+    "numero": 96
+  },
+  {
+    "domanda": "Quale tra i seguenti approcci è più pertinente se riferito ad una Pubblica amministrazione:",
+    "A": "verificare la coerenza tra conto economico e stato patrimoniale",
+    "B": "verificare la coerenza tra aspettative degli stakeholder di riferimento e risultati raggiunti dal'Ente",
+    "C": "verificare la coerenza tra aspettative del personale interno e risultati raggiunti",
+    "D": "verificare l'equilibrio tra costi e ricavi",
+    "corretta": "B",
+    "numero": 97
+  },
+  {
+    "domanda": "La cosiddetta analisi \"ex-ante \" nelle Pa si deve basare su:",
+    "A": "un'analisi a consuntivo sui risultati raggiunti",
+    "B": "un'analisi a consuntivo sui costi sostenuti",
+    "C": "un'analisi preventiva su contesto esterno,aspettative e capacità di performance",
+    "D": "un'analisi preventiva sugli utili che si intendono realzzare",
+    "corretta": "C",
+    "numero": 98
+  },
+  {
+    "domanda": "La cosiddetta valutazione\"in itinere \" è quella che si effettua:",
+    "A": "a consuntivo sui risultati raggiunti",
+    "B": "a consuntivo sui costi sostenuti",
+    "C": "a preventivo sui risultati che si intende ottenere",
+    "D": "durante l'anno per verificare lo stato di avanzamento dei progetti e delle iniziative in essere",
+    "corretta": "D",
+    "numero": 99
+  },
+  {
+    "domanda": "Il giudizio a consuntivo sui principali risultati raggiunti da una Pubblica Amministrazione:",
+    "A": "deve vedere coinvolti i beneficiari dei servizi resi e gli altri stakeholder",
+    "B": "deve essere svolta solo all'interno dell'Amministrazione stessa",
+    "C": "è meglio non effettuarla",
+    "D": "deve essere effettuata solo dal direttore generale",
+    "corretta": "A",
+    "numero": 100
+  },
+  {
+    "domanda": "Le cosiddette competenze distintive:",
+    "A": "sono pressochè identiche in aziende operanti sullo stesso mercato",
+    "B": "sono peculiari, specifiche e caratterizzanti ciascuna azienda",
+    "C": "sono competenze specialistiche molto diffuse e comuni a più aziende",
+    "D": "sono competenze che posseggono solo i top manager aziendali",
+    "corretta": "B",
+    "numero": 101
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è più convincente:",
+    "A": "le competenze distintive in parte si apprendono, in parte maturano col tempo all'interno dell'azienda",
+    "B": "le competenze distintive si acquisiscono soltanto tramite attività di formazione",
+    "C": "le competenze distintive si acquisiscono soltanto col tempo all'interno dell'azienda",
+    "D": "le competenze distintive non possono essere acquisite né incrementate",
+    "corretta": "A",
+    "numero": 102
+  },
+  {
+    "domanda": "Per favorire la crescita delle competenze distintive è opportuna:",
+    "A": "una intensa e continua attività di formazione del personale",
+    "B": "un intenso stimolo alla competizione interna tra colleghi",
+    "C": "politiche retributive fortemente penalizzanti",
+    "D": "una attività di dialogo costante con gli stakeholder esterni",
+    "corretta": "A",
+    "numero": 103
+  },
+  {
+    "domanda": "La forte capacità di apprendere dagli errori e dalle esperienze pregresse si definisce:",
+    "A": "learning by teaching",
+    "B": "learning by studying",
+    "C": "daily learning",
+    "D": "learning by doing",
+    "corretta": "D",
+    "numero": 104
+  },
+  {
+    "domanda": "Il processo volto a far maturare e ad accrescere in tempi brevi le ompetenze distintive si definisce:",
+    "A": "capability building",
+    "B": "ability growing",
+    "C": "ability increasing",
+    "D": "capability approaching",
+    "corretta": "A",
+    "numero": 105
+  },
+  {
+    "domanda": "La presenza di discriminazioni di genere nelle imprese italiane:",
+    "A": "favorisce lo sviluppo delle imprese",
+    "B": "ostacola il pieno sviluppo delle imprese",
+    "C": "non incide sullo sviluppo delle imprese",
+    "D": "provoca un aumento della occupazione",
+    "corretta": "B",
+    "numero": 106
+  },
+  {
+    "domanda": "Secondo indici elaborati da primarie Istituzioni internazionali, in Italia:",
+    "A": "le retribuzioni maschili e femminili sono in genere equivalenti",
+    "B": "le retribuzioni femminili sono superiori di quelle maschili",
+    "C": "le retribuzioni maschili sono superiori a quelle femminili",
+    "D": "no esistono differenze retributive tra maschi e femmine",
+    "corretta": "C",
+    "numero": 107
+  },
+  {
+    "domanda": "Secondo indici elaborati da primarie Istituzioni internazionali, in Italia:",
+    "A": "il tasso di occupazione femminile è molto inferiore alla media europea",
+    "B": "il tasso di occupazione femminile è appena superiore alla media europea",
+    "C": "il tasso di occupazione femminile è molto superiore alla media europea",
+    "D": "il tasso di occupazione femminile è appena inferiore alla media europea",
+    "corretta": "A",
+    "numero": 108
+  },
+  {
+    "domanda": "Secondo indici elaborati da primarie Istituzioni internazionali, in Italia:",
+    "A": "le donne manager in Italia sono una percentuale del totale superiore alla media europea",
+    "B": "le donne manager in Italia sono una percentuale corrispondente alla media europea",
+    "C": "le donne manager in Italia quasi non esistono",
+    "D": "le donne manager in Itala sono una percentuale inferiore alla media europea",
+    "corretta": "D",
+    "numero": 109
+  },
+  {
+    "domanda": "In genere si tende a sostenere che:",
+    "A": "gli uomini hanno rispetto alle donne una maggiore propensione al multitasking",
+    "B": "le donne hanno rispetto agli uomini una maggiore propensione al multitasking",
+    "C": "donne e uomini hanno la stessa propensioneal multitasking",
+    "D": "non è agevole determinare chi tra uomini e donne abbia una maggiore propensione al multitasking",
+    "corretta": "B",
+    "numero": 110
+  },
+  {
+    "domanda": "La dimensione del profitto aziendale e del perseguimento di obiettivi di sostenibilità:",
+    "A": "sono scelte tra loro alternative",
+    "B": "sono da perseguire con strategie distinte",
+    "C": "sono da perseguire congiuntamente con una strategia integrata",
+    "D": "sono da evitare entrambe",
+    "corretta": "C",
+    "numero": 111
+  },
+  {
+    "domanda": "I primi approcci in materia di sostenibilità puntavano l'attenzione:",
+    "A": "alla dimensione ambientale ed energetica",
+    "B": "alla dimensione sociale",
+    "C": "alla dimensione economica",
+    "D": "alla dimensone della governance",
+    "corretta": "A",
+    "numero": 112
+  },
+  {
+    "domanda": "Una delle attenzioni della dimensione sociale della sostenibilità è:",
+    "A": "quella verso la massimizzazione dell'utile a qualunque costo",
+    "B": "quella verso la valorizzazione ed il benessere del personale",
+    "C": "quella verso la acquisizione di aziende più piccole",
+    "D": "quella verso l'aumento del fatturato a qualunque costo",
+    "corretta": "B",
+    "numero": 113
+  },
+  {
+    "domanda": "Il tema del risparmio energetico e dell'utilizzo di fonti rinnovabili:",
+    "A": "è contrario alle logiche della sostenibilità",
+    "B": "è estraneo al tema della sostenibiità",
+    "C": "è perfettamente coerente con un approccio orientato alla sostenibilità",
+    "D": "è un tema da evitare accuratamente",
+    "corretta": "C",
+    "numero": 114
+  },
+  {
+    "domanda": "Un' azienda che opera nel rispetto dei principi e valori della sostenibilità:",
+    "A": "ha migliori prospettive di stabilità e successo nel medio-lungo termine",
+    "B": "ha peggiori prospettive di stabilità e successo nel medio e lungo termine",
+    "C": "ha prospettive di stabilità che non dipendono dalla variabile sostenibilità",
+    "D": "ha prospettive di profitto che non dipendono dalla variabile sostenibilità",
+    "corretta": "A",
+    "numero": 115
+  },
+  {
+    "domanda": "Sostenibilità ed evoluzione verso la digitalizzazione sono percorsi aziendali:",
+    "A": "tra loro alternativi",
+    "B": "da sviluppare in modo coerente ed unitario",
+    "C": "tra loro incompatibili",
+    "D": "solo al completamento della transizione digitale si può avviare un percorso verso la sostenibilità",
+    "corretta": "B",
+    "numero": 116
+  },
+  {
+    "domanda": "Le scelte e gli orientamenti aziendali verso la sostenibilità:",
+    "A": "sono da valorizzare con adeguate campagne di comunicazione",
+    "B": "sono da tenere nascoste",
+    "C": "sono da non valorizzare eccessivamente",
+    "D": "sono da valorizzare anche se l'azienda non opera secondo le logiche della sostenibilità",
+    "corretta": "A",
+    "numero": 117
+  },
+  {
+    "domanda": "CSR e Sostenibilità secondo i tre pilastri ESG sono:",
+    "A": "sostanzialmente sinonimi",
+    "B": "la CSR è un concetto più ampio della sostenibilità ESG",
+    "C": "la sostenibilità ESG è concetto più ampio della CSR",
+    "D": "sono concetti pienamente sovrapponibili",
+    "corretta": "C",
+    "numero": 118
+  },
+  {
+    "domanda": "Il tema della sostenibilità deve essere affrontato:",
+    "A": "soltanto dalla imprese private",
+    "B": "soltanto dalle Pubbliche amministrazioni",
+    "C": "né dalle imprese , né dallePubbliche amministrazioni",
+    "D": "sia dalle imprese che dallePubbliche amministrazioni",
+    "corretta": "D",
+    "numero": 119
+  },
+  {
+    "domanda": "Uno degli obiettivi dei modelli equilibrati di sostenibilità nella dimensione aziendale è quello:",
+    "A": "di generare utilità solo per l'azienda stessa",
+    "B": "di generare utilità solo per i consumatori",
+    "C": "di non generare esternalità positive",
+    "D": "di generare utilità sia per l'azienda che per i cosumatori",
+    "corretta": "D",
+    "numero": 120
+  },
+  {
+    "domanda": "Le cosiddette \"multinazionali tascabili\":",
+    "A": "sono un fenomeno presente in tutta Europa",
+    "B": "sono un fenomeno presente in Cina",
+    "C": "sono un fenomeno prevalentemente statunitense",
+    "D": "sono un fenomeno prevalentemente italiano",
+    "corretta": "D",
+    "numero": 121
+  },
+  {
+    "domanda": "L'aspetto delle motivazioni e delle scelte strategiche di fondo di un'impresa:",
+    "A": "è marginale rispetto ad un progetto di internazionalizzazione",
+    "B": "è irrilevante rispetto ad un progetto di internazionalizzazione",
+    "C": "è fondamentale nell'impostare un progetto di internazionalizzazione",
+    "D": "è utile ma non necessario nell'impostare un progetto di internazionalizzazione",
+    "corretta": "C",
+    "numero": 122
+  },
+  {
+    "domanda": "Nella scelta del Paese in cui operare investimenti occorre preventivamente valutare il cosiddetto:",
+    "A": "rischio Paese",
+    "B": "rischio operativo",
+    "C": "rischio strategico",
+    "D": "rischio internazionale",
+    "corretta": "A",
+    "numero": 123
+  },
+  {
+    "domanda": "Quale tra le seguenti è la sequenza temporale corretta nell'impostare un percorso di internazionalizzazione:",
+    "A": "sperimentazione, prima stabilizzazione e piena stabilizzazione",
+    "B": "prova, avvio e consolidamento",
+    "C": "partenza ed arrivo",
+    "D": "crescita e sviluppo",
+    "corretta": "A",
+    "numero": 124
+  },
+  {
+    "domanda": "Impresa multinazionale, transnazionale ed internazionale:",
+    "A": "sono tre sinonimi",
+    "B": "ciascuna definizione è relativa ad uno specifico modello di presenza sui mercati internazionali",
+    "C": "solo le prime due definizioni sono relative a modelli di presenza sui mercati internazionali",
+    "D": "solo la prima definizione è relativa ad un modello di presenza sui percati internazionali",
+    "corretta": "B",
+    "numero": 125
+  },
+  {
+    "domanda": "Per un'impresa, i canali di entrata in un Paese estero si distinguono in :",
+    "A": "diretti, indiretti e concertati",
+    "B": "attivi e passivi",
+    "C": "effettivi, potenziali ed attuali",
+    "D": "concordati,condivisi e concertati",
+    "corretta": "A",
+    "numero": 126
+  },
+  {
+    "domanda": "Le alleanze tra imprese definite \"reti di imprese\" rispetto al tema della internazionalizzazione:",
+    "A": "sono del tutto estranee",
+    "B": "possono essere attivate anche per progetti di sviluppo internazionale",
+    "C": "non possono essere attivate per progetti di svilppo internazionale",
+    "D": "si possono attivare soltanto per progetti di sviluppo internazionale",
+    "corretta": "B",
+    "numero": 127
+  },
+  {
+    "domanda": "La presenza di una unità operativa appositamente costituita dalla casa madre nel Paese estero in cui si opera rappresenta:",
+    "A": "un canale di tipo indiretto",
+    "B": "una rete di imprese",
+    "C": "una joint venture",
+    "D": "un canale di tipo diretto",
+    "corretta": "D",
+    "numero": 128
+  },
+  {
+    "domanda": "Se si utilizza un operatore estero, specializzato nell'importazione di beni nel suo Paese, si è scelto di operare tramite:",
+    "A": "un canale di tipo indiretto",
+    "B": "una rete di imprese",
+    "C": "una joint venture",
+    "D": "un canale di tipo diretto",
+    "corretta": "A",
+    "numero": 129
+  },
+  {
+    "domanda": "Il diffondersi dell' economia digitale in larga misura:",
+    "A": "conferma i modelli tradizionali di presenza all'estero",
+    "B": "mette in discussione i modelli tradizionali di presenza all'estero",
+    "C": "è estranea al tema dei modelli di presenza all'estero",
+    "D": "è di ostacolo allo sviluppo internazionale delle imprese",
+    "corretta": "B",
+    "numero": 130
+  },
+  {
+    "domanda": "La presenza su internet e sui social di un'impresa si definisce:",
+    "A": "visibilità virtuale",
+    "B": "visibilità telematica",
+    "C": "visibilità permanente",
+    "D": "visibilità digitale",
+    "corretta": "D",
+    "numero": 131
+  },
+  {
+    "domanda": "Per \"content management\" si intende",
+    "A": "l'attività di sviluppo del business aziendale",
+    "B": "l'attività di sviluppo delle competenze aziendali",
+    "C": "l'attività di raccolta e pubblicazione di informazioni aziendali sui diversi canali digitali",
+    "D": "l'attività di sviluppo delle innovazioni di prodotto",
+    "corretta": "C",
+    "numero": 132
+  },
+  {
+    "domanda": "Per attività di outbound marketing si intendono:",
+    "A": "percorsi di comunicazione e di marketing che partono dalle sollecitazioni del cliente",
+    "B": "attività di marketing esclusivamente svolte per telefono",
+    "C": "attività di marketing dall'azienda verso i clienti",
+    "D": "attività di marketing svolte a casa del cliente",
+    "corretta": "C",
+    "numero": 133
+  },
+  {
+    "domanda": "Le attività di inbound marketing:",
+    "A": "sono ostacolate dai processi di digitalizzazione",
+    "B": "sono estranee ai processi di digitalizzazione",
+    "C": "sono largamente favorite dai processi di digitalizzazione delle imprese",
+    "D": "sono favorite per le imprese che operano suimercati esteri",
+    "corretta": "C",
+    "numero": 134
+  },
+  {
+    "domanda": "Per una buona e-reputation dell'azienda è opportuno:",
+    "A": "aggiornare quotidianamente il sito internet",
+    "B": "monitorare continuamente sito e social per ascoltare e rispondere ad apprezzamenti e critiche",
+    "C": "dichiarare pubblicamente le retribuzion dei top manager",
+    "D": "rispondere con durezza alle critiche dei clienti sui social",
+    "corretta": "B",
+    "numero": 135
+  },
+  {
+    "domanda": "Le cosiddette tecnologie digitali, definite abilitanti, sono caratteristiche:",
+    "A": "della quarta rivoluzione industriale",
+    "B": "della prima rivoluzione industriale",
+    "C": "della seconda rivoluzione industriale",
+    "D": "della terza rivoluzione industriale",
+    "corretta": "A",
+    "numero": 136
+  },
+  {
+    "domanda": "Per favorire lo sviluppo dell'economia digitale sarà preferibile: che poche grandi aziende guidino lo sviluppo del sistema nel suo complesso",
+    "A": "",
+    "B": "che aziende , università ed incubatori di imprese collaborino tra loro",
+    "C": "che le piccole imprese sviluppino progetti in modo isolato l'una dall'altra",
+    "D": "che le multinazionali impongano modelli uniformi di sviluppo",
+    "corretta": "B",
+    "numero": 137
+  },
+  {
+    "domanda": "I processi di sviluppo digitale saranno:",
+    "A": "sempre più limitati alle grandi aziende",
+    "B": "sempre più limitati alle piccole e medie imprese",
+    "C": "limitati alle imprese a vocazione internazionale",
+    "D": "estesi alle imprese di ogni dimensione",
+    "corretta": "D",
+    "numero": 138
+  },
+  {
+    "domanda": "Nell'ambito dell'economa digitale, il rapporto con i clienti:",
+    "A": "va ridimensionato",
+    "B": "va posto al centro delle attenzioni aziendali",
+    "C": "va marginalizzato",
+    "D": "raPpresenta l'unica dimensione su cui impegnare l'impresa",
+    "corretta": "B",
+    "numero": 139
+  },
+  {
+    "domanda": "Il concetto di \"fabbrica smart\" può essere scomposto in:",
+    "A": "produzione, servizi ed energia smart",
+    "B": "acquisti, produzione e vendite smart",
+    "C": "produzione, ambiente e vendite smart",
+    "D": "produzione, servizi e personale smart",
+    "corretta": "A",
+    "numero": 140
+  }
+]
