@@ -1,0 +1,2307 @@
+[
+  {
+    "domanda": "La psicologia del lavoro per comprendere e spiegare la mente ed il comportamento umano usa il metodo:",
+    "A": "psicodinamico",
+    "B": "tradizionale",
+    "C": "scientifico",
+    "D": "costruttivista",
+    "corretta": "C",
+    "numero": 1
+  },
+  {
+    "domanda": "La psicologia della salute occupazionale all'interno della psicologia del lavoro rappresenta:",
+    "A": "uno dei metodi di ricerca",
+    "B": "un approccio al lavoro basato sulla psicoanalisi",
+    "C": "un approccio esclusivamente basato sulla gestione delle risorse umane",
+    "D": "lo studio delle questioni relative all'ambiente di lavoro e al benessere dei lavoratori",
+    "corretta": "D",
+    "numero": 2
+  },
+  {
+    "domanda": "La psicologia del lavoro contribuisce all'efficienza delle organizzazioni:",
+    "A": "coniugando efficienza con qualità, innovazione e sensibilità verso gli utenti/clienti finali",
+    "B": "riducendo la qualità dei beni e dei servizi",
+    "C": "ignorando completamente l'efficienza",
+    "D": "concentrandosi solo sulla riduzione dei costi",
+    "corretta": "A",
+    "numero": 3
+  },
+  {
+    "domanda": "L'argomento principale delle critiche di Friedman nel 1946 alla psicologia del lavoro era:",
+    "A": "eccessiva attenzione alla psicologia dei dipendenti",
+    "B": "mancanza di attenzione alle esigenze economiche",
+    "C": "limitata attenzione alle esigenze dei lavoratori",
+    "D": "nessuna critica significativa",
+    "corretta": "C",
+    "numero": 4
+  },
+  {
+    "domanda": "La vocazione applicativa della psicologia del lavoro nei suoi primi decenni negli Stati Uniti era rivolta alla:",
+    "A": "risoluzione dei problemi concreti nelle pubblicità",
+    "B": "risoluzione dei problemi concreti nell'industria e nelle grandi istituzioni",
+    "C": "sviluppo di teorie astratte senza applicazione pratica",
+    "D": "concentrazione esclusiva sulla psicologia sperimentale",
+    "corretta": "C",
+    "numero": 5
+  },
+  {
+    "domanda": "L'approccio costruttivista nella psicologia del lavoro si contraddistingue da:",
+    "A": "focalizzazione su teorie, misurazioni e sperimentazioni",
+    "B": "generazione di teorie attraverso analisi clinica, resoconto etnografico, studio di documenti",
+    "C": "approccio psicoanalitico, cognitivo-comportamentale, umanistico",
+    "D": "esclusione di qualsiasi approccio teorico",
+    "corretta": "B",
+    "numero": 6
+  },
+  {
+    "domanda": "L'interesse per la psicologia del lavoro in Italia è evidente attraverso la presenza di sezioni dedicate nelle associazioni professionali come:",
+    "A": "CGIL",
+    "B": "Confindustria",
+    "C": "Associazione Lavoratori Italiani",
+    "D": "Associazione Italiana di Psicologia",
+    "corretta": "D",
+    "numero": 7
+  },
+  {
+    "domanda": "Lo psicologo del lavoro che si occupa del \"job design\" lavora in sinergia con:",
+    "A": "ingegneri ed ergonomi",
+    "B": "lavora in maniera autonoma",
+    "C": "architetto",
+    "D": "direttore del personale",
+    "corretta": "A",
+    "numero": 8
+  },
+  {
+    "domanda": "Il \"Journal of Applied Psychology\" è stato fondato nel:",
+    "A": "1990",
+    "B": "1965",
+    "C": "1917",
+    "D": "2008",
+    "corretta": "C",
+    "numero": 9
+  },
+  {
+    "domanda": "La \"serendipità\" nella psicologia del lavoro rappresenta:",
+    "A": "scoperte scientifiche pianificate",
+    "B": "scoperte scientifiche non pianificate, intraprese con curiosità, coraggio, intraprendenza ed immaginazione",
+    "C": "analisi rigorosa dei dati scientifici",
+    "D": "fede cieca nelle intuizioni personali",
+    "corretta": "B",
+    "numero": 10
+  },
+  {
+    "domanda": "La prospettiva di studio basata sull'analisi di grandi quantità di dati è:",
+    "A": "psicologia delle organizzazioni",
+    "B": "people analytics",
+    "C": "livello di analisi di gruppo",
+    "D": "machine learning",
+    "corretta": "B",
+    "numero": 11
+  },
+  {
+    "domanda": "L'obiettivo principale delle analisi basate sui big data nella psicologia del lavoro riguarda:",
+    "A": "prevedere relazioni tra variabili organizzative",
+    "B": "ottimizzare le risorse umane",
+    "C": "identificare modelli mentali condivisi nei gruppi di lavoro",
+    "D": "migliorare la cultura organizzativa",
+    "corretta": "A",
+    "numero": 12
+  },
+  {
+    "domanda": "Lo studio delle culture organizzative e della distribuzione del potere tra diverse coalizioni organizzative si riferisce al:",
+    "A": "livello di analisi intrasoggettivo",
+    "B": "livello di analisi soggetto-compito",
+    "C": "livello di analisi di gruppo",
+    "D": "livello di analisi organizzativo",
+    "corretta": "D",
+    "numero": 13
+  },
+  {
+    "domanda": "Con \"Meaning of Work\" indichiamo:",
+    "A": "un modello di analisi organizzativa",
+    "B": "un'analisi basata sui big data",
+    "C": "una prospettiva di studio sulla psicologia delle organizzazioni",
+    "D": "una ricerca sul significato attribuito al lavoro in diversi contesti economici",
+    "corretta": "D",
+    "numero": 14
+  },
+  {
+    "domanda": "La tripartizione adottata nell'ambito della psicologia del lavoro in ambito europea comprende:",
+    "A": "psicologia del lavoro, psicologia delle organizzazioni, psicologia industriale",
+    "B": "psicologia del lavoro, psicologia delle risorse umane, psicologia delle organizzazioni",
+    "C": "psicologia industriale, psicologia sociale, psicologia delle organizzazioni",
+    "D": "psicologia del lavoro, psicologia clinica, psicologia cognitiva",
+    "corretta": "B",
+    "numero": 15
+  },
+  {
+    "domanda": "Secondo lo studio di Cascio e Aguinis del 2008, i temi particolarmente presenti nella psicologia del lavoro sono:",
+    "A": "temi metodologici e professionali legati all'esperienza lavorativa",
+    "B": "temi sociali e culturali",
+    "C": "temi legati all'analisi organizzativa",
+    "D": "temi basati sull'analisi dei macroprocessi socioeconomici",
+    "corretta": "A",
+    "numero": 16
+  },
+  {
+    "domanda": "L'area di indagine che esplora come le persone costruiscano script, mappe cognitive e modelli mentali della situazione di lavoro rientra nel:",
+    "A": "livello di analisi intrasoggettivo",
+    "B": "livello di analisi di gruppo",
+    "C": "livello di analisi soggetto-compito",
+    "D": "livello di analisi sociale",
+    "corretta": "C",
+    "numero": 17
+  },
+  {
+    "domanda": "Nel modello delle 5 V per descrivere la natura dei big data non è previsto:",
+    "A": "valore",
+    "B": "volume",
+    "C": "velocità",
+    "D": "vettorialità",
+    "corretta": "D",
+    "numero": 18
+  },
+  {
+    "domanda": "Nel contesto degli studi e degli interventi di psicologia del lavoro, è possibile identificare schematicamente almeno:",
+    "A": "cinque diversi ambiti di analisi",
+    "B": "tre diversi ambiti di analisi",
+    "C": "otto diversi ambiti di analisi",
+    "D": "due diversi ambiti di analisi",
+    "corretta": "A",
+    "numero": 19
+  },
+  {
+    "domanda": "A livello di analisi intrasoggettivo la psicologia del lavoro si focalizza:",
+    "A": "sull'interazione tra la persona e il compito lavorativo",
+    "B": "sui processi intrapsichici del singolo individuo",
+    "C": "sui team altamente specializzati che operano in modo integrato",
+    "D": "sull'organizzazione intesa come ampio aggregato sociale e come entità di analisi",
+    "corretta": "B",
+    "numero": 20
+  },
+  {
+    "domanda": "Quando Hugo Munsterberg ha coniato il termine \"psicologia industriale\":",
+    "A": "1863",
+    "B": "1912",
+    "C": "1921",
+    "D": "1944",
+    "corretta": "B",
+    "numero": 21
+  },
+  {
+    "domanda": "In che modo l'uso dei test psicologici durante la prima guerra mondiale ha influenzato la psicologia del lavoro dopo la guerra:",
+    "A": "ha portato a una diminuzione dell'interesse per la psicologia del lavoro",
+    "B": "ha dimostrato l'inutilità dei test psicologici nelle organizzazioni",
+    "C": "ha contribuito a diffondere la pratica della valutazione delle abilità mentali",
+    "D": "ha causato la chiusura dei laboratori di psicologia",
+    "corretta": "C",
+    "numero": 22
+  },
+  {
+    "domanda": "Qual era l'obiettivo principale del modello di Taylor per migliorare l'organizzazione del lavoro umano:",
+    "A": "aumentare il benessere dei lavoratori",
+    "B": "semplificare i compiti, ridurre i tempi di esecuzione e motivare le persone attraverso premi di produzione",
+    "C": "introdurre complessità nei compiti lavorativi",
+    "D": "eliminare il sistema premiale",
+    "corretta": "B",
+    "numero": 23
+  },
+  {
+    "domanda": "Chi è considerato il pioniere del movimento delle relazioni umane:",
+    "A": "Sigmund Freud",
+    "B": "Frederick Taylor",
+    "C": "Elton George Mayo",
+    "D": "Kurt Lewin",
+    "corretta": "C",
+    "numero": 24
+  },
+  {
+    "domanda": "Cosa sottolineò la Carta del Lavoro del 1927 riguardo alla formazione tecnica per i lavoratori:",
+    "A": "l'importanza della riduzione delle ore lavorative",
+    "B": "la necessità di preservare le pratiche manageriali tradizionali",
+    "C": "la promozione della produzione su larga scala",
+    "D": "l'importanza della formazione tecnica per i lavoratori",
+    "corretta": "D",
+    "numero": 25
+  },
+  {
+    "domanda": "Cosa caratterizza i megatrend rispetto alle tendenze o mode comuni:",
+    "A": "durata più breve",
+    "B": "influenza su larga scala sulla vita sociale e lavorativa e maggiore durata",
+    "C": "minore impatto economico",
+    "D": "dipendenza da fattori contingenti",
+    "corretta": "B",
+    "numero": 26
+  },
+  {
+    "domanda": "Quanti lavoratori di diverse coorti di età convivono attualmente nel contesto lavorativo:",
+    "A": "quattro generazioni",
+    "B": "tre generazioni",
+    "C": "due generazioni",
+    "D": "cinque generazioni",
+    "corretta": "A",
+    "numero": 27
+  },
+  {
+    "domanda": "Come la globalizzazione può influenzare la sicurezza del lavoro:",
+    "A": "aumento della sicurezza del lavoro",
+    "B": "diminuzione delle disuguaglianze interne",
+    "C": "crescita della job insecurity",
+    "D": "aumento della speranza di vita",
+    "corretta": "C",
+    "numero": 28
+  },
+  {
+    "domanda": "Qual è stato identificato come il principale megatrend nelle fonti analizzate:",
+    "A": "cambiamento climatico",
+    "B": "cambiamento demografico",
+    "C": "velocità degli sviluppi tecnologici",
+    "D": "globalizzazione",
+    "corretta": "C",
+    "numero": 29
+  },
+  {
+    "domanda": "Cosa sottolinea la prospettiva sociotecnica riguardo alla tecnologia nei contesti lavorativi:",
+    "A": "la tecnologia è un elemento esterno con effetti uniformi",
+    "B": "le dinamiche tra persone e tecnologia sono bidirezionali e influenzano il funzionamento dell'organizzazione",
+    "C": "la tecnologia è un \"monolite\" con impatti uniformi",
+    "D": "le persone non sono influenzate dall'uso delle macchine",
+    "corretta": "B",
+    "numero": 30
+  },
+  {
+    "domanda": "Quali sono alcuni dei propulsori dell'innovazione tecnologica tipici della IV rivoluzione industriale:",
+    "A": "tecnologie dell'informazione e della comunicazione",
+    "B": "meccanizzazione ad acqua e vapore",
+    "C": "robotica di ultima generazione, intelligenza artificiale, cloud computing",
+    "D": "produzione di massa attraverso automazione",
+    "corretta": "C",
+    "numero": 31
+  },
+  {
+    "domanda": "In che modo la robotica avanzata, guidata dall'intelligenza artificiale, ha impatto nel contesto industriale, come nella produzione:",
+    "A": "aumentando lo sforzo fisico richiesto dai lavoratori",
+    "B": "alleggerendo compiti fisicamente impegnativi e consentendo una gestione precisa e sicura delle operazioni",
+    "C": "rendendo più complesse e rischiose le operazioni",
+    "D": "limitando l'uso di sensori interconnessi",
+    "corretta": "B",
+    "numero": 32
+  },
+  {
+    "domanda": "Cosa si intende per \"globotica\":",
+    "A": "integrazione tra globalizzazione e rivoluzione tecnologica",
+    "B": "riduzione delle disuguaglianze sociali",
+    "C": "competizione leale tra nazioni",
+    "D": "crescita esponenziale di efficienza e produttività",
+    "corretta": "A",
+    "numero": 33
+  },
+  {
+    "domanda": "In che modo la Terza Rivoluzione Industriale ha influenzato il mondo del lavoro:",
+    "A": "integrazione di lavoro umano con utensili manuali",
+    "B": "diffusione di computer ed elettronica",
+    "C": "uso intensivo dell'energia elettrica",
+    "D": "adozione di \"catene di montaggio\"",
+    "corretta": "B",
+    "numero": 34
+  },
+  {
+    "domanda": "Quali sono alcuni costi potenziali del lavoro a distanza per le aziende:",
+    "A": "aumento dei benefici derivanti dal lavoro di squadra",
+    "B": "minore impegno nella pianificazione e coordinamento",
+    "C": "migliore controllo e motivazione dei dipendenti meno impegnati",
+    "D": "aumento degli sforzi per garantire una connettività efficace e integrare socialmente i collaboratori",
+    "corretta": "D",
+    "numero": 35
+  },
+  {
+    "domanda": "Cosa caratterizza la gig-economy, secondo il testo:",
+    "A": "sistema di intermediazione attraverso piattaforme online e algoritmi",
+    "B": "gestione tradizionale del lavoro",
+    "C": "organizzazione delle attività principalmente offline",
+    "D": "lavoro a tempo pieno fisso",
+    "corretta": "A",
+    "numero": 36
+  },
+  {
+    "domanda": "Quali sono alcuni dei potenziali rischi psicosociali derivanti dall'uso eccessivo o disfunzionale delle nuove tecnologie sul lavoro:",
+    "A": "incremento della produttività",
+    "B": "diminuzione della domanda lavorativa",
+    "C": "decrementi nella salute e nel benessere dei lavoratori",
+    "D": "aumento del controllo delle risorse occupazionali",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "Secondo l'indagine basata sui compiti in 21 paesi dell'OCSE, qual è la percentuale dei posti di lavoro che risultava effettivamente automatizzabile:",
+    "A": "21%",
+    "B": "53%",
+    "C": "9%",
+    "D": "75%",
+    "corretta": "C",
+    "numero": 38
+  },
+  {
+    "domanda": "Cosa caratterizza il lavoro a chiamata tramite App:",
+    "A": "coinvolge solo prestazioni professionali di tipo intellettuale",
+    "B": "non coinvolge lavoro fisico",
+    "C": "non è facilitato dalle tecnologie digitali",
+    "D": "coinvolge prestazioni di carattere fisico basate sulla posizione",
+    "corretta": "D",
+    "numero": 39
+  },
+  {
+    "domanda": "Qual è una delle conseguenze della polarizzazione tra lavori considerati \"bad\" e \"good\":",
+    "A": "riduzione delle disparità salariali",
+    "B": "aumento delle disuguaglianze sociali e disparità salariali",
+    "C": "maggiore stabilità occupazionale",
+    "D": "valorizzazione dei lavori poco qualificati",
+    "corretta": "B",
+    "numero": 40
+  },
+  {
+    "domanda": "Qual è la distinzione principale tra le imprese orientate all'innovazione e quelle orientate al contenimento dei costi:",
+    "A": "entrambe investono notevolmente nelle innovazioni tecnologiche",
+    "B": "imprese orientate all'innovazione si concentrano sulla riduzione dei costi, mentre imprese orientate al contenimento dei costi investono nelle innovazioni tecnologiche",
+    "C": "imprese orientate all'innovazione investono notevolmente nelle innovazioni tecnologiche per aumentare la loro capacità produttiva, mentre imprese orientate al contenimento dei costi sono riluttanti nell'adozione di innovazioni",
+    "D": "entrambe sono riluttanti nell'adozione di innovazioni tecnologiche",
+    "corretta": "C",
+    "numero": 41
+  },
+  {
+    "domanda": "Cosa rappresenta una sfida significativa nella gestione delle persone con disabilità nel contesto lavorativo:",
+    "A": "sfida della sensibilizzazione, educazione dei datori di lavoro e dei colleghi",
+    "B": "elevato tasso di occupazione",
+    "C": "mancanza di opportunità di lavoro",
+    "D": "riduzione del numero di iscritti alle liste del collocamento mirato",
+    "corretta": "A",
+    "numero": 42
+  },
+  {
+    "domanda": "Quali sono alcune delle trasformazioni nei contesti lavorativi derivanti dalla \"lean production\" nelle grandi imprese industriali e manifatturiere:",
+    "A": "riduzione dell'innovazione tecnologica",
+    "B": "aumento dell'automazione avanzata e ottimizzazione dei processi produttivi",
+    "C": "diminuzione delle dimensioni aziendali",
+    "D": "esclusione delle tecnologie emergenti",
+    "corretta": "B",
+    "numero": 43
+  },
+  {
+    "domanda": "Cosa può contribuire a una maggiore inclinazione dei lavoratori anziani a continuare a lavorare:",
+    "A": "riduzione dell'orario di lavoro",
+    "B": "miglioramento delle condizioni fisiche",
+    "C": "opportunità di apprendimento continuo",
+    "D": "concessioni pensionistiche",
+    "corretta": "D",
+    "numero": 44
+  },
+  {
+    "domanda": "Quali contesti lavorativi richiedono competenze difficili da automatizzare:",
+    "A": "lavori legati alla gig-economy",
+    "B": "professioni altamente qualificate nel settore sanitario, dell'istruzione e gestionali",
+    "C": "lavori basati sulla \"lean production\"",
+    "D": "occupazioni tradizionali nell'industria manifatturiera",
+    "corretta": "B",
+    "numero": 45
+  },
+  {
+    "domanda": "Cosa possono portare gli accordi personalizzati (i-deal) con i singoli lavoratori",
+    "A": "tensioni nei gruppi di lavoro",
+    "B": "riduzione della soddisfazione lavorativa",
+    "C": "maggiore stabilità nel contesto lavorativo",
+    "D": "riduzione dell'impegno lavorativo",
+    "corretta": "A",
+    "numero": 46
+  },
+  {
+    "domanda": "Secondo De Meulenaere, Boone e Buyl (2016), quale ruolo gioca la varietà delle età nella gestione della diversità legata all'età",
+    "A": "non ha alcun ruolo significativo",
+    "B": "aumenta il rischio di pregiudizi reciproci",
+    "C": "gioca un ruolo chiave nella riduzione degli effetti negativi",
+    "D": "induce polarizzazione nelle dinamiche organizzative",
+    "corretta": "C",
+    "numero": 47
+  },
+  {
+    "domanda": "Secondo le indagini dell'EU-OSHA del 2022, quali sono alcune delle preoccupazioni dei lavoratori europei",
+    "A": "eccessiva sicurezza nei settori dell'edilizia e dell'industria pesante",
+    "B": "riduzione dello stress percepito tra i lavoratori",
+    "C": "soddisfazione dei lavoratori rispetto alle trasformazioni attuali del lavoro",
+    "D": "intensificazione del lavoro",
+    "corretta": "D",
+    "numero": 48
+  },
+  {
+    "domanda": "Cosa potrebbe favorire la rivitalizzazione del sindacato",
+    "A": "riduzione delle strategie per promuovere una nuova etica del lavoro",
+    "B": "diminuzione dell'attenzione verso la sicurezza e la salute dei lavoratori",
+    "C": "ampliamento delle strategie per promuovere una nuova etica del lavoro, sicurezza e salute, nonché i diritti economici e sociali di tutti i cittadini",
+    "D": "concentrazione esclusiva sugli interessi dei lavoratori più anziani",
+    "corretta": "C",
+    "numero": 49
+  },
+  {
+    "domanda": "Perché è importante l'analisi delle domande sociali nel contesto lavorativo contemporaneo",
+    "A": "per promuovere un ambiente lavorativo individualista",
+    "B": "per facilitare la cooperazione e la collaborazione",
+    "C": "per migliorare la progettazione dei compiti",
+    "D": "per aumentare la competitività tra i lavoratori",
+    "corretta": "B",
+    "numero": 50
+  },
+  {
+    "domanda": "Perché la salute psicofisica è considerata una risorsa personale fondamentale nel contesto lavorativo",
+    "A": "solo perché influisce sulle opportunità di carriera",
+    "B": "poiché è un potenziale bersaglio di effetti negativi derivanti da un lavoro stressante",
+    "C": "solo perché influisce sulla condizione complessiva dei lavoratori",
+    "D": "perché influenza le scelte, l'impegno e la qualità del lavoro",
+    "corretta": "D",
+    "numero": 51
+  },
+  {
+    "domanda": "Secondo Blustein (2006), quali sono le tre funzioni chiave che abbracciano il range delle possibili esperienze soggettive legate al lavoro",
+    "A": "guadagno, socializzazione e valori personali",
+    "B": "sostentamento, connessioni sociali, autodeterminazione",
+    "C": "prestigio sociale, competenze tecniche, autonomia",
+    "D": "successo, riconoscimenti, efficacia personale",
+    "corretta": "B",
+    "numero": 52
+  },
+  {
+    "domanda": "Quali tra questi bisogni vengono menzionati come parte della sfida complessa per l'individuo nel processo di autoregolazione della propria storia lavorativa, secondo Ashforth (2001)",
+    "A": "bisogni di divertimento e intrattenimento",
+    "B": "bisogni di controllo, influenza sulla situazione",
+    "C": "bisogni di sonno e relax",
+    "D": "bisogni di riconoscimento da parte della comunità lavorativa",
+    "corretta": "D",
+    "numero": 53
+  },
+  {
+    "domanda": "Quali sono alcune strategie comportamentali attraverso le quali la persona manifesta l'intenzione di intervenire attivamente nel proprio percorso di inserimento, secondo Feij et al. (1995)",
+    "A": "consumo di contenuti online e partecipazione a eventi sociali",
+    "B": "sviluppo di nuove competenze e conoscenze",
+    "C": "osservazione passiva dell'ambiente lavorativo",
+    "D": "rifiuto delle richieste organizzative",
+    "corretta": "B",
+    "numero": 54
+  },
+  {
+    "domanda": "Quali sono tre aspetti comuni alle varie declinazioni del costrutto di employability",
+    "A": "solo competenze, adattabilità e fattori interni",
+    "B": "punti di forza, adattabilità delle risorse e fattori esterni",
+    "C": "punti di forza, adattabilità delle risorse e fattori interni ed esterni",
+    "D": "solo motivazioni, adattabilità delle risorse e punti di forza",
+    "corretta": "C",
+    "numero": 55
+  },
+  {
+    "domanda": "Cosa indica Renato Rozzi con il concetto di \"lavoro apparente\":",
+    "A": "una forma di occupazione nominale che contribuisce significativamente alla collettività",
+    "B": "una forma di occupazione con un valore aggiunto",
+    "C": "una forma di occupazione che fornisce ampie prospettive di crescita",
+    "D": "una forma di occupazione formalmente strutturata",
+    "corretta": "C",
+    "numero": 56
+  },
+  {
+    "domanda": "Come viene descritta la motivazione al lavoro nella teoria dell'autodeterminazione di Deci e Ryan (1985):",
+    "A": "come un tratto statico che non varia in base alle circostanze",
+    "B": "come un processo dinamico che può variare in base alle circostanze e che è favorito quando le persone sperimentano autonomia, competenza e relazioni connesse",
+    "C": "come un fenomeno completamente indipendente dalle esperienze lavorative delle persone",
+    "D": "come una forza costante che non è influenzata dalle caratteristiche specifiche della situazione lavorativa",
+    "corretta": "D",
+    "numero": 57
+  },
+  {
+    "domanda": "Quali sono le tre dimensioni della motivazione al lavoro secondo Kanfer, Chen e Pritchard (2008) e Pinder (2008):",
+    "A": "direzione, intensità, persistenza",
+    "B": "impegno, intensità, azione",
+    "C": "selezione degli obiettivi, investimento di energie, azione",
+    "D": "aspettativa, azione, persistenza",
+    "corretta": "A",
+    "numero": 58
+  },
+  {
+    "domanda": "Qual è la differenza principale tra i fattori igienici e i fattori motivazionali secondo Herzberg:",
+    "A": "i fattori igienici sono legati all'ambiente sociale, mentre i fattori motivazionali sono neurobiologici",
+    "B": "i fattori igienici sono legati al piacere, mentre i fattori motivazionali sono legati al disagio",
+    "C": "i fattori igienici possono prevenire il disagio, mentre i fattori motivazionali innescano la motivazione intrinseca",
+    "D": "i fattori igienici sono culturali, mentre i fattori motivazionali sono relazionali",
+    "corretta": "C",
+    "numero": 59
+  },
+  {
+    "domanda": "Cosa caratterizza le \"motivazioni generative\" in età avanzata:",
+    "A": "la concentrazione sull'acquisizione di nuove responsabilità",
+    "B": "l'orientamento verso la crescita personale",
+    "C": "il fornire aiuto agli altri e trasferire competenze",
+    "D": "la ricerca di nuove conoscenze",
+    "corretta": "B",
+    "numero": 60
+  },
+  {
+    "domanda": "Secondo la teoria dell'autodeterminazione, qual è l'obiettivo in merito alla motivazione estrinseca nel tempo:",
+    "A": "sostituire la motivazione estrinseca con la motivazione intrinseca",
+    "B": "rendere la motivazione estrinseca più dominante",
+    "C": "mantenere la motivazione estrinseca costante",
+    "D": "eliminare la motivazione estrinseca",
+    "corretta": "A",
+    "numero": 61
+  },
+  {
+    "domanda": "Cosa caratterizza la figura del lavoratore medio secondo la Teoria Y:",
+    "A": "indifferenza agli scopi dell'organizzazione e resistenza al cambiamento",
+    "B": "amore per il lavoro, ambizione e desiderio di assumersi responsabilità",
+    "C": "rifiuto di opinioni, suggerimenti e critiche",
+    "D": "tendenza a faticare il meno possibile e ingenuità",
+    "corretta": "B",
+    "numero": 62
+  },
+  {
+    "domanda": "Cosa caratterizza la Teoria X di McGregor:",
+    "A": "i dipendenti sono attivi, desiderosi di assumersi responsabilità e inclini a condividere gli obiettivi organizzativi",
+    "B": "i lavoratori sono mossi da bisogni più elevati della scala di Maslow, come quelli legati all'autorealizzazione",
+    "C": "i dipendenti sono considerati intrinsecamente pigri, poco ambiziosi e resistenti al cambiamento",
+    "D": "la gestione si concentra sulla motivazione intrinseca attraverso l'arricchimento dei compiti",
+    "corretta": "C",
+    "numero": 63
+  },
+  {
+    "domanda": "Cosa suggerisce la teoria della valutazione cognitiva riguardo all'effetto dei benefici esterni sulla motivazione intrinseca:",
+    "A": "la teoria sostiene che i benefici esterni aumentano la motivazione intrinseca",
+    "B": "la teoria suggerisce che i benefici esterni non hanno alcun effetto sulla motivazione intrinseca",
+    "C": "la teoria suggerisce che i benefici esterni tendono a diminuire la motivazione intrinseca",
+    "D": "la teoria afferma che la motivazione intrinseca ed estrinseca sono indipendenti",
+    "corretta": "C",
+    "numero": 64
+  },
+  {
+    "domanda": "Quali sono i tre stati motivazionali generali secondo la SDT:",
+    "A": "motivazione estrinseca, motivazione intrinseca, e demotivazione",
+    "B": "motivazione esterna, motivazione interna, e motivazione ambivalente",
+    "C": "motivazione controllata, motivazione autonoma, e motivazione integrata",
+    "D": "amotivazione, motivazione intrinseca e motivazione estrinseca",
+    "corretta": "D",
+    "numero": 65
+  },
+  {
+    "domanda": "Qual è uno degli aspetti macroorganizzativi che può influenzare la motivazione dei lavoratori:",
+    "A": "il numero di dipendenti nell'organizzazione",
+    "B": "la rotazione delle mansioni",
+    "C": "il colore delle pareti negli uffici",
+    "D": "il livello di competizione tra i dipendenti",
+    "corretta": "B",
+    "numero": 66
+  },
+  {
+    "domanda": "Qual è uno degli elementi che caratterizza il job design:",
+    "A": "struttura gerarchica",
+    "B": "prezzo del prodotto",
+    "C": "condizioni meteorologiche",
+    "D": "dimensioni del magazzino",
+    "corretta": "A",
+    "numero": 67
+  },
+  {
+    "domanda": "Secondo il JCM, quali sono alcune caratteristiche individuali importanti da considerare nella progettazione del lavoro:",
+    "A": "orari di lavoro flessibili",
+    "B": "preferenza per compiti monotoni",
+    "C": "assenza di feedback",
+    "D": "bisogno di crescita personale e professionale",
+    "corretta": "D",
+    "numero": 68
+  },
+  {
+    "domanda": "Qual è uno dei risultati confermati dalla meta-analisi di Humphrey, Nahrgang e Morgeson (2007) sul JCM:",
+    "A": "assenza di relazione tra le caratteristiche motivazionali del job e la soddisfazione e la motivazione al lavoro",
+    "B": "relazione negativa tra la struttura del lavoro e la soddisfazione lavorativa",
+    "C": "relazione positiva tra le cinque caratteristiche motivazionali del job e la soddisfazione e la motivazione al lavoro",
+    "D": "mancanza di interesse continuo nel modello di Hackman e Oldham",
+    "corretta": "C",
+    "numero": 69
+  },
+  {
+    "domanda": "Secondo Parker e Ohly (2008), quale relazione esiste tra flessibilità degli orari di lavoro e soddisfazione/produttività:",
+    "A": "nessuna relazione",
+    "B": "relazione negativa",
+    "C": "variazione in base al tipo di lavoro",
+    "D": "relazione positiva",
+    "corretta": "D",
+    "numero": 70
+  },
+  {
+    "domanda": "Nel modello dell'azione motivata che cosa coinvolge la fase di pianificazione degli obiettivi secondo la struttura euristica:",
+    "A": "la definizione dei limiti di tempo",
+    "B": "l'azione diretta per raggiungere lo scopo",
+    "C": "la valutazione degli esiti",
+    "D": "la selezione di un corso d'azione basato su preferenze personali",
+    "corretta": "A",
+    "numero": 71
+  },
+  {
+    "domanda": "Secondo il modello VIE di Vroom, cosa rappresenta la variabile \"Valenza\" (V):",
+    "A": "la preferenza, la desiderabilità e l'attrattività di un certo risultato",
+    "B": "la relazione tra l'azione intrapresa e il conseguimento dei benefici attesi",
+    "C": "la probabilità percepita che lo sforzo e l'impegno possano tradursi nella performance desiderata",
+    "D": "la percezione di quanto lo sforzo possa portare ai risultati desiderati",
+    "corretta": "A",
+    "numero": 72
+  },
+  {
+    "domanda": "Qual è l'equazione che rappresenta la forza motivazionale nel modello VIE:",
+    "A": "M = V + I + E",
+    "B": "M = V - I - E",
+    "C": "M = V × I × E",
+    "D": "M = V / I / E",
+    "corretta": "C",
+    "numero": 73
+  },
+  {
+    "domanda": "Secondo il modello VIE, cosa può annullare il livello di motivazione:",
+    "A": "l'assenza di valenza",
+    "B": "l'assenza di strumentalità",
+    "C": "l'assenza di aspettativa",
+    "D": "l'assenza di uno qualsiasi dei tre fattori (VIE)",
+    "corretta": "D",
+    "numero": 74
+  },
+  {
+    "domanda": "Secondo la teoria del goal setting di Locke e Latham, cosa rende un obiettivo motivante:",
+    "A": "la sua difficoltà inaccessibile rispetto alle abilità della persona",
+    "B": "la sua facilità eccessiva rispetto alle competenze della persona",
+    "C": "deve essere vago e generico per lasciare spazio alla creatività",
+    "D": "deve essere sfidante ma realizzabile",
+    "corretta": "D",
+    "numero": 75
+  },
+  {
+    "domanda": "Che rapporto c'è tra forme emergenti di lavoro autonomo e autoregolazione:",
+    "A": "le forme emergenti di lavoro autonomo richiedono la capacità di autodeterminare tempi e modalità per realizzare impegni",
+    "B": "le forme emergenti di lavoro autonomo escludono la necessità di autoregolazione poiché sono meno strutturate",
+    "C": "le forme emergenti di lavoro autonomo richiedono una maggiore supervisione e controllo esterno",
+    "D": "le forme emergenti di lavoro autonomo riducono la flessibilità nel modo in cui i compiti devono essere eseguiti",
+    "corretta": "A",
+    "numero": 76
+  },
+  {
+    "domanda": "Qual è il ruolo dell'autoefficacia percepita nei processi di autoregolazione:",
+    "A": "l'autoefficacia percepita non influisce sui processi di autoregolazione",
+    "B": "l'autoefficacia percepita è solo una risorsa, ma non è influenzata dalle esperienze della persona",
+    "C": "l'autoefficacia percepita gioca un ruolo significativo favorendo un orientamento aperto alla sfida e controllando la realizzabilità dei progetti",
+    "D": "l'autoefficacia percepita è un risultato indipendente dai processi regolativi",
+    "corretta": "C",
+    "numero": 77
+  },
+  {
+    "domanda": "Come la gestione dell'equità influenza un ambiente lavorativo:",
+    "A": "la gestione dell'equità non ha alcun impatto sull'ambiente lavorativo",
+    "B": "la gestione dell'equità contribuisce a promuovere un ambiente lavorativo sano e motivante",
+    "C": "la gestione dell'equità è importante solo in contesti di lavoro caratterizzati da elevata competizione",
+    "D": "la gestione dell'equità è importante solo per gli alti livelli gerarchici",
+    "corretta": "B",
+    "numero": 78
+  },
+  {
+    "domanda": "Quali sono le tre dimensioni principali della giustizia organizzativa secondo la teoria della giustizia organizzativa:",
+    "A": "giustizia finanziaria, giustizia decisionale, giustizia etica",
+    "B": "giustizia distributiva, giustizia relazionale, giustizia economica",
+    "C": "giustizia distributiva, giustizia procedurale, giustizia interpersonale",
+    "D": "giustizia organizzativa, giustizia personale, giustizia sociale",
+    "corretta": "C",
+    "numero": 79
+  },
+  {
+    "domanda": "Secondo Greenberg (1990), cosa rappresenta la giustizia organizzativa:",
+    "A": "la giustizia organizzativa rappresenta la distribuzione dei premi in base alle performance individuali",
+    "B": "la giustizia organizzativa rappresenta la percezione individuale di quanto si venga trattati in modo equo nel lavoro, in particolare riguardo alla distribuzione di risorse e all'equità percepita delle risorse stesse",
+    "C": "la giustizia organizzativa rappresenta esclusivamente la distribuzione equa delle risorse finanziarie all'interno di un'organizzazione",
+    "D": "la giustizia organizzativa rappresenta la percezione di giustizia provata nelle organizzazioni dai dipendenti che durante i processi di downsizing non perdono il lavoro",
+    "corretta": "B",
+    "numero": 80
+  },
+  {
+    "domanda": "In cosa consiste principalmente il contratto psicologico:",
+    "A": "in un insieme di regole scritte tra il lavoratore e l'azienda",
+    "B": "in un contratto di lavoro formale",
+    "C": "in un insieme di aspettative e impegni non scritti che si sviluppano tra individui e organizzazioni",
+    "D": "in un accordo legale che può essere impugnato in tribunale",
+    "corretta": "C",
+    "numero": 81
+  },
+  {
+    "domanda": "Qual è un elemento chiave, secondo Denise Rousseau, per una valutazione accurata del contratto psicologico:",
+    "A": "la distinzione tra il concetto di aspettative e quello di obblighi reciproci",
+    "B": "la considerazione delle percezioni dell'organizzazione",
+    "C": "la chiarezza delle procedure decisionali",
+    "D": "la durata del contratto formale di lavoro",
+    "corretta": "A",
+    "numero": 82
+  },
+  {
+    "domanda": "Qual è uno degli elementi principali del contratto psicologico per il lavoratore:",
+    "A": "valori individuali",
+    "B": "promesse aziendali e obblighi reciproci",
+    "C": "pratiche manageriali",
+    "D": "comportamenti organizzativi",
+    "corretta": "B",
+    "numero": 83
+  },
+  {
+    "domanda": "Qual è uno degli effetti della violazione del contratto psicologico a livello organizzativo:",
+    "A": "soddisfazione lavorativa",
+    "B": "turnover",
+    "C": "tradimento",
+    "D": "sfiducia",
+    "corretta": "B",
+    "numero": 84
+  },
+  {
+    "domanda": "Qual è la differenza tra rottura e violazione del contratto psicologico:",
+    "A": "non c'è differenza, i termini sono sinonimi",
+    "B": "la rottura è una valutazione soggettiva, la violazione è un fatto oggettivo",
+    "C": "la rottura è una valutazione soggettiva, la violazione è un fatto organizzativo",
+    "D": "la rottura rappresenta l'aspetto cognitivo, mentre la violazione rappresenta l'aspetto emotivo ed affettivo",
+    "corretta": "D",
+    "numero": 85
+  },
+  {
+    "domanda": "Il termine 'Work' è utilizzato nella lingua inglese per indicare:",
+    "A": "l'attività concreta svolta per un periodo determinato",
+    "B": "il termine work e job sono sinonimi",
+    "C": "attività umana diretta a uno scopo",
+    "D": "attività basata su requisiti oggettivi e soggettivi",
+    "corretta": "C",
+    "numero": 86
+  },
+  {
+    "domanda": "Qual è uno degli aspetti essenziali da considerare per comprendere un'attività lavorativa?",
+    "A": "solo il decorso osservabile dell'attività",
+    "B": "solo i processi cognitivi e i vissuti soggettivi dell'attività",
+    "C": "solo i significati sociali e le mediazioni oggettivabili",
+    "D": "tutti gli aspetti menzionati sono essenziali per comprendere un'attività lavorativa",
+    "corretta": "D",
+    "numero": 87
+  },
+  {
+    "domanda": "Qual è la distinzione fondamentale tra compiti prescritti e attività lavorativa reale:",
+    "A": "i compiti prescritti si riferiscono solo alle attività scritte, mentre l'attività lavorativa reale include anche compiti non documentati",
+    "B": "i compiti prescritti indicano solo gli obiettivi, mentre l'attività lavorativa reale rappresenta ciò che il lavoratore fa effettivamente per raggiungerli",
+    "C": "i compiti prescritti sono più complessi rispetto all'attività lavorativa reale",
+    "D": "i compiti prescritti sono definiti solo dagli ingegneri, mentre l'attività lavorativa reale è definita solo dai lavoratori",
+    "corretta": "B",
+    "numero": 88
+  },
+  {
+    "domanda": "Qual è uno degli esempi di 'job crafting' menzionato nel testo:",
+    "A": "seguire rigorosamente i compiti prescritti",
+    "B": "creare alternative per semplificare il lavoro",
+    "C": "cambiare in modo creativo il modo di svolgere alcuni compiti",
+    "D": "mantenere invariati i tempi di lavoro",
+    "corretta": "C",
+    "numero": 89
+  },
+  {
+    "domanda": "Perché la distanza tra i compiti prescritti e quelli reali è inevitabile secondo il testo:",
+    "A": "a causa delle inefficienze nella progettazione dei compiti",
+    "B": "a causa della mancanza di comunicazione tra i dirigenti e i lavoratori",
+    "C": "a causa dell'assenza di formazione adeguata per i lavoratori",
+    "D": "a causa della mancanza di strumenti di lavoro calibrati",
+    "corretta": "A",
+    "numero": 90
+  },
+  {
+    "domanda": "Cosa rappresenta il modello Big Five menzionato nel testo:",
+    "A": "un modello basato su cinque fattori della personalità",
+    "B": "un modello di misurazione dell'efficienza lavorativa",
+    "C": "un modello di prestazione finanziaria",
+    "D": "un modello di valutazione temporale",
+    "corretta": "A",
+    "numero": 91
+  },
+  {
+    "domanda": "Secondo Campbell (1990), quanti aspetti legati all'esecuzione dei compiti lavorativi sono contemplati nella struttura implicita della performance:",
+    "A": "tre",
+    "B": "cinque",
+    "C": "otto",
+    "D": "dieci",
+    "corretta": "C",
+    "numero": 92
+  },
+  {
+    "domanda": "Cosa caratterizza la \"task performance\" secondo il testo:",
+    "A": "comportamenti proattivi nell'organizzazione",
+    "B": "svolgimento di compiti specifici del lavoro",
+    "C": "comportamenti non direttamente legati ai compiti di ruolo",
+    "D": "comportamenti che contribuiscono alla qualità delle relazioni psicosociali",
+    "corretta": "B",
+    "numero": 93
+  },
+  {
+    "domanda": "In che modo si definisce l'\"adaptive performance\" secondo Pulakos e colleghi (2000):",
+    "A": "accettazione passiva delle richieste del lavoro.",
+    "B": "conformità rigida alle procedure organizzative.",
+    "C": "resistenza al cambiamento.",
+    "D": "capacità proattive del lavoratore nel gestire situazioni mutevoli e incerte",
+    "corretta": "D",
+    "numero": 94
+  },
+  {
+    "domanda": "Qual è il rischio associato all'aumento dello sforzo come strategia di risposta compensatoria:",
+    "A": "stress controllabile",
+    "B": "affaticamento e stress non più controllabile",
+    "C": "maggiore efficienza e soddisfazione lavorativa",
+    "D": "aumento delle riserve cognitive",
+    "corretta": "B",
+    "numero": 95
+  },
+  {
+    "domanda": "Cosa significa \"strategic job analysis\" secondo Sanchez e Levine (2012):",
+    "A": "un'analisi che si concentra esclusivamente sulla sicurezza sul lavoro",
+    "B": "un'analisi che evidenzia la natura dei compiti lavorativi attuali e riflette la partecipazione dei lavoratori nel processo di analisi",
+    "C": "un'analisi che definisce criteri per valutare le prestazioni dei dipendenti",
+    "D": "un'analisi che mira a identificare punti critici per la sicurezza sul lavoro",
+    "corretta": "B",
+    "numero": 96
+  },
+  {
+    "domanda": "Quali sono alcune delle funzioni dell'analisi del lavoro nelle politiche del personale:",
+    "A": "definire obiettivi, metodi e tempi del progetto formativo",
+    "B": "identificare punti critici per la sicurezza sul lavoro",
+    "C": "fornire basi per identificare competenze, conoscenze e abilità necessarie per una posizione",
+    "D": "aiutare nella pianificazione delle risorse umane, inclusi il reclutamento e il rimpiazzo dei lavoratori",
+    "corretta": "C",
+    "numero": 97
+  },
+  {
+    "domanda": "In che modo l'analisi del lavoro tiene conto della variabilità delle situazioni lavorative:",
+    "A": "limitandosi alla tradizionale \"job analysis\"",
+    "B": "concentrandosi solo sulla \"work analysis\"",
+    "C": "ignorando la variabilità delle situazioni lavorative",
+    "D": "superando la tradizionale \"job analysis\" e considerando il contesto di lavoro, le condizioni di esecuzione e le capacità dei lavoratori",
+    "corretta": "D",
+    "numero": 98
+  },
+  {
+    "domanda": "Perché le caratteristiche psicosociali sono considerate sempre più cruciali nelle specifiche del lavoro:",
+    "A": "perché sostituiscono completamente le competenze lavorative",
+    "B": "perché i lavori stanno perdendo le loro tradizionali definizioni di insiemi chiari e prefissati di compiti",
+    "C": "perché le organizzazioni si concentrano solo sulle qualità personali dei lavoratori",
+    "D": "perché non sono più necessarie le competenze tecniche",
+    "corretta": "B",
+    "numero": 99
+  },
+  {
+    "domanda": "Come avviene la suddivisione delle attività nella task analysis:",
+    "A": "utilizzando la scomposizione gerarchica",
+    "B": "per ordine alfabetico",
+    "C": "in modo casuale",
+    "D": "seguendo una sequenza cronologica",
+    "corretta": "A",
+    "numero": 100
+  },
+  {
+    "domanda": "Secondo le rilevazioni dell'INAIL, qual è stata la tendenza degli incidenti sul lavoro in Italia negli ultimi anni:",
+    "A": "aumento costante",
+    "B": "calo costante",
+    "C": "variazione significativa",
+    "D": "per lo più costanti, con un leggero calo nel lungo periodo",
+    "corretta": "D",
+    "numero": 101
+  },
+  {
+    "domanda": "In base all'approccio ingegneristico-ergonomico, come mira a prevenire incidenti e comportamenti insicuri:",
+    "A": "attraverso interventi esclusivamente basati sulla formazione dei lavoratori",
+    "B": "attraverso interventi tecnologici e miglioramenti nella interazione tra persona e macchina",
+    "C": "attraverso la selezione di persone con tratti di personalità specifici",
+    "D": "attraverso l'implementazione di norme di sicurezza più rigide",
+    "corretta": "B",
+    "numero": 102
+  },
+  {
+    "domanda": "Secondo la metanalisi di Beus, Dhanani e McCord (2015), quali fattori di personalità sono significativamente associati a comportamenti sicuri:",
+    "A": "nevroticismo ed estroversione",
+    "B": "amicalità e apertura mentale",
+    "C": "coscienziosità e amicalità",
+    "D": "estroversione e apertura mentale",
+    "corretta": "C",
+    "numero": 103
+  },
+  {
+    "domanda": "Quali sono i tre limiti principali del funzionamento cognitivo umano identificati da Reason (1990) che possono fungere da precursori psicologici degli errori:",
+    "A": "razionalità limitata, razionalità imperfetta e razionalità riluttante",
+    "B": "attività cognitiva, memoria limitata, attenzione selettiva",
+    "C": "euristiche, memoria di lavoro, decisioni analitiche",
+    "D": "scelte razionali, ragionamento analitico, memoria a lungo termine",
+    "corretta": "A",
+    "numero": 104
+  },
+  {
+    "domanda": "Cosa distingue le violazioni di routine dalle violazioni eccezionali:",
+    "A": "le violazioni di routine sono comportamenti abituali, mentre le violazioni eccezionali si verificano in circostanze particolari",
+    "B": "le violazioni di routine sono più gravi delle violazioni eccezionali",
+    "C": "le violazioni di routine sono sempre involontarie, mentre le violazioni eccezionali sono sempre deliberate",
+    "D": "non c'è differenza significativa tra le due",
+    "corretta": "A",
+    "numero": 105
+  },
+  {
+    "domanda": "Come può essere facilitato il rilevamento e la gestione degli errori nei contesti complessi (ad esempio, nel settore dell'addestramento dei piloti):",
+    "A": "riducendo la flessibilità nelle comunicazioni organizzative",
+    "B": "aumentando la distanza gerarchica tra i diversi ruoli organizzativi",
+    "C": "riducendo la distanza gerarchica tra i diversi ruoli organizzativi",
+    "D": "applicando una cultura normativa rigida",
+    "corretta": "C",
+    "numero": 106
+  },
+  {
+    "domanda": "Secondo l'approccio alla costruzione sociale della sicurezza, cosa è un luogo di lavoro sicuro:",
+    "A": "un luogo senza incidenti",
+    "B": "un luogo con adeguati sistemi di protezione",
+    "C": "un luogo con regolamenti rigidi",
+    "D": "un luogo dove diversi gruppi di individui interagiscono e generano una cultura della sicurezza",
+    "corretta": "D",
+    "numero": 107
+  },
+  {
+    "domanda": "Secondo il modello di Reason, lo Swiss Cheese Model, qual è la relazione tra errori attivi e condizioni latenti negli incidenti organizzativi:",
+    "A": "gli errori attivi sono causati dalle condizioni latenti",
+    "B": "gli errori attivi e le condizioni latenti sono entrambi coinvolti negli incidenti organizzativi",
+    "C": "gli errori attivi e le condizioni latenti sono indipendenti l'uno dall'altro",
+    "D": "gli errori attivi causano le condizioni latenti",
+    "corretta": "B",
+    "numero": 108
+  },
+  {
+    "domanda": "Nello Swiss Cheese Model, cosa rappresenta la \"traiettoria di opportunità\" in relazione agli incidenti organizzativi:",
+    "A": "una sequenza di decisioni corrette",
+    "B": "un percorso attraverso barriere difensive",
+    "C": "una serie di errori attivi",
+    "D": "una situazione di stallo nel sistema",
+    "corretta": "A",
+    "numero": 109
+  },
+  {
+    "domanda": "In che modo i \"near miss\" possono agire come vaccini per il sistema:",
+    "A": "attivano le difese del sistema contro eventi più gravi in futuro",
+    "B": "causano danni minimi nel processo",
+    "C": "rappresentano un potente richiamo dei rischi",
+    "D": "introducono scenari nuovi e imprevedibili",
+    "corretta": "A",
+    "numero": 110
+  },
+  {
+    "domanda": "In che modo il clima di sicurezza influisce sul comportamento organizzativo secondo Nahrgang, Morgeson e Hofmann:",
+    "A": "non ha alcun impatto sul comportamento organizzativo",
+    "B": "favorisce comportamenti più sicuri nelle organizzazioni",
+    "C": "ha un impatto negativo sulle decisioni collettive",
+    "D": "non influenza le decisioni riguardanti misure di protezione",
+    "corretta": "B",
+    "numero": 111
+  },
+  {
+    "domanda": "Qual è uno degli esempi forniti nel testo per la dimensione \"Atteggiamenti della direzione aziendale verso la sicurezza\":",
+    "A": "la percezione dei rischi nel compito lavorativo",
+    "B": "i comportamenti sicuri vengono considerati e valutati positivamente nelle revisioni delle prestazioni",
+    "C": "la pressione e il carico di lavoro sono considerati eccessivi",
+    "D": "la leadership aziendale partecipa attivamente a programmi di sicurezza",
+    "corretta": "D",
+    "numero": 112
+  },
+  {
+    "domanda": "Cosa può rappresentare la dimensione \"Livello di rischio nei vari compiti lavorativi\":",
+    "A": "la percezione dei rischi nell'organizzazione nel suo insieme",
+    "B": "la percezione del ruolo assegnato ai comportamenti \"sicuri\" nelle progressioni di carriera",
+    "C": "la percezione dei lavoratori riguardo a quanto i dirigenti valorizzino la sicurezza",
+    "D": "la qualità percepita della comunicazione tra diversi gruppi di lavoro sui temi della sicurezza",
+    "corretta": "A",
+    "numero": 113
+  },
+  {
+    "domanda": "Secondo Chmiel (2008), qual è uno dei problemi principali nella stima del livello di sicurezza basandosi sul numero e sulla natura degli infortuni:",
+    "A": "la variazione delle statistiche generali sugli incidenti tra organizzazioni diverse",
+    "B": "l'alta probabilità di sottodenuncia degli incidenti, specialmente quelli di portata meno severa",
+    "C": "la complessità del concetto di sicurezza",
+    "D": "l'efficacia delle misure preventive adottate",
+    "corretta": "B",
+    "numero": 114
+  },
+  {
+    "domanda": "Quali sono gli antecedenti prossimali della prestazione sicura:",
+    "A": "caratteristiche individuali come la coscienziosità",
+    "B": "clima di sicurezza e stile di leadership correlato alla sicurezza",
+    "C": "motivazione alla sicurezza e conoscenza relativa ai temi della sicurezza",
+    "D": "condizioni fisiche, tecniche e procedurali",
+    "corretta": "C",
+    "numero": 115
+  },
+  {
+    "domanda": "Quali sono i 5 aspetti del lavoro considerati importanti secondo i dati della Society for Human Resource Management (SHRM):",
+    "A": "stipendio, realizzazione, job security, trattamento rispettoso, opportunità di usare le proprie capacità nel lavoro",
+    "B": "trattamento rispettoso, fiducia, compensi, job security, opportunità di usare le proprie capacità nel lavoro",
+    "C": "realizzazione, stipendio, fiducia, opportunità di usare le proprie capacità nel lavoro, trattamento rispettoso",
+    "D": "fiducia, stipendio, job security, realizzazione, trattamento rispettoso",
+    "corretta": "B",
+    "numero": 116
+  },
+  {
+    "domanda": "Qual è la correlazione tra soddisfazione e produttività secondo la metanalisi condotta da Judge e colleghi nel 2001:",
+    "A": "correlazione elevata",
+    "B": "nessuna correlazione",
+    "C": "correlazione modesta",
+    "D": "correlazione negativa",
+    "corretta": "C",
+    "numero": 117
+  },
+  {
+    "domanda": "Quali sono le tre componenti principali del capitale intellettuale di un'organizzazione:",
+    "A": "capitale umano, capitale relazionale e capitale organizzativo",
+    "B": "capitale fisico, capitale relazionale e capitale organizzativo",
+    "C": "capitale umano, capitale di mercato e capitale finanziario",
+    "D": "capitale finanziario, capitale umano e capitale fisico",
+    "corretta": "A",
+    "numero": 118
+  },
+  {
+    "domanda": "Come influenzano elevati livelli di benessere psicologico la performance lavorativa:",
+    "A": "riducendo l'adaptive performance e la prossimal performance",
+    "B": "aumentando la task performance, la prossimal performance e la adaptive performance",
+    "C": "non hanno effetti sulla performance lavorativa",
+    "D": "aumentando la task performance, la contextual performance e la adaptive performance",
+    "corretta": "D",
+    "numero": 119
+  },
+  {
+    "domanda": "Cosa rappresentano le emozioni di base, secondo Ekman:",
+    "A": "emozioni complesse e apprese",
+    "B": "emozioni universalmente presenti",
+    "C": "emozioni che variano da cultura a cultura",
+    "D": "emozioni superficiali",
+    "corretta": "B",
+    "numero": 120
+  },
+  {
+    "domanda": "Secondo i report annuali dell'Istituto internazionale Gallup, qual è la percentuale approssimativa di lavoratori che si mostra coinvolto attivamente e appassionato nel proprio lavoro:",
+    "A": "circa il 10%",
+    "B": "circa il 30%",
+    "C": "circa il 50%",
+    "D": "circa il 70%",
+    "corretta": "B",
+    "numero": 121
+  },
+  {
+    "domanda": "Cosa si intende per \"State Engagement\" secondo Macey e Schneider (2008):",
+    "A": "i comportamenti di cittadinanza organizzativa, che sono comportamenti altruistici dei dipendenti che vanno oltre il semplice adempimento dei loro ruoli lavorativi specifici",
+    "B": "si riferisce sostanzialmente alla personalità proattiva dei singoli individui",
+    "C": "l'opportunità di trarre energia dal legame con il lavoro per la costruzione del Sé",
+    "D": "il coinvolgimento o l'identificazione emotiva dei lavoratori con il proprio lavoro",
+    "corretta": "D",
+    "numero": 122
+  },
+  {
+    "domanda": "Come possono influire le esperienze emotive positive sulla formazione di un ambiente lavorativo più impegnativo e soddisfacente:",
+    "A": "le esperienze emotive positive possono creare un ambiente di lavoro competitivo",
+    "B": "le esperienze emotive positive possono ridurre la percezione del tempo",
+    "C": "le esperienze emotive positive possono aumentare risorse personali",
+    "D": "le esperienze emotive positive possono aumentare il livello di lavoro compulsivo.",
+    "corretta": "C",
+    "numero": 123
+  },
+  {
+    "domanda": "Cosa può causare la fatica mentale nei lavoratori:",
+    "A": "decremento delle abilità cognitive e delle performance lavorative",
+    "B": "aumento delle abilità cognitive",
+    "C": "incremento dell'entusiasmo per l'attività lavorativa",
+    "D": "maggiore motivazione a svolgere compiti complessi",
+    "corretta": "A",
+    "numero": 124
+  },
+  {
+    "domanda": "Come la noia può influire sulle prestazioni lavorative:",
+    "A": "la noia aumenta la motivazione intrinseca",
+    "B": "la noia può portare al ritiro dall'impegno",
+    "C": "la noia ha un impatto positivo sulla vigilanza e sull'attenzione sostenuta",
+    "D": "la noia non ha alcuna influenza sulle prestazioni lavorative",
+    "corretta": "",
+    "numero": 125,
+    "_errore": "Risposta corretta non identificata in modo univoco"
+  },
+  {
+    "domanda": "Quale testo normativo prevede l'esplicita considerazione del rischio stress lavoro-correlato:",
+    "A": "D.lgs. 81/08",
+    "B": "Codice civile",
+    "C": "D.l. 38/00",
+    "D": "D.M. 27/04/04",
+    "corretta": "A",
+    "numero": 126
+  },
+  {
+    "domanda": "Cosa rappresenta il termine \"eustress\":",
+    "A": "uno stato di tensione generale",
+    "B": "una minaccia per la persona",
+    "C": "stress percepito come sfide stimolanti",
+    "D": "un adattamento fisico-biologico",
+    "corretta": "C",
+    "numero": 127
+  },
+  {
+    "domanda": "Secondo il \"Job Demands-Control Model\" quali sono le due caratteristiche fondamentali del lavoro che contribuiscono allo stress lavorativo:",
+    "A": "incentivi e ricompense",
+    "B": "richiesta lavorativa e libertà decisionale",
+    "C": "supporto sociale e ambiente fisico",
+    "D": "ambiguità di ruolo e soddisfazione lavorativa",
+    "corretta": "B",
+    "numero": 128
+  },
+  {
+    "domanda": "Secondo il modello Effort/Reward Imbalance (ERI), cosa è cruciale per lo strain lavorativo:",
+    "A": "gli sforzi profusi",
+    "B": "la percezione di uno squilibrio tra gli sforzi profusi e le ricompense ottenute",
+    "C": "le ricompense ottenute",
+    "D": "il tempo dedicato al lavoro",
+    "corretta": "B",
+    "numero": 129
+  },
+  {
+    "domanda": "Quali stressors fanno parte della categoria di \"stressors individuali\":",
+    "A": "solo stressors soggettivamente percepiti",
+    "B": "solo stressors connessi a caratteristiche oggettive dell'occupazione",
+    "C": "solo job stressors in senso stretto",
+    "D": "solo stressors soggettivamente percepiti; solo stressors connessi a caratteristiche oggettive dell'occupazione; solo job stressors in senso stretto",
+    "corretta": "D",
+    "numero": 130
+  },
+  {
+    "domanda": "Quali sono alcune risorse individuali che possono modulare la percezione della minaccia o della gravità delle situazioni stressanti:",
+    "A": "l'instabilità emotiva",
+    "B": "il locus of control interno",
+    "C": "il locus of control esterno",
+    "D": "la personalità di tipo A",
+    "corretta": "B",
+    "numero": 131
+  },
+  {
+    "domanda": "Cosa afferma l'EU-OSHA (2014) riguardo allo stress sul luogo di lavoro:",
+    "A": "interessa il 50% dei lavoratori",
+    "B": "è una preoccupazione per il 60% dei manager",
+    "C": "è una preoccupazione per l'80% dei manager",
+    "D": "non ha impatti significativi sulla produttività",
+    "corretta": "C",
+    "numero": 132
+  },
+  {
+    "domanda": "Quali sono le tre componenti principali del burnout:",
+    "A": "eccesso di lavoro, isolamento sociale, esaurimento emotivo",
+    "B": "depersonalizzazione, esaurimento emotivo, senso di efficacia professionale ridotta",
+    "C": "elevato coinvolgimento emotivo, riduzione del cinismo, senso di efficacia professionale ridotta",
+    "D": "stress temporaneo, depersonalizzazione, esaurimento emotivo",
+    "corretta": "B",
+    "numero": 133
+  },
+  {
+    "domanda": "Cosa implica il coping centrato sul problema:",
+    "A": "azioni per rafforzare le capacità di resistenza agli stressors",
+    "B": "azioni volte a modificare il significato attribuito all'evento per attenuarne la salienza emotiva",
+    "C": "azioni direttamente orientate a rimuovere le cause del problema",
+    "D": "azioni basate sulla fuga dai problemi",
+    "corretta": "C",
+    "numero": 134
+  },
+  {
+    "domanda": "Cosa coinvolge la prevenzione terziaria nei contesti aziendali per affrontare lo stress lavorativo:",
+    "A": "migliorare le capacità di comunicazione e collaborazione nei team di lavoro",
+    "B": "ridurre i carichi di lavoro utilizzando nuove tecnologie",
+    "C": "eliminare o ridurre gli stressors",
+    "D": "trattamento e riabilitazione attraverso interventi di sostegno",
+    "corretta": "D",
+    "numero": 135
+  },
+  {
+    "domanda": "Qual è l'importanza della cultura aziendale, nei comportamenti controproducenti secondo l'approccio sistemico:",
+    "A": "ha un impatto trascurabile sul comportamento dei dipendenti",
+    "B": "influenza notevolmente il comportamento dei dipendenti",
+    "C": "non è correlata ai comportamenti scorretti",
+    "D": "può essere completamente ignorata nell'analisi organizzativa",
+    "corretta": "B",
+    "numero": 136
+  },
+  {
+    "domanda": "Cosa rappresenta il termine \"Counterproductive Workplace Behavior (CWB)\":",
+    "A": "comportamenti involontari e non intenzionali",
+    "B": "azioni reattive senza scopo specifico",
+    "C": "condotte etiche e conformi ai codici aziendali",
+    "D": "comportamenti intenzionali contro individui e gli interessi legittimi dell'organizzazione",
+    "corretta": "D",
+    "numero": 137
+  },
+  {
+    "domanda": "Perché alcune azioni collettive di protesta potrebbero non essere considerate CWB:",
+    "A": "perché non danneggiano gli interessi aziendali",
+    "B": "perché sono azioni legali",
+    "C": "perché mirano a contrastare ingiustizie organizzative",
+    "D": "perché non hanno un impatto sulla produzione",
+    "corretta": "C",
+    "numero": 138
+  },
+  {
+    "domanda": "Quanti tipi di violenza sul luogo di lavoro vengono individuati da Merchant e Lundell (2001):",
+    "A": "due",
+    "B": "tre",
+    "C": "quattro",
+    "D": "cinque",
+    "corretta": "C",
+    "numero": 139
+  },
+  {
+    "domanda": "Secondo Vardi e Weitz, quali sono i tre tipi di intenzioni di base di comportamenti controproducenti:",
+    "A": "comportamenti intenzionali mirati a trarre vantaggio per sé stessi, comportamenti intenzionali che procurano vantaggi per l'organizzazione, comportamenti intenzionali con finalità distruttive",
+    "B": "comportamenti favorevoli, comportamenti tollerati, comportamenti distruttivi",
+    "C": "comportamenti personali, comportamenti organizzativi, comportamenti distruttivi",
+    "D": "comportamenti interni, comportamenti esterni, comportamenti personali",
+    "corretta": "A",
+    "numero": 140
+  },
+  {
+    "domanda": "Come viene definito il \"workaholism\" da Schaufeli, Taris e Bakker:",
+    "A": "come una preferenza per il lavoro autonomo",
+    "B": "come la tendenza a lavorare eccessivamente in modo compulsivo",
+    "C": "come un'approvazione sociale del lavoro incessante",
+    "D": "come una predisposizione genetica al lavoro",
+    "corretta": "B",
+    "numero": 141
+  },
+  {
+    "domanda": "Cosa sono i casi di \"Karoshi\" accaduti in Giappone, Corea e Cina:",
+    "A": "casi di successo nel lavoro",
+    "B": "casi di dipendenza dal lavoro",
+    "C": "casi di burnout professionale",
+    "D": "casi di lavoro eccessivo sino alla morte",
+    "corretta": "D",
+    "numero": 142
+  },
+  {
+    "domanda": "Quala sono le conseguenze associate ai comportamenti di \"daily hassles\" nel lungo periodo:",
+    "A": "aumento dello stress",
+    "B": "aumento della proattività e dell'iniziativa individuale",
+    "C": "diminuzione della soddisfazione dei dipendenti",
+    "D": "diminuzione del rischio di esaurimento emotivo",
+    "corretta": "A",
+    "numero": 143
+  },
+  {
+    "domanda": "Quali sono alcuni tra i settori più colpiti da condotte avverse nei luoghi di lavoro:",
+    "A": "edilizia, agricoltura, informatica",
+    "B": "scuola, pubblica amministrazione, alberghi e ristoranti",
+    "C": "finanza, pubblicità, servizi legali",
+    "D": "arte, cultura, intrattenimento",
+    "corretta": "B",
+    "numero": 144
+  },
+  {
+    "domanda": "Secondo il \"modello comportamentista\", cosa può scatenare reazioni aggressive nei luoghi di lavoro:",
+    "A": "percezioni di ingiustizia",
+    "B": "conflitti interpersonali",
+    "C": "costrizioni o ostacoli alle azioni",
+    "D": "violazione del contratto psicologico",
+    "corretta": "C",
+    "numero": 145
+  },
+  {
+    "domanda": "Chi è stato il primo a utilizzare il termine \"mobbing\" per indicare la persecuzione psicologica nell'ambiente di lavoro:",
+    "A": "Konrad Lorenz",
+    "B": "Heinz Leymann",
+    "C": "Anders Gustavsson",
+    "D": "Harald Ege",
+    "corretta": "B",
+    "numero": 146
+  },
+  {
+    "domanda": "Per quanto tempo devono ripetersi gli atti negativi per essere considerati mobbing, secondo i criteri convenzionali menzionati nel testo:",
+    "A": "almeno un mese",
+    "B": "almeno tre mesi",
+    "C": "almeno sei mesi",
+    "D": "almeno un anno",
+    "corretta": "C",
+    "numero": 147
+  },
+  {
+    "domanda": "Cosa implica il mobbing verticale nel contesto lavorativo:",
+    "A": "azioni vessatorie tra colleghi con la stessa posizione gerarchica",
+    "B": "violenze fisiche perpetrate da superiori",
+    "C": "violenze psicologiche da parte di un superiore verso la vittima",
+    "D": "azioni vessatorie tra dipendenti e clienti",
+    "corretta": "C",
+    "numero": 148
+  },
+  {
+    "domanda": "Quante fasi compongono il modello di Leymann per il mobbing:",
+    "A": "quattro fasi",
+    "B": "cinque fasi",
+    "C": "sei fasi",
+    "D": "tre fasi",
+    "corretta": "A",
+    "numero": 149
+  },
+  {
+    "domanda": "Cosa caratterizza lo \"straining\" nel contesto lavorativo:",
+    "A": "è sempre consapevole e mirato a sfogare tensioni accumulate",
+    "B": "riguarda principalmente il mobbing all'interno del gruppo di lavoro",
+    "C": "è indipendente dallo stress e dal mobbing",
+    "D": "implica mettere sotto pressione attraverso azioni volte a creare discriminazioni e situazioni di stress forzato nel luogo di lavoro",
+    "corretta": "D",
+    "numero": 150
+  },
+  {
+    "domanda": "Quale può essere, rispetto le caratteristiche di personalità, un elemento influente nel manifestarsi del ritardo:",
+    "A": "bassa coscienziosità",
+    "B": "elevata socialità",
+    "C": "distanza dal posto di lavoro",
+    "D": "diagnosi di disturbo paranoide di personalità",
+    "corretta": "A",
+    "numero": 151
+  },
+  {
+    "domanda": "In che modo le assenze ingiustificate vengono interpretate in base allo studio di Vardi e Weitz del 2004:",
+    "A": "come una strategia per ottenere vantaggi personali",
+    "B": "come una forma di protesta individuale",
+    "C": "come un atto mirato a infliggere danni diretti all'organizzazione",
+    "D": "come una strategia per ottenere vantaggi personali, come una forma di protesta individuale, come un atto mirato a infliggere danni diretti all'organizzazione",
+    "corretta": "D",
+    "numero": 152
+  },
+  {
+    "domanda": "Cosa rappresenta il termine \"presenteismo\" nel contesto lavorativo:",
+    "A": "essere presente sul luogo di lavoro solo quando ci si sente bene",
+    "B": "la tendenza a essere presente sul luogo di lavoro anche quando si è malati",
+    "C": "la preferenza per lavorare da remoto anziché in ufficio",
+    "D": "l'adesione rigorosa agli orari di lavoro",
+    "corretta": "B",
+    "numero": 153
+  },
+  {
+    "domanda": "Secondo uno studio condotto in vari paesi europei, qual è la percentuale media di persone che dichiarano di aver lavorato nonostante la malattia negli ultimi 12 mesi:",
+    "A": "60%",
+    "B": "42%",
+    "C": "25%",
+    "D": "75%",
+    "corretta": "B",
+    "numero": 154
+  },
+  {
+    "domanda": "Secondo uno studio condotto tra i lavoratori di vari settori, qual è la percentuale approssimativa di lavoratori che incorrono almeno una o due volte in furti:",
+    "A": "5%",
+    "B": "10%",
+    "C": "20%",
+    "D": "30%",
+    "corretta": "C",
+    "numero": 155
+  },
+  {
+    "domanda": "Qual è il principio fondamentale su cui si fonda l'OD:",
+    "A": "gli individui devono sacrificare i propri bisogni per raggiungere gli obiettivi dell'organizzazione",
+    "B": "gli obiettivi dell'organizzazione sono inconciliabili con quelli degli individui",
+    "C": "gli obiettivi dell'organizzazione e quelli degli individui possono coesistere armoniosamente",
+    "D": "l'efficienza organizzativa richiede il deterioramento delle condizioni individuali",
+    "corretta": "C",
+    "numero": 156
+  },
+  {
+    "domanda": "Su cosa è focalizzata l'attenzione nel paradigma dei sistemi:",
+    "A": "sulla totalità e sulle interconnessioni",
+    "B": "sulla particolarità e sul principio di causalità unidirezionale",
+    "C": "le singole componenti in modo isolato",
+    "D": "sullo schema logico tradizionale di analisi-sintesi",
+    "corretta": "A",
+    "numero": 157
+  },
+  {
+    "domanda": "Chi ha contribuito allo sviluppo del paradigma sistemico concependo l'organizzazione come un sistema sociotecnico:",
+    "A": "Kurt Lewin",
+    "B": "Trist e Bamforth",
+    "C": "Ludwig von Bertalanffy",
+    "D": "Frederick Taylor",
+    "corretta": "B",
+    "numero": 158
+  },
+  {
+    "domanda": "Quale teoria di Lewin è la trasposizione in psicologia del 2° principio della termodinamica di Maxwell:",
+    "A": "teoria dell'Apprendimento",
+    "B": "teoria Cognitiva",
+    "C": "teoria del Campo",
+    "D": "teoria Psicoanalitica",
+    "corretta": "C",
+    "numero": 159
+  },
+  {
+    "domanda": "Dove continuò principalmente lo studio della psicologia italiana negli anni '30:",
+    "A": "Università di Roma",
+    "B": "licei italiani",
+    "C": "Università di Napoli",
+    "D": "Università di Milano",
+    "corretta": "D",
+    "numero": 160
+  },
+  {
+    "domanda": "Qual è l'approccio proposto da Bruscaglioni e Spaltro (1991) per categorizzare le teorie organizzative:",
+    "A": "Sociologico-strutturalista, Psicosociale del fattore umano, Sistemico-funzionalista, Socioanalitico",
+    "B": "Tecnologico, Economico, Ambientale, Politico",
+    "C": "Individuale, Collettivo, Organizzativo, Ambientale",
+    "D": "Classico, Moderno, Contemporaneo, Postmoderno",
+    "corretta": "A",
+    "numero": 161
+  },
+  {
+    "domanda": "In che modo l'approccio sociologico-strutturalista considera l'organizzazione:",
+    "A": "come un sistema funzionale con un'enfasi sugli aspetti funzionali",
+    "B": "come un ente isolato dal contesto sociale, analizzando solo la sua struttura interna",
+    "C": "come un luogo di equilibrio tra funzioni organizzative",
+    "D": "come una piccola società, analizzando la distribuzione del potere, della ricchezza e del lavoro",
+    "corretta": "D",
+    "numero": 162
+  },
+  {
+    "domanda": "Cosa rappresenta il potere nell'approccio sociologico-strutturalista:",
+    "A": "una tra le variabile meno rilevanti",
+    "B": "una variabile prioritaria e fondamentale",
+    "C": "la funzione principale dell'organizzazione",
+    "D": "un elemento estraneo alla struttura organizzativa",
+    "corretta": "B",
+    "numero": 163
+  },
+  {
+    "domanda": "Quali tra le seguenti non fa parte delle diverse forme di potere secondo Max Weber:",
+    "A": "potere carismatico",
+    "B": "potere tradizionale",
+    "C": "potere burocratico",
+    "D": "potere legale",
+    "corretta": "C",
+    "numero": 164
+  },
+  {
+    "domanda": "Secondo Dahrendorf, cosa costituisce le classi nelle organizzazioni:",
+    "A": "la distribuzione delle risorse finanziarie",
+    "B": "la distribuzione delle competenze",
+    "C": "la distribuzione dell'autorità",
+    "D": "la distribuzione del lavoro",
+    "corretta": "C",
+    "numero": 165
+  },
+  {
+    "domanda": "In quanti modi può essere interpretata l'analisi del fattore umano e della sua influenza sull'efficienza organizzativa nell'approccio psicosociale del fattore umano:",
+    "A": "quattro modi",
+    "B": "due modi",
+    "C": "tre modi",
+    "D": "cinque modi",
+    "corretta": "C",
+    "numero": 166
+  },
+  {
+    "domanda": "Cosa rappresenta il gruppo nell'approccio psicosociale del fattore umano:",
+    "A": "un elemento di disturbo nelle dinamiche organizzative",
+    "B": "un mediatore tra individuo e organizzazione",
+    "C": "una componente trascurabile nelle analisi organizzative",
+    "D": "una fonte di inefficienza",
+    "corretta": "B",
+    "numero": 167
+  },
+  {
+    "domanda": "Come è definito l'operato di un'organizzazione nell'approccio sistemico-funzionalista:",
+    "A": "come l'esecuzione di compiti specifici",
+    "B": "come la massimizzazione del profitto",
+    "C": "come il processo di trasformazione di input in output",
+    "D": "come la gestione della cultura organizzativa",
+    "corretta": "C",
+    "numero": 168
+  },
+  {
+    "domanda": "Qual è la posizione schizoparanoide secondo Klein, e quando emerge:",
+    "A": "la scissione di Sé in parti buone e cattive, che emerge nei primi mesi di vita",
+    "B": "la consapevolezza depressiva, che emerge intorno al quarto mese di vita",
+    "C": "il riconoscimento dell'unità della madre, che emerge nell'adolescenza",
+    "D": "il conflitto edipico, che emerge nell'infanzia",
+    "corretta": "A",
+    "numero": 169
+  },
+  {
+    "domanda": "Cosa suggerisce la teoria della \"sensemaking\" di Karl Weick riguardo alle organizzazioni:",
+    "A": "le organizzazioni hanno confini chiari e identità sostanziali",
+    "B": "le organizzazioni non sono influenzate dal loro ambiente",
+    "C": "le organizzazioni possiedono una struttura stabile",
+    "D": "le organizzazioni sono costantemente coinvolte nel processo di dare significato al loro ambiente e alle situazioni che affrontano",
+    "corretta": "D",
+    "numero": 170
+  },
+  {
+    "domanda": "Come viene definito il concetto di competenza da Quaglino:",
+    "A": "come insieme di saperi di varia natura e abilità ad agire",
+    "B": "come risultato di specifici processi psicologici",
+    "C": "come investimento personale",
+    "D": "come totalità delle abilità definite attraverso l'analisi dei processi produttivi",
+    "corretta": "A",
+    "numero": 171
+  },
+  {
+    "domanda": "Cosa rappresenta l'Approccio Olistico alle Competenze (AOC):",
+    "A": "una prospettiva tradizionale nell'analisi delle competenze",
+    "B": "un orientamento filosofico innovativo nell'analisi delle competenze professionali",
+    "C": "un modello che considera solo le competenze individuali",
+    "D": "un'analisi delle competenze indipendente dal contesto organizzativo",
+    "corretta": "B",
+    "numero": 172
+  },
+  {
+    "domanda": "Cosa caratterizza le attitudini rispetto alle abilità:",
+    "A": "le attitudini si riferiscono al potenziale di acquisire abilità",
+    "B": "le abilità sono utilizzate per inferire il potenziale delle attitudini",
+    "C": "le attitudini e le abilità sono equiparabili",
+    "D": "le attitudini riguardano solo il comportamento effettivo",
+    "corretta": "A",
+    "numero": 173
+  },
+  {
+    "domanda": "Cosa rappresenta la personalità nell'ambiente lavorativo:",
+    "A": "una caratteristica irrilevante",
+    "B": "un elemento chiave nella comprensione delle differenze individuali",
+    "C": "una componente della competenza cognitiva",
+    "D": "un'abilità procedurale",
+    "corretta": "B",
+    "numero": 174
+  },
+  {
+    "domanda": "Quante fasi identifica il ciclo di vita organizzativo, e quali sono:",
+    "A": "tre fasi: nascita, sviluppo, maturità",
+    "B": "quattro fasi: nascita, sviluppo, mezza età, declino/rinnovamento",
+    "C": "cinque fasi: nascita, sviluppo, mezza età, maturità, declino/rinnovamento",
+    "D": "sei fasi: inizio, crescita, consolidamento, declino, rinnovamento, fine",
+    "corretta": "C",
+    "numero": 175
+  },
+  {
+    "domanda": "Qual è il ruolo del \"mission statement\" nella progettazione strategica di un'organizzazione:",
+    "A": "fornire una guida per il comportamento organizzativo",
+    "B": "dichiarare gli obiettivi finanziari dell'organizzazione",
+    "C": "indirizzare l'organizzazione verso un successo futuro",
+    "D": "definire chiaramente cosa l'organizzazione è e cosa non è",
+    "corretta": "A",
+    "numero": 176
+  },
+  {
+    "domanda": "Secondo Senge (1992), qual è la definizione di vision:",
+    "A": "un piano dettagliato per il raggiungimento degli obiettivi aziendali",
+    "B": "una forza nei cuori delle persone ispirata da un'idea",
+    "C": "un'astrazione nella ricerca di strumenti motivazionali",
+    "D": "un concetto legato alla persuasione nei modelli aziendali",
+    "corretta": "B",
+    "numero": 177
+  },
+  {
+    "domanda": "Qual è l'obiettivo principale dei sistemi coercitivi nelle organizzazioni, come descritti da Etzioni (1967):",
+    "A": "fornire ricompense per assicurare la conformità",
+    "B": "imporre forze di costrizione fisica per garantire la conformità",
+    "C": "basarsi sui valori condivisi per controllare il comportamento",
+    "D": "creare contratti basati su un orientamento strumentale",
+    "corretta": "B",
+    "numero": 178
+  },
+  {
+    "domanda": "In cosa consiste il potere coercitivo all'interno delle organizzazioni, secondo French e Raven (1959):",
+    "A": "all'identificazione personale e al rispetto per una figura di guida",
+    "B": "dal riconoscimento di abilità cruciali per il successo dell'organizzazione",
+    "C": "riflette l'autorità razionale-legale di Max Weber",
+    "D": "si basa sulla capacità di infliggere punizioni a coloro che non aderiscono alle richieste",
+    "corretta": "D",
+    "numero": 179
+  },
+  {
+    "domanda": "Quale vantaggio offre la struttura a matrice:",
+    "A": "una gestione efficace della complessità della produzione",
+    "B": "conflitti tra le divisioni funzionali e quelle di progetto",
+    "C": "presenza di molteplici responsabili per lo stesso progetto",
+    "D": "tendenza a generare \"autonomie\" e \"indipendenze\" non coordinate tra le singole divisioni",
+    "corretta": "A",
+    "numero": 180
+  },
+  {
+    "domanda": "Su cosa si basa la prospettiva fenomenologica:",
+    "A": "pragmatismo di William James",
+    "B": "materialismo dialettico di Karl Marx",
+    "C": "intersoggetività di Edmund Husserl",
+    "D": "positivismo logico di Ludwig Wittgenstein",
+    "corretta": "C",
+    "numero": 181
+  },
+  {
+    "domanda": "Secondo Schein (2000), qual è la definizione formale di cultura organizzativa:",
+    "A": "un insieme di percezioni oggettive",
+    "B": "una caratteristica intrinseca indipendente dalle percezioni individuali",
+    "C": "una base per interpretare la situazione organizzativa",
+    "D": "un insieme di assunti basilari che un certo gruppo ha inventato, scoperto o sviluppato",
+    "corretta": "D",
+    "numero": 182
+  },
+  {
+    "domanda": "Cosa predice, secondo Fukuyama (1995), la socievolezza spontanea nelle organizzazioni:",
+    "A": "la formazione di reti flessibili di piccole imprese",
+    "B": "il futuro e la sopravvivenza di un'organizzazione",
+    "C": "la variabilità nella capacità di fornire un contesto per economie globali",
+    "D": "la riduzione dei costi derivanti dalle controversie",
+    "corretta": "B",
+    "numero": 183
+  },
+  {
+    "domanda": "Quali sono le tre categorie di dimensioni considerate per comprendere la fiducia organizzativa:",
+    "A": "dimensioni Conoscitive, Emotive e del Comportamento",
+    "B": "dimensioni Cognitivo, Affettivo ed Economico",
+    "C": "dimensioni Culturale, Organizzativa e Comunicativa",
+    "D": "dimensioni Tecnologico, Sociale ed Etico",
+    "corretta": "A",
+    "numero": 184
+  },
+  {
+    "domanda": "Quale tra le seguenti è una dimensione della fiducia organizzativa:",
+    "A": "apertura",
+    "B": "socialità",
+    "C": "promiscuità",
+    "D": "interoperabilità",
+    "corretta": "A",
+    "numero": 185
+  },
+  {
+    "domanda": "Cosa caratterizza l'approccio situazionista alla leadership:",
+    "A": "la definizione di tratti psicologici peculiari",
+    "B": "l'attribuzione della leadership a una predisposizione naturale",
+    "C": "l'analisi delle situazioni specifiche in cui emergono le caratteristiche di personalità del leader",
+    "D": "il focus sul dibattito tra natura e cultura",
+    "corretta": "C",
+    "numero": 186
+  },
+  {
+    "domanda": "qual è stata una delle limitazioni evidenziate dall'approccio innatista della leadership:",
+    "A": "la mancanza di studi sui dirigenti delle organizzazioni",
+    "B": "l'incapacità di spiegare la diversità interindividuale",
+    "C": "la prevalenza della fiducia in sé stessi tra i leader",
+    "D": "l'assenza di tratti comuni tra i leader",
+    "corretta": "B",
+    "numero": 187
+  },
+  {
+    "domanda": "In cosa consiste la teoria della \"legge della situazione\" di Tannenbaum e Schmidt:",
+    "A": "nella scelta tra diverse alternative di comportamento basate su fattori specifici",
+    "B": "nella rigida adozione di uno stile di leadership autocratico",
+    "C": "nell'applicazione esclusiva del modello democratico-partecipativo",
+    "D": "nella predeterminazione del comportamento del leader in base al contesto",
+    "corretta": "A",
+    "numero": 188
+  },
+  {
+    "domanda": "Qual è il risultato della combinazione massima di orientamento al compito e alle relazioni nella Managerial Grid:",
+    "A": "stile di team",
+    "B": "stile lassista",
+    "C": "stile autoritario",
+    "D": "stile partecipativo",
+    "corretta": "A",
+    "numero": 189
+  },
+  {
+    "domanda": "Cosa sottolinea la teoria situazionale sulla leadership:",
+    "A": "l'esistenza di uno stile di leadership ideale",
+    "B": "la flessibilità e l'adattabilità come aspetti più importanti",
+    "C": "la predominanza di uno stile autocratico",
+    "D": "l'approccio taylorista alla leadership",
+    "corretta": "B",
+    "numero": 190
+  },
+  {
+    "domanda": "Secondo Fiedler, cosa determina il successo di un leader in una situazione:",
+    "A": "le abilità del leader",
+    "B": "come le abilità del leader si allineano con i fattori contingenti",
+    "C": "la leadership democratica",
+    "D": "l'orientamento al compito del leader",
+    "corretta": "B",
+    "numero": 191
+  },
+  {
+    "domanda": "Quanti sono gli stili decisionali considerati nella teoria di Vroom e Yetton:",
+    "A": "tre",
+    "B": "quattro",
+    "C": "cinque",
+    "D": "sei",
+    "corretta": "C",
+    "numero": 192
+  },
+  {
+    "domanda": "Cosa caratterizza la Path-Goal Theory di House:",
+    "A": "l'attenzione al ruolo del leader nel motivare i collaboratori",
+    "B": "l'enfasi sulle caratteristiche personali del leader",
+    "C": "la focalizzazione sulle abilità lavorative dei collaboratori",
+    "D": "l'importanza del raggiungimento degli obiettivi tecnici",
+    "corretta": "A",
+    "numero": 193
+  },
+  {
+    "domanda": "Quale tra i seguenti non è uno degli stili di leadership identificati da Hersey e Blanchard:",
+    "A": "stile autoritario",
+    "B": "stile partecipativo",
+    "C": "stile di vendita",
+    "D": "stile di delega",
+    "corretta": "A",
+    "numero": 194
+  },
+  {
+    "domanda": "Secondo Kenneth Rice, quale conseguenza può derivare dal collasso della leadership in un'organizzazione:",
+    "A": "crescita della maturità dei membri del gruppo",
+    "B": "progresso nel funzionamento del sistema",
+    "C": "maggiore autonomia dei dipendenti",
+    "D": "regressione a livello individuale, di gruppo e istituzionale",
+    "corretta": "D",
+    "numero": 195
+  },
+  {
+    "domanda": "Secondo Kotter, qual è la principale differenza tra management e leadership:",
+    "A": "management è direttivo, leadership è risolutivo",
+    "B": "management si concentra sulla complessità, leadership sul cambiamento",
+    "C": "management si basa sulla razionalità, leadership sull'utilitarismo",
+    "D": "management è adattativo, leadership è generativa",
+    "corretta": "B",
+    "numero": 196
+  },
+  {
+    "domanda": "Su quale assunto si basa il modello del gruppo come fatto collettivo:",
+    "A": "il gruppo come un microcosmo sociale",
+    "B": "il gruppo necessario per la soddisfazione dei bisogni e desideri",
+    "C": "il gruppo come metodologia per il raggiungimento di obiettivi individuali",
+    "D": "il gruppo come dinamica collettiva",
+    "corretta": "A",
+    "numero": 197
+  },
+  {
+    "domanda": "Cosa suggerisce la teoria del confronto sociale di Festinger riguardo alla formazione di gruppi:",
+    "A": "la paura induce un desiderio di isolamento",
+    "B": "la presenza degli altri aumenta la paura",
+    "C": "le persone cercano di confrontare se stesse con gli altri",
+    "D": "il confronto sociale è inutile per valutare se stessi",
+    "corretta": "C",
+    "numero": 198
+  },
+  {
+    "domanda": "Secondo la teoria dell'apprendimento attraverso rinforzi positivi, cosa contribuisce a formare un comportamento gregario nell'individuo:",
+    "A": "esperienze negative con gli altri",
+    "B": "rinforzi negativi",
+    "C": "associazione tra presenza degli altri e esperienze positive",
+    "D": "assenza completa di interazioni sociali",
+    "corretta": "C",
+    "numero": 199
+  },
+  {
+    "domanda": "In che modo Kurt Lewin descrive la struttura di un gruppo:",
+    "A": "statica e immutabile",
+    "B": "dinamica e interdipendente",
+    "C": "isolata dai membri",
+    "D": "indipendente dal contesto ambientale",
+    "corretta": "B",
+    "numero": 200
+  },
+  {
+    "domanda": "Qual è il concetto introdotto da Bion che si riferisce alle fantasie inconsce che influenzano il comportamento del gruppo:",
+    "A": "dinamica di gruppo",
+    "B": "assunti di base",
+    "C": "cultura di gruppo",
+    "D": "cooperazione di gruppo",
+    "corretta": "B",
+    "numero": 201
+  },
+  {
+    "domanda": "Cosa rappresentano gli assunti di base all'interno del gruppo di lavoro:",
+    "A": "configurazioni emotivo-affettive primitive",
+    "B": "strutture individuali",
+    "C": "soddisfazione dei bisogni",
+    "D": "dinamiche di interazione",
+    "corretta": "A",
+    "numero": 202
+  },
+  {
+    "domanda": "Secondo Quaglino, in che modo il gruppo può soddisfare il bisogno di identità:",
+    "A": "rifiutando il feedback degli altri",
+    "B": "mantenendo l'identità costruita individualmente",
+    "C": "utilizzando il feedback degli altri sulla propria immagine",
+    "D": "evitando la perdita parziale dell'immagine di sé",
+    "corretta": "C",
+    "numero": 203
+  },
+  {
+    "domanda": "Cosa definiva Lewin come \"groupship\" nella dimensione mentale del gruppo:",
+    "A": "la somma dei bisogni individuali",
+    "B": "la conformità individuale",
+    "C": "la tendenza alla leadership",
+    "D": "qualcosa di diverso dalla somma dei singoli",
+    "corretta": "D",
+    "numero": 204
+  },
+  {
+    "domanda": "Secondo Gibson e Tesone (2001), in che modo sono state accolte le pratiche organizzative team-based negli Stati Uniti:",
+    "A": "accettazione selettiva",
+    "B": "accettazione superficiale",
+    "C": "accettazione indiscriminata",
+    "D": "accettazione limitata",
+    "corretta": "C",
+    "numero": 205
+  },
+  {
+    "domanda": "Cosa rappresenta il sistema dei ruoli in un gruppo di lavoro:",
+    "A": "l'insieme di comportamenti attesi dalla leadership",
+    "B": "l'interazione complessa di aspettative reciproche tra gli individui",
+    "C": "le aspettative unilaterali degli individui",
+    "D": "l'equilibrio tra obiettivi individuali e collettivi",
+    "corretta": "B",
+    "numero": 206
+  },
+  {
+    "domanda": "Qual stadio è stato aggiunto successivamente al modello di sviluppo dei gruppi proposto da Tuckman:",
+    "A": "inclusione",
+    "B": "controllo",
+    "C": "amicizia",
+    "D": "aggiornamento",
+    "corretta": "B",
+    "numero": 207
+  },
+  {
+    "domanda": "Durante quale fase del modello di Tuckman si manifestano conflitti e ostilità tra i membri del gruppo:",
+    "A": "forming",
+    "B": "storming",
+    "C": "norming",
+    "D": "performing",
+    "corretta": "D",
+    "numero": 208
+  },
+  {
+    "domanda": "Qual è il principale risultato della fase conclusiva nel modello di Forsyth:",
+    "A": "consolidamento del gruppo e maggiore cooperazione",
+    "B": "risoluzione dei conflitti e adozione di idee di alta qualità",
+    "C": "scioglimento del gruppo una volta raggiunto il suo scopo",
+    "D": "avvio del processo di formazione di un nuovo gruppo",
+    "corretta": "C",
+    "numero": 209
+  },
+  {
+    "domanda": "Come si descrivono le fasi nel modello di Schutz:",
+    "A": "una progressione lineare che porta alla dissoluzione del gruppo",
+    "B": "tre fasi cicliche che si intrecciano e si influenzano reciprocamente nel tempo",
+    "C": "cinque fasi distinte che caratterizzano il processo evolutivo del gruppo",
+    "D": "fasi dinamiche che si focalizzano esclusivamente sul potere e la leadership nel gruppo",
+    "corretta": "B",
+    "numero": 210
+  },
+  {
+    "domanda": "Cosa può generare coesione all'interno di un gruppo, secondo Indik:",
+    "A": "specializzazione nei compiti",
+    "B": "controllo impersonale",
+    "C": "riduzione della comunicazione significativa",
+    "D": "riduzione della numerosità del gruppo",
+    "corretta": "D",
+    "numero": 211
+  },
+  {
+    "domanda": "Come definisce Miles la salute organizzativa:",
+    "A": "l'abilità del sistema di funzionare efficientemente",
+    "B": "l'abilità del sistema di crescere e svilupparsi in sistemi ancora più efficienti",
+    "C": "l'abilità del sistema di autogenerarsi",
+    "D": "l'abilità del sistema di produrre nuove possibilità di lavoro",
+    "corretta": "B",
+    "numero": 212
+  },
+  {
+    "domanda": "Qual era la prospettiva prevalente riguardo alla salute e alla sicurezza sul luogo di lavoro durante gli anni Trenta-Quaranta in Nord America:",
+    "A": "una prospettiva centrata esclusivamente sull'individuo",
+    "B": "una prospettiva meccanicistica focalizzata sulle condizioni di lavoro",
+    "C": "una prospettiva basata sull'equilibrio tra lavoro e vita privata",
+    "D": "una prospettiva incentrata sull'innovazione tecnologica",
+    "corretta": "B",
+    "numero": 213
+  },
+  {
+    "domanda": "Cosa distingue la Health Protection dalla Health Promotion secondo Glasgow e Terborg:",
+    "A": "la Health Protection si concentra sulla prevenzione delle malattie, mentre la Health Promotion mira a proteggere la salute fisica e mentale",
+    "B": "la Health Protection protegge la salute attraverso interventi curativi, mentre la Health Promotion promuove comportamenti salutari",
+    "C": "la Health Protection mira a proteggere il maggior numero possibile di persone dalle minacce alla salute, mentre la Health Promotion incoraggia scelte ponderate per migliorare la salute",
+    "D": "la Health Protection si occupa esclusivamente delle condizioni ambientali, mentre la Health Promotion considera i comportamenti individuali",
+    "corretta": "C",
+    "numero": 214
+  },
+  {
+    "domanda": "Quali sono i principali sviluppi concettuali che hanno contribuito alla nascita dell'Occupational Health Psychology (OHP):",
+    "A": "studi sulla psicologia del lavoro e sulla gestione delle risorse umane",
+    "B": "studi sullo stress occupazionale, fattori psicosociali e cambiamenti nell'organizzazione del lavoro",
+    "C": "studi sull'efficienza lavorativa e sulla produttività",
+    "D": "studi sulla salute fisica e sugli infortuni sul lavoro",
+    "corretta": "B",
+    "numero": 215
+  },
+  {
+    "domanda": "Chi ha fondato la rivista Work and Stress nel 1987:",
+    "A": "Tom Cox",
+    "B": "Peter Warr",
+    "C": "Jhon Cooper",
+    "D": "Julian Barling",
+    "corretta": "A",
+    "numero": 216
+  },
+  {
+    "domanda": "Quali sono alcuni dei temi centrali condivisi che caratterizzano la ricerca e l'intervento nel campo della salute organizzativa:",
+    "A": "la psicologia dello sport e la psicologia clinica",
+    "B": "l'ergonomia e l'igiene lavorativa",
+    "C": "la fisiologia della salute e le patologie da lavoro",
+    "D": "la gestione delle risorse umane e la tecnologia della sicurezza",
+    "corretta": "D",
+    "numero": 217
+  },
+  {
+    "domanda": "Secondo Oldham e Gordonla la mancanza di congruenza tra abilità cognitive e complessità del lavoro cosa può causare:",
+    "A": "l'abuso di sostanze",
+    "B": "turnover",
+    "C": "necessità di aggiornamento professionale",
+    "D": "regressione e declino organizzativo",
+    "corretta": "A",
+    "numero": 218
+  },
+  {
+    "domanda": "Quali sono i due principali tipi di assunti fondanti nella riflessione sulla psicologia e sociologia delle organizzazioni:",
+    "A": "assunti sull'epistemologia e sulla ontologia",
+    "B": "assunti sulla filosofia della scienza e sull'ontologia",
+    "C": "assunti sull'ontologia e sul determinismo",
+    "D": "assunti sulla gnoseologia e sull'orientamento nomotetico",
+    "corretta": "B",
+    "numero": 219
+  },
+  {
+    "domanda": "Cosa rappresenta il concetto di \"paradigma\" nei contesti della psicologia e della sociologia delle organizzazioni:",
+    "A": "una teoria specifica",
+    "B": "una prospettiva di ricerca",
+    "C": "una combinazione di elementi che delineano una visione del mondo e una prospettiva di ricerca specifica",
+    "D": "una metodologia di ricerca",
+    "corretta": "C",
+    "numero": 220
+  },
+  {
+    "domanda": "Secondo il testo, quale paradigma considera la società contemporanea caratterizzata da conflitti che generano cambiamenti radicali attraverso crisi politiche ed economiche:",
+    "A": "paradigma funzionalista",
+    "B": "paradigma interpretativo",
+    "C": "paradigma umanista radicale",
+    "D": "paradigma strutturalista radicale",
+    "corretta": "D",
+    "numero": 221
+  },
+  {
+    "domanda": "Quali sono i quattro livelli che compongono il modello della \"griglia della salute organizzativa\" proposto da Williams:",
+    "A": "fattori economici, fisici, mentali e sociali",
+    "B": "fattori ambientali, fisici, mentali e sociali",
+    "C": "fattori biologici, fisici, psicologici e sociali",
+    "D": "fattori individuali, organizzativi, comportamentali e culturali",
+    "corretta": "B",
+    "numero": 222
+  },
+  {
+    "domanda": "Secondo Jaffe, quale prospettiva di studio e ricerca sulla salute organizzativa si concentra sull'interconnessione tra comportamento individuale e efficacia organizzativa:",
+    "A": "prospettiva dello stress da lavoro e burnout",
+    "B": "prospettiva delle politiche organizzative di promozione della salute",
+    "C": "prospettiva psicodinamico-sociale",
+    "D": "prospettiva dello sviluppo organizzativo o della riprogettazione organizzativa",
+    "corretta": "D",
+    "numero": 223
+  },
+  {
+    "domanda": "Secondo Karasek e Theorell, quali sono le tre variabili chiave considerate nel loro modello di stress e riprogettazione del lavoro:",
+    "A": "richieste sul lavoro, supporto sociale, cambiamenti tecnologici",
+    "B": "autonomia decisionale, carico di lavoro, soddisfazione lavorativa",
+    "C": "richieste sul lavoro, controllo percepito, supporto sociale",
+    "D": "stress psicologico, fattori fisici, relazioni interpersonali",
+    "corretta": "C",
+    "numero": 224
+  },
+  {
+    "domanda": "Cosa si intende per job burnout secondo Maslach e Leiter:",
+    "A": "elevata motivazione e coinvolgimento nel lavoro",
+    "B": "sensazione di competenza e successo professionale",
+    "C": "stanchezza psicofisica, cinismo, ridotta efficacia personale",
+    "D": "soddisfazione lavorativa e benessere organizzativo",
+    "corretta": "C",
+    "numero": 225
+  },
+  {
+    "domanda": "Chi ha studiato i modelli di gestione efficace in diverse grandi organizzazioni, identificando fattori funzionali per creare elevati livelli di motivazione al lavoro:",
+    "A": "Maccoby",
+    "B": "LaBier",
+    "C": "Kaplan et al.",
+    "D": "Kets de Vries e Miller",
+    "corretta": "A",
+    "numero": 226
+  },
+  {
+    "domanda": "Quali sono alcune delle conseguenze dei cambiamenti nel mercato del lavoro menzionati nel testo:",
+    "A": "riduzione della competitività a livello globale",
+    "B": "aumento dei lavori manuali",
+    "C": "ampio utilizzo della tecnologia",
+    "D": "possibilità di lavorare da casa",
+    "corretta": "D",
+    "numero": 227
+  },
+  {
+    "domanda": "Cosa indica il termine \"Total Quality Management\" (TQM):",
+    "A": "un metodo per ridurre la produttività nelle aziende",
+    "B": "un approccio alla gestione della qualità che coinvolge tutti i membri dell'organizzazione",
+    "C": "un sistema di gestione incentrato sulla centralizzazione delle decisioni",
+    "D": "una tecnica per massimizzare gli sprechi di risorse",
+    "corretta": "B",
+    "numero": 228
+  },
+  {
+    "domanda": "Qual è uno dei vantaggi della Gig Economy:",
+    "A": "parità di diritti e benefici rispetto ai lavoratori tradizionali",
+    "B": "maggiore sicurezza economica per i lavoratori",
+    "C": "maggiore autonomia e flessibilità",
+    "D": "stabilità economica garantita",
+    "corretta": "C",
+    "numero": 229
+  },
+  {
+    "domanda": "Qual è uno dei cambiamenti osservati nei settori lavorativi a seguito dei progressi tecnologici:",
+    "A": "aumento della richiesta di lavoratori impegnati in attività routine",
+    "B": "diminuzione della domanda di figure professionali altamente istruite",
+    "C": "movimento verso settori terziari caratterizzati da natura operativa",
+    "D": "ridefinizione della composizione della forza lavoro",
+    "corretta": "D",
+    "numero": 230
+  },
+  {
+    "domanda": "Qual è uno dei principali cambiamenti demografici nella forza lavoro:",
+    "A": "diminuzione dell'età media dei lavoratori",
+    "B": "aumento della presenza giovanile sul mercato del lavoro",
+    "C": "innalzamento dell'età della forza lavoro",
+    "D": "crescente numero di lavoratori immigrati",
+    "corretta": "C",
+    "numero": 231
+  },
+  {
+    "domanda": "Qual è l'approccio degli interventi sullo stress definiti dalla Commissione europea del 1999:",
+    "A": "approccio individualista",
+    "B": "approccio ambientale",
+    "C": "approccio integrato",
+    "D": "approccio medico",
+    "corretta": "C",
+    "numero": 232
+  },
+  {
+    "domanda": "Qual è l'obiettivo degli interventi sullo stress a livello organizzativo:",
+    "A": "modifica dei fattori ambientali",
+    "B": "motenziamento delle risorse individuali",
+    "C": "miglioramento delle condizioni lavorative",
+    "D": "ristrutturazione dell'organizzazione del lavoro",
+    "corretta": "A",
+    "numero": 233
+  },
+  {
+    "domanda": "Qual è stata la principale tendenza evidenziata nelle prime rassegne sugli interventi per la gestione dello stress nelle organizzazioni:",
+    "A": "maggiore enfasi sugli interventi a livello organizzativo",
+    "B": "maggiore enfasi sugli interventi a livello individuale",
+    "C": "maggiore enfasi sugli interventi a livello comunitario",
+    "D": "maggiore enfasi sugli interventi a livello di interfaccia individuo-organizzazione",
+    "corretta": "B",
+    "numero": 234
+  },
+  {
+    "domanda": "Qual è la principale differenza tra gli interventi sociotecnici e gli interventi psicosociali:",
+    "A": "gli interventi sociotecnici si concentrano sulle relazioni interpersonali, mentre gli interventi psicosociali si concentrano sulla tecnologia nel luogo di lavoro",
+    "B": "non esiste alcuna differenza tra gli interventi sociotecnici e gli interventi psicosociali",
+    "C": "gli interventi sociotecnici sono esclusivamente orientati verso gli aspetti tecnologici del lavoro, mentre gli interventi psicosociali sono orientati verso gli aspetti sociali del lavoro",
+    "D": "gli interventi sociotecnici sono orientati verso gli aspetti tecnici e strutturali dell'organizzazione del lavoro, mentre gli interventi psicosociali mirano a migliorare il benessere emotivo e sociale dei lavoratori",
+    "corretta": "D",
+    "numero": 235
+  },
+  {
+    "domanda": "Qual è uno degli obiettivi principali degli interventi sociotecnici menzionati nella lezione:",
+    "A": "ridurre lo stress emotivo dei lavoratori",
+    "B": "migliorare le relazioni interpersonali sul luogo di lavoro",
+    "C": "modificare le condizioni lavorative attraverso aspetti pratici e strutturali come l'orario di lavoro e il carico lavorativo",
+    "D": "promuovere la partecipazione dei dipendenti nelle fasi di valutazione e pianificazione degli interventi",
+    "corretta": "C",
+    "numero": 236
+  },
+  {
+    "domanda": "Qual è uno degli obiettivi principali degli interventi psicosociali menzionati nel testo:",
+    "A": "modificare le condizioni lavorative attraverso aspetti pratici e strutturali",
+    "B": "ridurre i rischi fisici sul luogo di lavoro",
+    "C": "migliorare il benessere psicologico e sociale dei lavoratori",
+    "D": "aumentare la produttività tramite l'introduzione di nuove tecnologie",
+    "corretta": "C",
+    "numero": 237
+  },
+  {
+    "domanda": "Quali sono le tradizioni di ricerca su cui si basa la PAR:",
+    "A": "ricerca sperimentale, ricerca descrittiva, ricerca partecipativa",
+    "B": "ricerca empirica, ricerca qualitativa, ricerca azione",
+    "C": "ricerca longitudinale, ricerca trasversale, ricerca qualitativa",
+    "D": "ricerca classica, ricerca-intervento, ricerca partecipativa",
+    "corretta": "D",
+    "numero": 238
+  },
+  {
+    "domanda": "Cosa rappresenta la PAR negli interventi psicosociali:",
+    "A": "un metodo diagnostico per identificare problemi organizzativi",
+    "B": "un modello di intervento che coinvolge attivamente i dipendenti in tutte le fasi del processo",
+    "C": "un approccio basato sul cambiamento individuale dei dipendenti",
+    "D": "un approccio di consulenza esterna separato dall'organizzazione",
+    "corretta": "B",
+    "numero": 239
+  },
+  {
+    "domanda": "Qual è uno degli obiettivi dei circoli sulla salute:",
+    "A": "ridurre il coinvolgimento dei dipendenti nelle decisioni aziendali",
+    "B": "migliorare le relazioni tra i dipendenti e il management aziendale",
+    "C": "pianificare interventi solo in risposta a problemi di assenteismo",
+    "D": "limitare il coinvolgimento del personale medico aziendale nel processo di valutazione del rischio",
+    "corretta": "B",
+    "numero": 240
+  },
+  {
+    "domanda": "Qual è uno dei fattori chiave per il successo degli interventi sulla salute organizzativa:",
+    "A": "presenza di un solido impegno da parte del management",
+    "B": "concentrazione esclusiva sui problemi individuali dei dipendenti",
+    "C": "coinvolgimento limitato dei lavoratori nella fase di valutazione",
+    "D": "mancanza di supporto attivo dagli attori chiave dell'organizzazione",
+    "corretta": "A",
+    "numero": 241
+  },
+  {
+    "domanda": "Qual è uno dei principali obiettivi degli Employee Assistance Programs (EAP):",
+    "A": "offrire assistenza solo per problemi strettamente clinici come l'alcolismo",
+    "B": "essere una risorsa per il management nel gestire i dipendenti",
+    "C": "fornire supporto per problemi personali che non influenzano le prestazioni lavorative",
+    "D": "offrire sostegno all'organizzazione e ai lavoratori per affrontare questioni personali che potrebbero influenzare le prestazioni sul lavoro",
+    "corretta": "D",
+    "numero": 242
+  },
+  {
+    "domanda": "Qual è stata l'evoluzione principale degli Employee Assistance Programs (EAP) nel corso del tempo:",
+    "A": "concentrazione esclusiva sull'assistenza per problemi di alcolismo",
+    "B": "espansione del focus per includere solo l'assistenza per problemi di salute mentale",
+    "C": "ampliamento del focus per includere anche questioni legate al contesto lavorativo",
+    "D": "riduzione del supporto offerto ai dipendenti nel corso degli anni",
+    "corretta": "C",
+    "numero": 243
+  },
+  {
+    "domanda": "Quali sono i tre modelli principali di assistenza nei Programmi di assistenza ai lavoratori (EAP) secondo Jones (1985):",
+    "A": "programmi completi, programmi di assistenza parziale, programmi di supporto",
+    "B": "programmi full-service, programmi di assistenza limitata, programmi di sola informazione",
+    "C": "programmi di consulenza, programmi di formazione, programmi di sostegno finanziario",
+    "D": "programmi psicologici, programmi medici, programmi legali",
+    "corretta": "B",
+    "numero": 244
+  },
+  {
+    "domanda": "Qual è la durata del programma di \"Controllo e prevenzione dello stress\" dell'IPSSO:",
+    "A": "tre giorni",
+    "B": "una settimana",
+    "C": "un mese",
+    "D": "sei mesi",
+    "corretta": "B",
+    "numero": 245
+  },
+  {
+    "domanda": "Qual è l'obiettivo principale del \"stress team\" della polizia federale belga:",
+    "A": "fornire assistenza legale ai poliziotti",
+    "B": "gestire lo stress post-traumatico e prevenirlo",
+    "C": "condurre indagini su eventi traumatici",
+    "D": "organizzare eventi di team building",
+    "corretta": "B",
+    "numero": 246
+  },
+  {
+    "domanda": "Perché è importante condurre una valutazione finale di un progetto organizzativo:",
+    "A": "per valutare l'efficacia complessiva del progetto",
+    "B": "per identificare le esigenze dei partecipanti",
+    "C": "per monitorare il progresso nel tempo",
+    "D": "per assicurare la trasparenza finanziaria",
+    "corretta": "A",
+    "numero": 247
+  },
+  {
+    "domanda": "Quali sono i parametri considerati nella valutazione dei programmi organizzativi:",
+    "A": "redditività, popolarità, adattabilità",
+    "B": "efficacia, efficienza, sostenibilità",
+    "C": "prestigio, innovazione, competizione",
+    "D": "sostenibilità, diversità, responsabilità sociale",
+    "corretta": "B",
+    "numero": 248
+  },
+  {
+    "domanda": "Cosa rappresenta l'efficacia di un intervento:",
+    "A": "la somiglianza tra l'obiettivo prefissato e il risultato ottenuto",
+    "B": "la popolarità dell'intervento tra i partecipanti",
+    "C": "l'impatto finanziario dell'intervento sull'organizzazione",
+    "D": "la complessità delle strategie impiegate durante l'intervento",
+    "corretta": "A",
+    "numero": 249
+  },
+  {
+    "domanda": "Cosa rappresenta il concetto di \"efficacia pratica\" (effectiveness) di un programma di promozione della salute:",
+    "A": "la capacità di produrre risultati positivi solo in condizioni controllate",
+    "B": "la sua applicabilità solo in contesti specifici",
+    "C": "la capacità di produrre risultati positivi nel contesto reale in cui viene implementato",
+    "D": "la sua validità interna riscontrata tramite trial clinici randomizzati",
+    "corretta": "C",
+    "numero": 250
+  },
+  {
+    "domanda": "Qual è una delle limitazioni comuni individuate nella valutazione dell'efficacia degli interventi organizzativi, secondo Parkes e Sparkes (1998):",
+    "A": "l'eccessiva rigidità metodologica",
+    "B": "la presenza di un campione numeroso",
+    "C": "l'uso prevalente di misure oggettive",
+    "D": "la mancanza di un gruppo di controllo",
+    "corretta": "D",
+    "numero": 251
+  },
+  {
+    "domanda": "Quante dimensioni principali caratterizzano il costrutto di salute organizzativa:",
+    "A": "cinque",
+    "B": "dieci",
+    "C": "dodici",
+    "D": "quattordici",
+    "corretta": "D",
+    "numero": 252
+  },
+  {
+    "domanda": "Quale impatto ha l'ascolto attivo nell'ambito della salute organizzativa:",
+    "A": "favorisce la comunicazione aperta",
+    "B": "risolve i conflitti interni",
+    "C": "valorizza le competenze dei dipendenti",
+    "D": "facilita il turnover",
+    "corretta": "A",
+    "numero": 253
+  },
+  {
+    "domanda": "Quali sono le caratteristiche di un ambiente relazionale stimolato dall'organizzazione:",
+    "A": "franco, comunicativo, solitario",
+    "B": "collaborativo, trasparente, chiuso",
+    "C": "aperto, trasparente, collaborativo",
+    "D": "comunicativo, competitivo, conflittuale",
+    "corretta": "C",
+    "numero": 254
+  },
+  {
+    "domanda": "Cosa indica la \"sensazione di autorealizzazione\" nell'ambito della salute organizzativa:",
+    "A": "la convinzione di poter cambiare le condizioni negative attuali",
+    "B": "la percezione di soddisfare bisogni personali di crescita e realizzazione lavorando per l'organizzazione",
+    "C": "il piacere quotidiano di recarsi al lavoro",
+    "D": "la fiducia nella capacità dell'organizzazione di superare gli aspetti negativi esistenti",
+    "corretta": "B",
+    "numero": 255
+  },
+  {
+    "domanda": "Cosa rappresenta la \"confusione organizzativa\" come indicatore negativo di salute organizzativa:",
+    "A": "la percezione di non essere apprezzati o valorizzati all'interno dell'organizzazione",
+    "B": "la volontà di abbandonare il lavoro a causa di incomprensioni causate dall'organizzazione",
+    "C": "la mancanza di chiarezza sui ruoli e le responsabilità all'interno dell'organizzazione",
+    "D": "l'eccessivo rumore prodotto all'interno del contesto lavorativo",
+    "corretta": "C",
+    "numero": 256
+  }
+]
