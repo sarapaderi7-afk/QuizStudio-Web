@@ -1,0 +1,1354 @@
+[
+  {
+    "domanda": "Si definisce reato:",
+    "A": "ogni fatto umano alla cui realizzazione la legge prevede sanzioni amministrative",
+    "B": "ogni fatto meritevole di sanzione civile",
+    "C": "ogni fatto umano alla cui realizzazione la legge riconnette sanzioni penali",
+    "D": "ogni fatto normativo meritevole di sanzioni disciplinari",
+    "corretta": "C",
+    "numero": 1
+  },
+  {
+    "domanda": "Quali di questi principi non riguarda la materia penale;",
+    "A": "Il principio di materialità",
+    "B": "il principio di offensività",
+    "C": "il principio di colpevolezza",
+    "D": "il principio di buona fede",
+    "corretta": "D",
+    "numero": 2
+  },
+  {
+    "domanda": "Si parla di diritto penale come extrema ratio:",
+    "A": "il ricorso alla pena statuale è giustificato quando oltre ad essere necessario e anche conforme allo scopo",
+    "B": "il ricorso alla pena statuale è giustificato quando è necessario e conforme all'illecito",
+    "C": "il ricorso alla pena statuale è giustificato quando non è necessario ma è conforme allo scopo",
+    "D": "il ricorso alla pena statuale è giustificato quando è necessario e conforme alla fattispecie incriminatrice",
+    "corretta": "B",
+    "numero": 3
+  },
+  {
+    "domanda": "La parte speciale del diritto penale:",
+    "A": "Comprende la disciplina e i criteri di imputazione del fatto delittuoso al suo autore",
+    "B": "E' di formazione recente e prevede dei principi comuni ai singoli delitti",
+    "C": "prevede al suo interno uno stesso raggruppamento di reati che offendono diversi beni",
+    "D": "contiene il catologo delle fattispecie che descrivono i singoli comportamenti illeciti",
+    "corretta": "D",
+    "numero": 4
+  },
+  {
+    "domanda": "L'articolo 27 comma 2 Costituzione prevede:",
+    "A": "che la responsabilità penale è personale",
+    "B": "la presunzione di colpevolezza sino alla condanna definitiva",
+    "C": "la presunzione di non colpevolezza sino alla condanna di primo grado",
+    "D": "il divieto di responsabilità per fatto altrui",
+    "corretta": "C",
+    "numero": 5
+  },
+  {
+    "domanda": "Tra i criteri guida per selezionare i fatti penalmente rilevanti non sono presenti:",
+    "A": "il principio di offensività",
+    "B": "il principio di offensività e di colpevolezza",
+    "C": "il principio di precauzione",
+    "D": "il principio di proporzione",
+    "corretta": "C",
+    "numero": 6
+  },
+  {
+    "domanda": "Secondo il principio di colpevolezza:",
+    "A": "ci può essere reato se l'offesa al bene giuridico non è rimproverabile al suo autore",
+    "B": "non ci può essere reato se l'offesa giuridica non è riproverabile al suo autore in quanto rientrante nella sua sfera di controllo",
+    "C": "non ci può essere un colpevole del reato senza una confessione del reo",
+    "D": "non ci può essere un colpevole di reato se il reo è minorenne",
+    "corretta": "B",
+    "numero": 7
+  },
+  {
+    "domanda": "Il principio di sussidiarietà postula che:",
+    "A": "la pena non venga mai applicata",
+    "B": "la pena deve risultare strumento utile",
+    "C": "la pena deve risultare accessoria ed estrema",
+    "D": "la pena deve risultare come necessaria e si può ricorso ad essa solo come extrema ratio",
+    "corretta": "D",
+    "numero": 8
+  },
+  {
+    "domanda": "Il principio di proporzionalità risulta collegato:",
+    "A": "al principio di rieducazione del condannato di cui all'art. 27 comma 3",
+    "B": "al codice penale militare di pace",
+    "C": "alla costituzione di cui all'art. 27 comma 2",
+    "D": "al Dlgs 231/01",
+    "corretta": "A",
+    "numero": 9
+  },
+  {
+    "domanda": "Nell'ambito della connessione tra i vari settori dell'ordinamento e l'unità del sistema rilevano:",
+    "A": "le condizioni obiettive di punibilità",
+    "B": "le cause di non punibilità",
+    "C": "le condizioni meramente potestative",
+    "D": "le cause di giustiuficazione",
+    "corretta": "D",
+    "numero": 10
+  },
+  {
+    "domanda": "Il principio di legalità:",
+    "A": "è frutto del pensiero liberale dei primi del novecento",
+    "B": "è mero frutto della Costituzione del 1948",
+    "C": "è frutto del pensiero illuministico nato con esigenze di garanzia per combattere il sistema sanzionatorio penale settecentesco",
+    "D": "è opera degli impressionisti",
+    "corretta": "C",
+    "numero": 11
+  },
+  {
+    "domanda": "Il principio di riserva di legge:",
+    "A": "persegue l'obiettivo di tuelare il popolo dagli arbitri del potere giudiziario",
+    "B": "persegue l'obiettivo di tutelare gli individui contro gli arbitri dei regimi dittatoriali",
+    "C": "è finalizzato a punire un fatto in assenza di una legge specifica",
+    "D": "persegue l'obiettivo di tutelare la libertà personale degli individui contro possibili arbitrii del potere esecutivo",
+    "corretta": "D",
+    "numero": 12
+  },
+  {
+    "domanda": "Per legge in senso formale si intende:",
+    "A": "includere anche i decreti legislativi e decreti legge tra le fonti del diritto penale",
+    "B": "includere anche i decreti legislativi tra le fonti del diritto penale",
+    "C": "escludere i decreti legislativi e i decreti legge tra le fonti del diritto penale",
+    "D": "includere anche i decreti legge tra le fonti del diritto penale",
+    "corretta": "C",
+    "numero": 13
+  },
+  {
+    "domanda": "Sono legittime le leggi regionali che:",
+    "A": "operi in funzione scriminante",
+    "B": "crei un nuovo tipo di reato",
+    "C": "modifichi la disciplina sanzionatoria",
+    "D": "configurano una nuova causa di estinzione della punibilità",
+    "corretta": "A",
+    "numero": 14
+  },
+  {
+    "domanda": "Il principio della riserva di legge ex art. 25 cost non preclude:",
+    "A": "la creazione di norme incriminatrici da parte della consuetudine",
+    "B": "la cd consuetudine scriminante",
+    "C": "la cd. consuetudine integratrice",
+    "D": "alla consuetudine di produrre l'approvazione di norme legislative incriminatrici",
+    "corretta": "B",
+    "numero": 15
+  },
+  {
+    "domanda": "Al fine di porre un limite agli arbitri del potere giudiziario, il principio di legalità impone al Legislatore i seguenti obblighi:",
+    "A": "il principio di precisione e determinatezza",
+    "B": "il solo principio di precisione",
+    "C": "principio di precisione, determinatezza e tassatività",
+    "D": "principio iura novit curia",
+    "corretta": "C",
+    "numero": 16
+  },
+  {
+    "domanda": "Il fondamento del principio di precisione va ricercato:",
+    "A": "nella garanzia per la libertà e la sicurezza del cittadino, il quale solo in leggi precise echiare può trovare cosa vi è lecito e cosa vi è vietato",
+    "B": "nella garanzia per la sicurezza del cittadino",
+    "C": "in leggi generiche ed imprecise",
+    "D": "nella garanzia per la libertà del cittadino",
+    "corretta": "A",
+    "numero": 17
+  },
+  {
+    "domanda": "In ossequio al principio di determinatezza:",
+    "A": "è sufficiente che la norma abbia contenuto intellegibile",
+    "B": "è sufficiente che la norma abbia contenuto diretto",
+    "C": "non basta che abbia contenuto intellegibile ma non deve ammettere prova contraria",
+    "D": "non basta che norma abbia contenuto intellegibile ma occorre anche che essa rispecchi una fenomenologia verificabile nel corso di un processo",
+    "corretta": "D",
+    "numero": 18
+  },
+  {
+    "domanda": "Il principio di tassatività:",
+    "A": "è frammentario",
+    "B": "intende evitare che sia il Giudice a determinare la fattispecie di reato",
+    "C": "ha la funzione di evitare ingerenze del potere esecutivo nella previsione di fattispecie criminose",
+    "D": "esprime l'idea che la fattispecie penale debba essere astratta",
+    "corretta": "B",
+    "numero": 19
+  },
+  {
+    "domanda": "Il principio secondo cui le misure di sicurezza al pari delle pene soggiaciono al principio di legalità è:",
+    "A": "contenuto all'art. 2 cp",
+    "B": "contenuto all'art. 25 cost",
+    "C": "contenuto all'art. 2 cp e 25 cost.",
+    "D": "enunciato nel codice penale all'art. 199",
+    "corretta": "D",
+    "numero": 20
+  },
+  {
+    "domanda": "L'art. 2 comma 1 cp prevede:",
+    "A": "il principio di irretroattività della legge penale",
+    "B": "l'abolitio criminis",
+    "C": "i rapporti tra il principio di successione di leggi nel tempo e il diritto processuale penale",
+    "D": "una nuova incriminazione",
+    "corretta": "A",
+    "numero": 21
+  },
+  {
+    "domanda": "Ai sensi dell'art. 2 comma 2 cp:",
+    "A": "nessuno può essere punito",
+    "B": "nessuno può essere punito per un fatto che secondo la legge anteriore non costuisce reato",
+    "C": "nessuno può essere punito per un fatto che secondo la legge posteriore non costuisce reato",
+    "D": "nessuno può essere punito per un fatto che secondo la legge posteriore costuisce reato",
+    "corretta": "C",
+    "numero": 22
+  },
+  {
+    "domanda": "Il cd. tempus commissi delicti è individuato nel caso di reato temporale:",
+    "A": "nel momento in cui si realizza l'ultima condotta che integra il fatto di reato",
+    "B": "nel momento dell'azione prevista dalla norma incriminatrice",
+    "C": "nel momento in cui andava compiuta l'azione doverosa",
+    "D": "nell'ultimo atto in cui si mantiene la situazione antigiuridica",
+    "corretta": "A",
+    "numero": 23
+  },
+  {
+    "domanda": "L'art. 2 comma 4 cp disciplina:",
+    "A": "cd. abolitio criminis",
+    "B": "la successione di legge penale nel tempo in senso stretto",
+    "C": "leggi eccezionali",
+    "D": "una nuova incriminazione",
+    "corretta": "B",
+    "numero": 24
+  },
+  {
+    "domanda": "Ai sensi dell'art. 2 comma 5 cp, per legge eccezioanle si intende:",
+    "A": "si esprime un concetto di legge applicato a poche persone",
+    "B": "si intende una legge che fa eccezione alla punibilità",
+    "C": "si fa eccezione ad un principio speciale",
+    "D": "si intende una legge emanata per fronteggiare situazioni oggettive di carattere straordinario",
+    "corretta": "D",
+    "numero": 25
+  },
+  {
+    "domanda": "E' da intendersi quale territorio dello Stato:",
+    "A": "qualsiasi luogo dove si trova un cittadino della Repubblica",
+    "B": "il territorio della Repubblica e ogni altro luogo soggetto alla sovranità dello Stato",
+    "C": "il luogo fisico delimitato da confini geografici",
+    "D": "il territorio della Repubblica e ogni altro luogo soggetto alla sovranità UE",
+    "corretta": "B",
+    "reference": "Paragrafo di riferimento - L'efficacia della legge penale: limiti spaziali",
+    "numero": 26
+  },
+  {
+    "domanda": "Secondo il principio di territorialità:",
+    "A": "lo straniero che commette un reato va espulso",
+    "B": "chiunque commette un reato è punito",
+    "C": "chiunque commetta un reato nel territorio dello Stato è punito secondo la legge italiana",
+    "D": "chiunque commetta un reato nel territorio dello Stato è punito secondo la legge del suo Stato d'origine",
+    "corretta": "C",
+    "numero": 27
+  },
+  {
+    "domanda": "L'art. 7 cp prevede l'applicabilità della legge italiana:",
+    "A": "ad alcune tipologie di reato commesse in territorio estero sia dal cittadino italiano che da quello straniero",
+    "B": "a tutte le tipologie di reato commesse in parte in territorio estero dal cittadino italiano",
+    "C": "ad alcune tipologie di reato commesse in parte in territorio estero dal cittadino italiano",
+    "D": "a tutte le tipologie di reato commesse in territorio estero sia dal cittadino italiano che da quello straniero",
+    "corretta": "A",
+    "numero": 28
+  },
+  {
+    "domanda": "Indicare quale articolo del cp i reati comuni commessi dallo straniero:",
+    "A": "l'art. 8 del cp",
+    "B": "l'art. 10 cp",
+    "C": "sia l'art. 10 che l'art. 11 cp",
+    "D": "l'art. 7 cp",
+    "corretta": "B",
+    "numero": 29
+  },
+  {
+    "domanda": "Gli art. 9 e 10 cp prevedono:",
+    "A": "i delitti politici commessi all'estero",
+    "B": "l'estradizione concessa all'estero",
+    "C": "le fattispecie di reato commesse in Italia",
+    "D": "i reati commessi all'estero punibili condizionatamente secondo la legge italiana",
+    "corretta": "D",
+    "numero": 30
+  },
+  {
+    "domanda": "L'evoluzione del diritto penale ha dato luogo ad una ricca e dettagliata tipologia di reati raggruppabili:",
+    "A": "nella dottrina e nella giurisprudenza",
+    "B": "nel codice penale e nelle leggi speciali",
+    "C": "nel codice Rocco e nel codice Zanardelli",
+    "D": "nella cd parte speciale e nella cd parte generale",
+    "corretta": "D",
+    "numero": 31
+  },
+  {
+    "domanda": "Secondo la sistematica tripartita:",
+    "A": "punibile può essere soltanto un fatto umano",
+    "B": "punibile può essere un fatto umano antigiuridico e colpevole",
+    "C": "colpevole può essere soltanto un fatto umano e antigiuridico",
+    "D": "antigiuridico soltanto un fatto umano",
+    "corretta": "B",
+    "numero": 32
+  },
+  {
+    "domanda": "Il modello di analisi del reato è \"oggettivistico\":",
+    "A": "quando muove dall'accertamento del fatto",
+    "B": "quando muove dall'indagine sull'autore",
+    "C": "quando muove dall'accertamento dell'autore del reato",
+    "D": "quando muove dall'accertamento del fatto in senso soggettivo",
+    "corretta": "A",
+    "numero": 33
+  },
+  {
+    "domanda": "Il modello di analisi del reato è \"soggettivistico\":",
+    "A": "quando muove dall'accertamento del fatto",
+    "B": "quando muove dall'indagine sull'autore",
+    "C": "quando muove dall'accertamento dell'elemento oggettivo del reato",
+    "D": "quando muove dall'indagine sull'autore ma unicamente in rapporto al fatto",
+    "corretta": "B",
+    "numero": 34
+  },
+  {
+    "domanda": "Nell'ambito della colpevolezza uno dei requisiti dai quali dipende la possibilità di muovere un rimprovero al soggetto agente è costituito da:",
+    "A": "capacità a delinquere",
+    "B": "gravi indizi di colpevolezza",
+    "C": "conoscenza o conoscibilità della norma penale violata",
+    "D": "presenza di scriminanti",
+    "corretta": "C",
+    "numero": 35
+  },
+  {
+    "domanda": "La legge 190/2012:",
+    "A": "contiene disposizioni per la cura e la salvaguardia della natura",
+    "B": "disciplina la sola attività amministrativa di funzione",
+    "C": "contiene esclusivamente disposizioni volte alla repressione della corruzione",
+    "D": "contiene disposizione per la prevenzione e la repressione della corruzione e dell'illegalità nella p.a.",
+    "corretta": "D",
+    "numero": 36
+  },
+  {
+    "domanda": "Oggetto della tutela penale dei rapporti dei reati contro la Pa:",
+    "A": "la tutela dell'onore e della reputazione del p.u.",
+    "B": "l'esclusivo interesse alla riservatezza del p.u.",
+    "C": "in generale il regolare funzionamento della p.a.",
+    "D": "la tutela dell'interesse privato della p.a.",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "L'insegnante di scuola media:",
+    "A": "non è suscettibile di avere alcuna qualifica soggettiva",
+    "B": "riveste la qualifica di pubblico ufficiale",
+    "C": "riveste la qualifica di incaricato di pubblico servizio",
+    "D": "è un esercente di un servizio di pubblica necessità",
+    "corretta": "B",
+    "numero": 38
+  },
+  {
+    "domanda": "La nozione di incaricato di pubblico servizio:",
+    "A": "ricomprende le semplici mansioni di ordine",
+    "B": "ricomprende la prestazione di opera meramente materiale",
+    "C": "ha in comune con la nozione di pubblico ufficiale la circostazna di esercitare un servizio soggetto ad un rapporto privato",
+    "D": "è caratterizzata dall'assenza dei poteri tipici del p.u",
+    "corretta": "D",
+    "numero": 39
+  },
+  {
+    "domanda": "Tra i soggetti che rivestono la qualifica di incaricato di pubblico servizio rientrano:",
+    "A": "gli infermieri operanti in una struttura sanitaria",
+    "B": "i consiglieri regionali",
+    "C": "l'impiegato dell'ufficio provinciale del lavoro",
+    "D": "coloro che esercitano una pubblica funzione amministrativa",
+    "corretta": "A",
+    "numero": 40
+  },
+  {
+    "domanda": "La legge n. 190/2012 è nota come:",
+    "A": "legge anticorruzione",
+    "B": "legge spazzacorrotti",
+    "C": "legge scelba",
+    "D": "legge sull'accesso amministrativo",
+    "corretta": "A",
+    "numero": 41
+  },
+  {
+    "domanda": "Quali delle seguenti motivazioni rientra tra quelle a sostegno della riforma data dalla legge 190/2012:",
+    "A": "punire i pubblici ufficiali",
+    "B": "rendere efficienti gli esercienti di pubblico servizio",
+    "C": "sburocratizzare gli enti privati",
+    "D": "esigenza di conformare il sistema giuridico interno agli impegni internazionali",
+    "corretta": "D",
+    "numero": 42
+  },
+  {
+    "domanda": "La legge anticorruzione:",
+    "A": "contiene tre macro sezioni",
+    "B": "prevede misure che si applicano alla salvaguardia dei beni di interesse pubblico",
+    "C": "ha introdotto la figura del responsabile anticorruzione",
+    "D": "ha introdotto disposizioni sul danno erariale",
+    "corretta": "C",
+    "numero": 43
+  },
+  {
+    "domanda": "La legge anticorruzione ha introdotto nel nostro ordinamento:",
+    "A": "la fattispecie di corruzione per atti contrari ai doveri d'ufficio",
+    "B": "la fattispecie di corruzione tra privati",
+    "C": "la distinzione tra corruzione e concussione",
+    "D": "il reato di concussione",
+    "corretta": "B",
+    "numero": 44
+  },
+  {
+    "domanda": "La legge n. 69/2015:",
+    "A": "riguarda la sola emersione di capitali all'estero",
+    "B": "non prevede strategie di contrasto alla corruzione",
+    "C": "prevede aumenti di pena per i collaboratori di giustizia",
+    "D": "aggiunge un binario di tipo riparativo rispetto alla prevenzione e alla repressione della corruzione",
+    "corretta": "D",
+    "numero": 45
+  },
+  {
+    "domanda": "Il peculato:",
+    "A": "è un reato improprio",
+    "B": "può essere commesso solo dall'incaricato di pubblico servizio",
+    "C": "ha subito delle modifiche ad opera della legge n. 69/2015",
+    "D": "è prevista dall'art. 321 cp",
+    "corretta": "C",
+    "numero": 46
+  },
+  {
+    "domanda": "Il peculato:",
+    "A": "è stato introdotto dalla legge 190/2012",
+    "B": "è stato introdotto dalla legge 231/2017",
+    "C": "è un reato plurioffensivo",
+    "D": "costituisce una forma di aberrtaio ictus monolesiva",
+    "corretta": "C",
+    "numero": 47
+  },
+  {
+    "domanda": "La condotta incriminata nella fattispecie di peculato consiste:",
+    "A": "nel possesso per ragioni di ufficio o di servizio",
+    "B": "nella detenzione materiale della cosa o del denaro",
+    "C": "nell'appartenenza della cosa o del denaro altrui",
+    "D": "nell'appropriazione di denaro o altra cosa mobile altrui",
+    "corretta": "D",
+    "numero": 48
+  },
+  {
+    "domanda": "Sotto il profilo soggettivo, il peculato:",
+    "A": "rientra tra fattispecie colpose",
+    "B": "è a dolo generico",
+    "C": "è a dolo specifico",
+    "D": "rappresenta una forma di preterintenzione",
+    "corretta": "B",
+    "numero": 49
+  },
+  {
+    "domanda": "Quali dei seguenti soggetti non può realizzare la fattispecie di peculato:",
+    "A": "dirigente di una squadra di calcio",
+    "B": "il consigliere regionale",
+    "C": "il pubblico agente",
+    "D": "magistrato",
+    "corretta": "A",
+    "numero": 50
+  },
+  {
+    "domanda": "Il preculato d'uso:",
+    "A": "è stato introdotto dal legislatore del '93",
+    "B": "costituisce una semplice attenuante della fattispecie di peculato",
+    "C": "è stato introdotto dal D.lgs 231/01",
+    "D": "costituisce una figura del tutto autonoma rispetto a quella di peculato",
+    "corretta": "D",
+    "numero": 51
+  },
+  {
+    "domanda": "La fattispecie di peculato d'uso:",
+    "A": "è punita a titolo di colpa",
+    "B": "è punito a titolo di dolo",
+    "C": "è punito a titolo individuale",
+    "D": "prevede una responsabilità collettiva",
+    "corretta": "B",
+    "numero": 52
+  },
+  {
+    "domanda": "Nel peculato d'uso:",
+    "A": "l'uso della cosa deve essere lungo",
+    "B": "l'uso della cosa deve essere non occasionale",
+    "C": "l'uso della cosa deve essere episodico",
+    "D": "l'uso della cosa non deve compettere l'utilizzo della cosa stessa",
+    "corretta": "C",
+    "numero": 53
+  },
+  {
+    "domanda": "Nell'ipotesi di peculato d'uso:",
+    "A": "la descrizione della condotta è autonoma",
+    "B": "la descrizione della condotta è oggetto di rinvio",
+    "C": "è prevista dalla legge 190/2012",
+    "D": "è prevista dall'art. 322 cp",
+    "corretta": "B",
+    "numero": 54
+  },
+  {
+    "domanda": "Con riferimento alll'uso del cellulare di servizio:",
+    "A": "l'abuso sistematico e prolungato configura il peculato ordinario",
+    "B": "sussiste sempre il reato di abuso d'ufficio",
+    "C": "in caso di abuso momento si configura il peculato ordinario",
+    "D": "sussiste sempre il reato di peculato d'uso",
+    "corretta": "A",
+    "numero": 55
+  },
+  {
+    "domanda": "L'originaria fattispecie di peculato ex art. 316 cp:",
+    "A": "prevedeva la sola condotta della ritenzione",
+    "B": "prevedeva la sola condotta di ricenzione",
+    "C": "prevedeva il solo trasferimento",
+    "D": "prevedeva la sola condotta corruttiva",
+    "corretta": "B",
+    "numero": 56
+  },
+  {
+    "domanda": "Il reato di cui all'art. 316 cp può definirsi:",
+    "A": "un tertium genus delittuoso rispetto ai delitti di peculato e concussione",
+    "B": "una fattispecie concussiva",
+    "C": "una via di mezzo tra peculato e appropriazione indebita",
+    "D": "una fattispecie corruttiva",
+    "corretta": "A",
+    "numero": 57
+  },
+  {
+    "domanda": "Il bene protetto dalla fattispecie di peculato ex art. 316 cp è:",
+    "A": "il funzionamento degli esercenti di pubblica necessità",
+    "B": "il funzionamento degli incaricati di pubblico servizio",
+    "C": "il patrimonio pubblico nonché il regolare funzionamento della P.A.",
+    "D": "l'attività amministrativa",
+    "corretta": "C",
+    "numero": 58
+  },
+  {
+    "domanda": "Il peculato mediante profitto dell'errore altrui:",
+    "A": "può essere commesso dal solo pubblico ufficiale",
+    "B": "trattasi di reato comune",
+    "C": "può essere commesso solo a danno del pubblico ufficiale",
+    "D": "trattasi di reato proprio",
+    "corretta": "D",
+    "numero": 59
+  },
+  {
+    "domanda": "Il peculato mediante profitto dell'errore altrui:",
+    "A": "presenta la sola condotta di ricezione",
+    "B": "affinchè si confioguri il reato la ricezione deve avvenire fuori dall'esercizio delle funzioni o del servizio",
+    "C": "si consuma allorchè il soggetto passivo riceve la cosa senza restituirla",
+    "D": "si consuma allorchè il soggetto attivo riceve o trattiene la cosa senza restituirla",
+    "corretta": "D",
+    "numero": 60
+  },
+  {
+    "domanda": "La fattispecie di corruzione per l'esercizio della funzione:",
+    "A": "consiste in un semplice accordo tra gentiluomini",
+    "B": "è un reato introdotto dalla legge n. 86 del 1990",
+    "C": "è un reato cd a concorso necessario",
+    "D": "rappresenta una sorta di evoluzione delle ipotesi di corruzione propria",
+    "corretta": "C",
+    "numero": 61
+  },
+  {
+    "domanda": "Il bene giuridico tutelato dalla fattispecie di corruzione per l'esercizio della funzione:",
+    "A": "è la sola pubblica amministarzione",
+    "B": "è la imparzialità e la correttezza degli esercenti di pubblica necessità",
+    "C": "è il marcimonio o la compravendita degli atti d'ufficio",
+    "D": "è costituito dall'interesse della p.a. all'imparzialità, correttezza, dei pubblici funzionari ed in particolare che gli atti d'ufficio non siano oggetto di mercimonio",
+    "corretta": "D",
+    "numero": 62
+  },
+  {
+    "domanda": "La fattispecie di corruzione per l'esercizio della funzione per come riformulata dalla legge 190/2012:",
+    "A": "ha eliminato l'accento sull'esercizio delle funzioni o dei poteri",
+    "B": "ha mantenuto qualsiasi riferimento alla retribuzione",
+    "C": "ha comunque ricompreso in sé la repressione del fenomeno dell'asservimento della pubblica funzione agli interessi privati che ricomprende in se il compimento degli atti",
+    "D": "è correlata al compimento o all'omissione di uno specifico atto",
+    "corretta": "C",
+    "numero": 63
+  },
+  {
+    "domanda": "La corruzione per un atto contrario ai doveri d'ufficio:",
+    "A": "richiede per la sua sussistenza la prova della dazione di denaro e la dimostrazione della finalizzazione della dazione verso un comportamento contrario ai doveri d'ufficio",
+    "B": "è una ipotesi di corruzione tra privati",
+    "C": "è una ipotesi corruzione impropria",
+    "D": "richiede per la sua sussistenza la sola dimostrazione della finalizzazione della dazione",
+    "corretta": "A",
+    "numero": 64
+  },
+  {
+    "domanda": "Uno dei tratti distintivi che intercorrono tra la fattispecie di corruzione e quella di indebita induzione consiste:",
+    "A": "nei rapporti di amicizia tra il pubblico agente e l'esercente di pubblica necessità",
+    "B": "nella condotta di prevaricazione posta in essere dal pubblico funzionario",
+    "C": "in un accordo espresso implicito tra due soggetti appartenenti allo stesso ente",
+    "D": "nella connotazione del rapporto intersoggettivo tra privati",
+    "corretta": "B",
+    "numero": 65
+  },
+  {
+    "domanda": "La fattispecie di corruzione in atti giudiziari:",
+    "A": "è ritenuta dall'orientamento prevalente quale reato autonomo",
+    "B": "costituisce una semplice circostanza aggravante rispetto ai delitti di corruzione",
+    "C": "costituisce una circostanza aggravante speciale rispetto ai delitti di corruzione",
+    "D": "riguarda la costituzione di parte civile nel processo penale",
+    "corretta": "A",
+    "numero": 66
+  },
+  {
+    "domanda": "Con riferimento al bene giuridico tutelato:",
+    "A": "si intende il corretto svolgimento delle funzioni peritali",
+    "B": "tutela imparzialità e buon funzionamento delle funzioni private",
+    "C": "tutela un interesse diverso rispetto a quello individuato per le figure base di corruzione",
+    "D": "si può ritenere che tutela il medesimo interesse delle figure basi di corruzione e che la fattispecie tenda a rafforzare la protezione dell'imparzialità e buon funzionamento delle pubbliche funzioni",
+    "corretta": "D",
+    "numero": 67
+  },
+  {
+    "domanda": "La condotta rilevante ex art. 319 ter cp:",
+    "A": "è individuata in gran parte attraverso un rinvio agli articoli 328 e 329 cp",
+    "B": "deve prevedere un collegamento funzionale tra il fatto corruttivo e l'attività giudiziaria svolta",
+    "C": "può favorire o danneggiare le parti esclusivamente nei processi amministrativi",
+    "D": "è caratterizzata dalla mancata finalità relativa agli atti corruttivi commessi",
+    "corretta": "B",
+    "numero": 68
+  },
+  {
+    "domanda": "La fattispecie di corruzione in atti giudiziari:",
+    "A": "è punita a titolo di colpa",
+    "B": "prevede solo alcuni elementi processuali",
+    "C": "prevede la non configurabilità del tentativo",
+    "D": "è sufficiente per la sua consumazione che il soggetto attivo si faccia compensare o accetti anche solo la promessa allo scopo di advenire ad un ingiusto giudizio o condanna",
+    "corretta": "D",
+    "numero": 69
+  },
+  {
+    "domanda": "Il delitto di cui all'art. 319 ter cp:",
+    "A": "tratta solo di alcuni atti giudiziari",
+    "B": "contempla una ipotesi di corruzione collettiva",
+    "C": "prevede due circostanze aggravanti",
+    "D": "prevede una forma di istigazione",
+    "corretta": "C",
+    "reference": "Paragrafo di riferimento - Corruzione in atti giudiziari",
+    "numero": 70
+  },
+  {
+    "domanda": "L'art. 322 c.p. disciplina un reato:",
+    "A": "di mera condotta",
+    "B": "di condotta apparente",
+    "C": "di condotta specifica",
+    "D": "di condotta apparente",
+    "corretta": "A",
+    "numero": 71
+  },
+  {
+    "domanda": "L'art. 322 c.p. prevede:",
+    "A": "una forma di istigazione",
+    "B": "nessuna forma di istigazione",
+    "C": "due forme di istigazione",
+    "D": "tre forme di istigazione",
+    "corretta": "C",
+    "numero": 72
+  },
+  {
+    "domanda": "I beni protetti dell'art. 322 c.p.:",
+    "A": "sono solo quelli della corruzione per l'esercizio della funzione",
+    "B": "sono quelli della corruzione impropria e quelli della corruzione per l'esercizio della funzione",
+    "C": "sono solo quelli della corruzione impropria",
+    "D": "sono quelli della corruzione propria e quelli della corruzione per l'esercizio della funzione",
+    "corretta": "B",
+    "numero": 73
+  },
+  {
+    "domanda": "Gli atti d'ufficio devono essere:",
+    "A": "vaghi",
+    "B": "generici",
+    "C": "incoerenti",
+    "D": "individuati o almeno individuabili",
+    "corretta": "D",
+    "numero": 74
+  },
+  {
+    "domanda": "L'istigazione alla corriuzione:",
+    "A": "si consuma in un momento diverso a seconda che sia compiuta o meno mediante offerta o promessa",
+    "B": "si consuma nel tempo e nel luogo in cui l'utilità è messa a disposizione del pubblico ufficiale",
+    "C": "si consuma nel tempo e nel luogo in cui il pubblico ufficiale viene a conoscenza del contenuto della promessa",
+    "D": "si consuma nel medesimo momento a seconda che sia compiuta o meno mediante offerta o promessa",
+    "corretta": "A",
+    "numero": 75
+  },
+  {
+    "domanda": "Nella fattispecie di cui all'art. 323 cp il soggetto attivo del reato:",
+    "A": "è sempre il privato cittadino",
+    "B": "entrambi",
+    "C": "è il solo incaricato di pubblico servizio",
+    "D": "è solo il pubblico ufficiale",
+    "corretta": "B",
+    "numero": 76
+  },
+  {
+    "domanda": "L'interesse protetto nel reato di abuso d'ufficio:",
+    "A": "l'interesse a che il pubblico ufficiale assicuri il normale funzionamento e l'imparzialità della pubblica amministrazione",
+    "B": "l'interesse a che solo il pubblico ufficiale assicuri il normale funzionamento della pubblica amministrazione e l'imparzialità della pubblica amministrazion",
+    "C": "solo l'interesse a che solo il pubblico ufficiale assicuri il normale funzionamento della pubblica amministrazione",
+    "D": "solo l'imparzialità della pubblica amministrazione",
+    "corretta": "A",
+    "numero": 77
+  },
+  {
+    "domanda": "La condotta del soggetto agente sarà:",
+    "A": "rilevante solo se la violazione di norme di legge o di regolamento non abbia assunto una efficacia temporale rispetto all'evento",
+    "B": "rilevante solo se la violazione di norme di legge o di regolamento non abbia assunto una efficacia causale rispetto all'evento",
+    "C": "rilevante solo se la violazione di norme di legge o di regolamento abbia assunto una efficacia causale rispetto all'evento",
+    "D": "sempre considerata abusiva",
+    "corretta": "C",
+    "numero": 78
+  },
+  {
+    "domanda": "Nella nuova fattispecie di abuso d'ufficio:",
+    "A": "si è notevolmente ristretto l'ambito di rilevanza penale del delitto",
+    "B": "si è marginalizzato il pubblico ufficiale",
+    "C": "si è ampliata l'ambito di rilevanza penale del delitto",
+    "D": "si sono ampliati i riflessi civilistici della norma",
+    "corretta": "A",
+    "numero": 79
+  },
+  {
+    "domanda": "L'art.323 cp comma 1 nella seconda parte prevede:",
+    "A": "la norma è stata modificata solo in parte",
+    "B": "la norma è stata modificata",
+    "C": "la norma è stata eliminata",
+    "D": "la norma è rimasta immutata",
+    "corretta": "D",
+    "numero": 80
+  },
+  {
+    "domanda": "Il fatto tipico nella nuova fattispecie dell'abuso di ufficio:",
+    "A": "esclusione di norme di comportamento dalle quali residuono margini di discrezionalità",
+    "B": "regolamenti",
+    "C": "norme generiche",
+    "D": "regole di condotta",
+    "corretta": "A",
+    "numero": 81
+  },
+  {
+    "domanda": "Nell'ambito della fattispecie dell'abuso d'ufficio con il termine legge:",
+    "A": "il legislatore ha inteso solo la legge del Parlamento",
+    "B": "solo la costituzione",
+    "C": "non solo la legge ordinaria ma anche quella costituzionale e secondo un certo orientamento qualsiasi fonte di diritto sovraordinata alla legge ordinaria",
+    "D": "solo la legge regionale",
+    "corretta": "C",
+    "numero": 82
+  },
+  {
+    "domanda": "L'art. 323 nella prima formulazione sotto il profilo dell'elemento psicologico prevede:",
+    "A": "un reato commesso con dolo specifico",
+    "B": "un reato a condotta vincolata",
+    "C": "la semplice punibilità a titolo di dolo genrico",
+    "D": "un reato a dolo intenzionale",
+    "corretta": "D",
+    "numero": 83
+  },
+  {
+    "domanda": "Dall'esame comparativo delle norme succedutesi in materia con riguardo alla ultima formulazione del reato di abuso d'ufficio si può sostenere che:",
+    "A": "nel 2020 il Legislatore abbia condotto un intervento invasivo della legge penale sulla azione amministrativa",
+    "B": "nel 2020 il Legislatore abbia ristretto la sfera di intervento della legge penale sulla sfera amministrativa",
+    "C": "il Legislatore abbia ampliato la sfera di intervento della legge penale sulla azione amministrativa",
+    "D": "il Legislatore abbia valorizzato l'art. 97 della Costituzione",
+    "corretta": "B",
+    "numero": 84
+  },
+  {
+    "domanda": "Il fatto tipico nella nuova formulazione del reato di cui all'art. 323 cp fa riferimento a:",
+    "A": "regole di comportamento preventive",
+    "B": "regolamenti",
+    "C": "esclusione di norme di comportamento dalle quali residuono margini di discrezionalità",
+    "D": "norme generiche di legge",
+    "corretta": "C",
+    "numero": 85
+  },
+  {
+    "domanda": "L'art. 326 c.p.",
+    "A": "è un reato comune",
+    "B": "è un reato proprio",
+    "C": "è un reato sottoposto a condizione sospensiva",
+    "D": "è un reato punito solo a titolo di colpa",
+    "corretta": "B",
+    "numero": 86
+  },
+  {
+    "domanda": "Il reato di rivelazione e utilizzazione di segreti d'ufficio:",
+    "A": "prevede una sola circostanza aggravante per il pubblico ufficiale",
+    "B": "prevede due circostanze aggravanti",
+    "C": "è procedibile a querela di parte",
+    "D": "è un reato di mera condotta",
+    "corretta": "B",
+    "numero": 87
+  },
+  {
+    "domanda": "La tutela dell'art. 326 c.p.:",
+    "A": "esclusivamente la segretezza e riservatezza di talune informazioni",
+    "B": "il solo buon andamento della pubblica amministrazione",
+    "C": "il buon andamento della pubblica amministrazione ed anche la segretezza e la riservatezza di talune informazioni che debbano essere riservate all'esclusiva cognizione ed uso della pa e non divulgate ad altri",
+    "D": "il buon andamento della pubblica amministrazione ed anche la segretezza e la riservatezza di talune informazioni che debbano essere riservate all'esclusiva cognizione ed uso della pa e non divulgate ad altri ed anche la imparzialità della pa",
+    "corretta": "D",
+    "numero": 88
+  },
+  {
+    "domanda": "L'elemento soggettivo del reato di cui all'art. 326 c.p.:",
+    "A": "prevede in relazione ai diversi commi della fattispecie il dolo generico, la colpa e il dolo specifico",
+    "B": "prevede solo la premeditazione",
+    "C": "prevede il dolo generico, il dolo specifico ed il dolo eventuale",
+    "D": "prevede unicamente il dolo generico",
+    "corretta": "C",
+    "numero": 89
+  },
+  {
+    "domanda": "Il reato di cui all'art. 326 cp:",
+    "A": "è un reato per il quale appare configurabile il tentativo",
+    "B": "è un reato procedibile a querela di parte",
+    "C": "è un reato di mera condotta",
+    "D": "prevede una circostanza aggravante",
+    "corretta": "A",
+    "numero": 90
+  },
+  {
+    "domanda": "L'art. 328 cp:",
+    "A": "tutela il bene della giustizia",
+    "B": "tutela il bene strumentale della funzione di controllo di alcuni specifici settori della pa e i beni finali incarnati negli interessi collettivi della giustizia, sicurezza pubblica, ordine pubblico, igiene e sanità",
+    "C": "tutela i beni finali incarnati negli interessi collettivi della giustizia, sicurezza pubblica, ordine pubblico, igiene e sanità",
+    "D": "tutela solo il bene strumentale della funzione di controllo di alcuni specifici settori della pa",
+    "corretta": "B",
+    "numero": 91
+  },
+  {
+    "domanda": "L'art. 328 cp descrive due condotte:",
+    "A": "l'indebito rifiuto di una attività qualificata ed indifferibile e l'omissione non indilazionabile di un atto sollecitato da parte di chi abbia interesse al suo compimento e alla macata risposta sulle ragioni del ritardo",
+    "B": "solo l'indebito rifiuto di una attività qualificata ed indifferibile",
+    "C": "solo l'omissione non indilazionabile di un atto sollecitato da parte di chi abbia interesse al suo compimento e alla macata risposta sulle ragioni del ritardo",
+    "D": "l'indebito accettazione di una attività qualificata ed indifferibile e l'omissione non indilazionabile di un atto sollecitato da parte di chi abbia interesse al suo compimento e alla macata risposta sulle ragioni del ritardo",
+    "corretta": "A",
+    "numero": 92
+  },
+  {
+    "domanda": "L'omissione si realizza:",
+    "A": "nel compimento di un atto per il quale sia previsto un termine perentorio",
+    "B": "nel compimento di un atto per il quale sia previsto un termine ordinatorio",
+    "C": "nel mancato compimento di un atto per il quale sia previsto un termine perentorio",
+    "D": "nel mancato compimento di un atto per il quale è previsto un termine ordinatorio",
+    "corretta": "C",
+    "numero": 93
+  },
+  {
+    "domanda": "Il pubblico ufficiale o l'incaricato di pubblico servizio deve appartenere:",
+    "A": "solo alle forze armate",
+    "B": "alla specifica cerchia di pubblici funzionari",
+    "C": "all'organizzazione sindacale",
+    "D": "ai partiti",
+    "corretta": "B",
+    "numero": 94
+  },
+  {
+    "domanda": "Il reato di omissione in atti d'ufficio di cui al secondo comma dell'art. 328 cp:",
+    "A": "rappresenta un reato monoffensivo",
+    "B": "ha come bene tutelato il regolare andamento delle relazioni tra privati",
+    "C": "trattasi di aberratio ictus plurilesiva",
+    "D": "trattasi di fattispecie plurioofensiva",
+    "corretta": "D",
+    "numero": 95
+  },
+  {
+    "domanda": "Il ritardo si realizza:",
+    "A": "con il compimento dell'atto dovuto oltre il termine perentorio",
+    "B": "con il compimento dell'atto dovuto oltre il termine ordinatorio",
+    "C": "con il mancato compimento dell'atto dovuto oltre il termine perentorio",
+    "D": "con il mancato compimento dell'atto dovuto oltre il termine ordinatorio",
+    "corretta": "C",
+    "numero": 96
+  },
+  {
+    "domanda": "La condotta criminosa si configura:",
+    "A": "attraverso la richiesta e/o diffida dell'interessato e dal mancato compimento dell'atto e la mancata esposizione delle ragioni del riatrdo entro un termine prefissato",
+    "B": "attraverso la sola mancata esposizione delle ragioni del riatrdo entro un termine prefissato",
+    "C": "attraverso il solo mancato compimento dell'atto e/o la mancata esposizione delle ragioni del ritardo entro un termine prefissato",
+    "D": "attraverso la sola richiesta e/o diffida dell'interessato",
+    "corretta": "A",
+    "numero": 97
+  },
+  {
+    "domanda": "Il responsabile del procedimento è:",
+    "A": "colui che sovraintende alla regolarità del procedimento esecutivo",
+    "B": "colui che sovraintende alla regolarità del procedimento legislativo",
+    "C": "colui che sovraintende alla regolarità del procedimento amministrativo con poteri istruttori e decisionali",
+    "D": "colui che sovraintende alla regolarità del procedimento amministrativo",
+    "corretta": "C",
+    "numero": 98
+  },
+  {
+    "domanda": "Il reato di omissione in atti d'ufficio:",
+    "A": "è un reato permanente",
+    "B": "è un reato a condotta libera",
+    "C": "è un reato ad esecuzione frazionata",
+    "D": "è un reato omissivo proprio",
+    "corretta": "D",
+    "numero": 99
+  },
+  {
+    "domanda": "Ai fini della configurabilità dell'elemento psicologico nel reato di cui all'art. 328 cp:",
+    "A": "è necessario il dolo specifico",
+    "B": "è suffciente il dolo generico",
+    "C": "è sufficiente il dolo eventaule",
+    "D": "è necessario il dolo d'impeto",
+    "corretta": "B",
+    "numero": 100
+  },
+  {
+    "domanda": "L'art. 331 cp:",
+    "A": "è un reato proprio",
+    "B": "è un reato improprio",
+    "C": "è un reato comune",
+    "D": "è un reato a dolo specifico",
+    "corretta": "A",
+    "numero": 101
+  },
+  {
+    "domanda": "Il reato di interruzione di un servizio pubblico o di pubblica necessità:",
+    "A": "è tra le poche fattispecie a tutela della continuità dei servizi pubblici",
+    "B": "rappresenta l'unica disposizione rimasta in vigore tra quelle poste a tutela della continuità e regolarità dei servizi pubblici",
+    "C": "non tutela la continuità e regolarità dei servizi pubblici",
+    "D": "tutela solo la continuità dei servizi pubblici",
+    "corretta": "B",
+    "numero": 102
+  },
+  {
+    "domanda": "La condotta tipica del reato è prevista in due forme alternative:",
+    "A": "interrompere il servizio nei propri stabilimenti",
+    "B": "agevolare il servizio ovvero prorogare il lavoro nei propri stabilimenti",
+    "C": "interrompere il servizio ovvero prorogare il lavoro nei propri uffici",
+    "D": "interrompere il servizio ovvero sospendere il lavoro nei propri stabilimenti, uffici o aziende",
+    "corretta": "D",
+    "numero": 103
+  },
+  {
+    "domanda": "Interruzione di un servizio pubblico o di pubblica necessità:",
+    "A": "richiede soltanto il dolo generico",
+    "B": "richiede soltanto il dolo specifico",
+    "C": "richiede soltanto il dolo eventuale",
+    "D": "è sufficiente la colpa in ordine alla causazione dell'evento tipico",
+    "corretta": "A",
+    "numero": 104
+  },
+  {
+    "domanda": "L'art. 331 cp al secondo comma prevede:",
+    "A": "una circostanza a carattere generale",
+    "B": "una semplice circostanza speciale",
+    "C": "una circostanza speciale avente anche effetto speciale",
+    "D": "una figura autonoma di reato",
+    "corretta": "C",
+    "numero": 105
+  },
+  {
+    "domanda": "Oggetto specifico della tutela della causa di non punibilità di cui all'art. 393 bis cp è:",
+    "A": "il prestigio e il decorso della P.A.",
+    "B": "il buon funzionamento della P.A.",
+    "C": "la tutela dell'interesse della P.A. rispetto alla decisione dei pubblici impiegati",
+    "D": "la tutela dell'inteersse della PA alla libertà di decisione dei pubblici ufficiali",
+    "corretta": "D",
+    "numero": 106
+  },
+  {
+    "domanda": "Nella previsione normativa di cui sopra sono contemplati:",
+    "A": "la reazione materiale oppure il pericolo di una offesa lesiva della P.A. ovvero la reazione verbale che lede il prestigio della P.A. stessa",
+    "B": "il solo pericolo di una offesa materiale alla P.A.",
+    "C": "l'esclusiva reazione materiale lesiva dell'azione della P.A.",
+    "D": "la reazione psichica lesiva della P.A.",
+    "corretta": "A",
+    "numero": 107
+  },
+  {
+    "domanda": "La cd teoria oggettiva:",
+    "A": "ritiene sufficiente ai fini della integrazione della esimente l'indagine psicologica sul pubblico ufficiale",
+    "B": "si caratterizza per una applicazione più ampia dell'esimente",
+    "C": "si caratterizza per una applicazione restrittiva della esimente",
+    "D": "richiede l'accertamento dell'intento vessatorio perseguito dal pubblico ufficiale",
+    "corretta": "B",
+    "numero": 108
+  },
+  {
+    "domanda": "La giurisprudenza prevalente:",
+    "A": "ritiene che la causa di non punibilità di cui all'art. 393 bis cp sia una scriminante",
+    "B": "ritiene che la causa di non punibilità di cui all'art. 393 bis cp sia una causa di esclusione della pena",
+    "C": "ritiene che la causa di non punibilità di cui all'art. 393 bis cp sia un elemento costitutivo del fatto tipico",
+    "D": "ritiene che la causa di non punibilità di cui all'art. 393 bis cp sia una causa di giustificazione",
+    "corretta": "B",
+    "numero": 109
+  },
+  {
+    "domanda": "Secondo la giurisprudenza più recente la scriminante di cui all'art. 393 bis cp:",
+    "A": "è configurabile a fronte di una condotta meramente illegittima del pubblico ufficiale",
+    "B": "presuppone il compimento di una attività legittima del pubblico ufficiale",
+    "C": "non è configurabile a fronte di una condotta meramente illegittima del pubblico ufficiale",
+    "D": "presuppone il compimento di una attività tipica del pubblico ufficiale",
+    "corretta": "C",
+    "numero": 110
+  },
+  {
+    "domanda": "Il soggetto passivo del reato di cui all'art. 336 c.p.:",
+    "A": "un pubblico ufficiale o un incaricato di pubblico servizio",
+    "B": "solo il pubblico ufficiale",
+    "C": "solo l'incaricato di pubblico servizio",
+    "D": "il pubblico ufficiale, l'incaricato di pubblico servizio o l'esercente di pubblica necessità",
+    "corretta": "A",
+    "numero": 111
+  },
+  {
+    "domanda": "In relazione all'elemento soggettivo il reato di cui all'art. 336 c.p.:",
+    "A": "un reato commesso con dolo eventuale",
+    "B": "un reato a dolo generico",
+    "C": "un reato a dolo specifico",
+    "D": "una contravvenzione punita a atitolo di colpa",
+    "corretta": "C",
+    "numero": 112
+  },
+  {
+    "domanda": "Con riguardo all'interesse tutelato dalla fattispecie descritta:",
+    "A": "è un reato plurioffensivo",
+    "B": "è un reato monolesivo",
+    "C": "è un reato a condotta libera",
+    "D": "è un reato a dolo generico",
+    "corretta": "A",
+    "numero": 113
+  },
+  {
+    "domanda": "L'elemento oggettivo della violenza o minaccia a pubblico ufficiale prevede:",
+    "A": "una unica condotta",
+    "B": "un triplice evento",
+    "C": "una unica fattispecie",
+    "D": "due diverse fattispecie",
+    "corretta": "D",
+    "numero": 114
+  },
+  {
+    "domanda": "Se la violenza o la minaccia precede il compimento dell'atto da parte del pubblico ufficiale:",
+    "A": "si versa nell'ipotesi di resistenza a pubblico ufficiale",
+    "B": "si versa nell'ipotesi di violenza o minaccia ad un pubblico ufficiale",
+    "C": "si versa nell'ipotesi di estorsione ad un pubblico ufficiale",
+    "D": "trattasi di violenza privata a pubblico ufficiale",
+    "corretta": "B",
+    "numero": 115
+  },
+  {
+    "domanda": "La fattispecie di resistenza ad un pubblico ufficiale:",
+    "A": "è un reato monoffensivo",
+    "B": "è un reato plurioffensivo",
+    "C": "è un reato monolesivo",
+    "D": "è un reato omissivo proprio",
+    "corretta": "B",
+    "numero": 116
+  },
+  {
+    "domanda": "Il bene giuridico tutelato dalla fattispecie:",
+    "A": "è da rinvenirsi nella tutela del privato",
+    "B": "va individuato nella tutela della libertà d'azione dell'individuo",
+    "C": "è da rinvenirsi nel regolare il funzionamento della PA",
+    "D": "va inquadrato nel regolare funzionamento delle pubbliche condotte",
+    "corretta": "C",
+    "numero": 117
+  },
+  {
+    "domanda": "La resistenza ad un pubblico ufficiale:",
+    "A": "è una ipotesi di reato proprio",
+    "B": "trattasi di reato comune",
+    "C": "soggetto attivo del reato può essere soltanto il pubblico ufficiale",
+    "D": "il soggetto passivo del reato può essere chiunque",
+    "corretta": "B",
+    "numero": 118
+  },
+  {
+    "domanda": "Con riguardo all'elemento oggettivo del reato di cui all'art.337 cp:",
+    "A": "può integrare il reato anche la cd. resistenza impropria",
+    "B": "ci si riferisce esclusivamente al concetto di violenza",
+    "C": "ci si riferisce esclusivamente al concetto di minaccia attuato con un preciso mezzo",
+    "D": "integra il reato anche la mera disobbedienza",
+    "corretta": "A",
+    "numero": 119
+  },
+  {
+    "domanda": "Sotto il profilo dell'elemento soggettivo del reato di cui all'art. 337 cp:",
+    "A": "è richiesto il dolo generico",
+    "B": "è richiesto il dolo d'impeto",
+    "C": "oggetto di rappresentazione può anche non essere la qualifica soggettiva del soggetto passivo",
+    "D": "oggetto di rappresentazione deve essere anche la qualifica soggettiva del soggetto passivo",
+    "corretta": "D",
+    "numero": 120
+  },
+  {
+    "domanda": "Ante legge anticorruzione il delitto di traffico di influenze illecite era punito:",
+    "A": "dall'art. 346 c.p.",
+    "B": "dal combinato disposto degli artt. 345 e 346 cp",
+    "C": "dall'art. 328 cp",
+    "D": "dall'art. 689 cp",
+    "corretta": "A",
+    "numero": 121
+  },
+  {
+    "domanda": "Il soggetto attivo nella fattispecie di traffico di influenze illecite:",
+    "A": "il mediatore e il titolare delle pubbliche funzioni o del servizio pubblico",
+    "B": "il soggetto che acquista l'influenza, il mediatore, il titolare delle pubbliche funzioni o del servizio pubblico",
+    "C": "il solo soggetto che acquista l'influenza",
+    "D": "il soggetto che acquista l'influenza e il mediatore",
+    "corretta": "D",
+    "numero": 122
+  },
+  {
+    "domanda": "L'art. 346 bis cp si configura quando:",
+    "A": "quando il pubblico ufficiale con violenza estorce denaro",
+    "B": "la fattispecie in questione non è prevista dall'ordinamento",
+    "C": "quando un soggetto sfruttando uno speciale rapporto che lo lega ad un intraneus, si impegna, in cambio di denaro o altro vantaggio patrimoniale, ad intervenire su quest'ultimo per indurlo a compiere atti contrari ai doveri d'ufficio che interssano al privato che ha corrisposto la provvigione indebita",
+    "D": "quando un soggetto sfruttando uno speciale rapporto che lo lega ad un intraneus, si impegna, solo in cambio di denaro ad intervenire su quest'ultimo per indurlo a compiere atti contrari ai doveri d'ufficio",
+    "corretta": "C",
+    "numero": 123
+  },
+  {
+    "domanda": "La legge n. 3/2019 cd. Spazzacorrotti:",
+    "A": "ha abolito il traffico di influenze illecite",
+    "B": "ha riformulato l'estorsione aggravata",
+    "C": "ha abolito il reato di millantato credito inserendo le relative previsioni all'interno dell'art. 346 bis cp",
+    "D": "ha introdotto la punibilità del cd faccendiere",
+    "corretta": "C",
+    "numero": 124
+  },
+  {
+    "domanda": "L'originaria fattispecie del traffico di influenze illecite:",
+    "A": "è stata introdotta dalla legge n. 86/1990",
+    "B": "è stata introdotta dalla legge n. 190/2012",
+    "C": "è stato introdotta dalla legge n. 231/17",
+    "D": "è stato introdotta dalla legge n. 3/2019",
+    "corretta": "B",
+    "numero": 125
+  },
+  {
+    "domanda": "L'attività di monitoraggio e controllo sulla efficace attuazione del sistema preventivo secondo la legge 190/2012 è affidata a:",
+    "A": "al responsabile per la prevenzione della corruzione",
+    "B": "al sindaco",
+    "C": "all'organismo di vigilanza",
+    "D": "al segretario comunale",
+    "corretta": "A",
+    "numero": 126
+  },
+  {
+    "domanda": "Il Decreto legislativo 231/01 ha previsto:",
+    "A": "la responsabilità del preposto ai sensi del TU 81/08",
+    "B": "la responsabilità dei datori di lavoro",
+    "C": "la responsabilità delle persone fisiche nonché quella degli enti",
+    "D": "la responsabilità degli enti in aggiunta a quella penale di tipo individuale a carico della persona fisica",
+    "corretta": "D",
+    "numero": 127
+  },
+  {
+    "domanda": "Per la responsabilità dell'ente:",
+    "A": "è necessaria la sola commissione del reato nell'interesse dell'ente",
+    "B": "è necessaria la sola commissione del reato",
+    "C": "è necessaria la commissione del reato nell'interesse o a vantaggio dell'ente e che sia integrato l'elemento della colpa di organizzazione",
+    "D": "è necessaria la sola colpa di organizzazione",
+    "corretta": "C",
+    "numero": 128
+  },
+  {
+    "domanda": "La legge cd. anticorruzione ha introdotto sotto il profilo amministrativo:",
+    "A": "articolato un sistema organico di prevenzione articoalto su un unico livello",
+    "B": "introdotto un sistema organico di prevenzione della corruzione articolato su più livelli",
+    "C": "introdotto i cd nuclei di valutazione",
+    "D": "introdotto gli adempimenti di cui al Dlgs 231/01",
+    "corretta": "B",
+    "numero": 129
+  },
+  {
+    "domanda": "L'organismo di vigilanza (cd. OdV):",
+    "A": "deve avere composizione monocratica",
+    "B": "ha composizione plurisoggettiva",
+    "C": "deve essere monocratico e al contempo plurisoggettivo",
+    "D": "può essere composto anche da soggetti esterni all'ente",
+    "corretta": "D",
+    "numero": 130
+  },
+  {
+    "domanda": "Il modello organizzativo ha la funzione di:",
+    "A": "salvaguardare soltanto gli azionisti",
+    "B": "tutelare in via preventiva l'ente",
+    "C": "tutelare in via postuma l'ente",
+    "D": "tutelare in modo scarno l'ente",
+    "corretta": "B",
+    "numero": 131
+  },
+  {
+    "domanda": "Di cosa si compone il modello:",
+    "A": "della cd. parte speciale",
+    "B": "del CCNL dei dipendenti",
+    "C": "dell'atto costitutivo dell'ente",
+    "D": "del documento programmatico sulla sicurezza",
+    "corretta": "A",
+    "numero": 132
+  },
+  {
+    "domanda": "Quali sono i requisiti dell'organismo di vigilanza:",
+    "A": "autorevolezza",
+    "B": "onorabilità",
+    "C": "autonomia e indipendenza",
+    "D": "professionalità, autonomia e indipendenza",
+    "corretta": "D",
+    "numero": 133
+  },
+  {
+    "domanda": "Quali di questi elementi strutturali del modello non rientra nella parte generale di esso:",
+    "A": "quadro normativo di riferimento",
+    "B": "reati societari",
+    "C": "individuazione dei reati rilevanti",
+    "D": "disciplina dell'organismo di vigilanza",
+    "corretta": "B",
+    "numero": 134
+  },
+  {
+    "domanda": "Quali dei seguenti elementi non rientra nella parte speciale del modello:",
+    "A": "reati di criminalità organizzata",
+    "B": "impiego di cittadini con soggiorno irregolare",
+    "C": "formazione del modello",
+    "D": "reati tributari",
+    "corretta": "C",
+    "numero": 135
+  },
+  {
+    "domanda": "Il codice etico:",
+    "A": "deve limitarsi a disciplinare i rapporti con i clienti",
+    "B": "deve essere portato a conoscenza di tutti i dipendenti e di coloro che operano per la struttura",
+    "C": "deve essere diffuso principalmente tra i terzi soggetti che operano per la società",
+    "D": "riguarda solo i vertici aziendali",
+    "corretta": "B",
+    "numero": 136
+  },
+  {
+    "domanda": "Le procedure di prevenzione e controllo devono contenere:",
+    "A": "le modalità operative di svolgimento delle attività",
+    "B": "i documenti di identità concernenti i consulenti",
+    "C": "le relazioni personali instaurate tra i soggetti",
+    "D": "l'esatto numero di impiegati presenti nella funzione",
+    "corretta": "A",
+    "numero": 137
+  },
+  {
+    "domanda": "La procedura gestionale:",
+    "A": "approvata post verifica della sua adeguatezza",
+    "B": "riesaminata ogni mese",
+    "C": "non disponibile sui luoghi di lavoro",
+    "D": "condivisa tra tutte le funzioni coinvolte",
+    "corretta": "D",
+    "numero": 138
+  },
+  {
+    "domanda": "Le procedure dovranno essere implementate:",
+    "A": "solo in caso di modifiche organizzative",
+    "B": "almeno una volta al mese",
+    "C": "ad ogni cambio di vertice",
+    "D": "richiederanno un aggiornamento periodico per modifiche normative o organizzative intervenute",
+    "corretta": "D",
+    "numero": 139
+  },
+  {
+    "domanda": "Il modello di organizzazione e controllo ex Dlgs 231/01:",
+    "A": "può sempre ritenersi idoneo",
+    "B": "potrà ritenersi idoneo solo attraverso l'implementazione e l'applicazione delle procedure aziendali",
+    "C": "potrà ritenersi idoneo solo atraverso l'implementazione e l'applicazione di procedure di prevenzione e controllo dei reati presupposto ex Dlgs 231/01",
+    "D": "potrà ritenersi idoneo unicamente attraverso il monitoraggio dell'organismo di vigilanza",
+    "corretta": "C",
+    "numero": 140
+  },
+  {
+    "domanda": "Da dove deriva il termine whistleblowing:",
+    "A": "da tradizione latine",
+    "B": "è mutuato dalla lingua inglese",
+    "C": "è di matrice tedesca",
+    "D": "è una espressione tipicamente scozzese",
+    "corretta": "B",
+    "numero": 141
+  },
+  {
+    "domanda": "Quale è il significato del termine whistleblowing:",
+    "A": "chi rivela segreti aziendali per una finalità personali",
+    "B": "chi viene a conoscenza di un illecito o di una irregolarità sul luogo di lavoro e decide di segnalarlo ad una persona o ad una autorità che può agire al riguardo",
+    "C": "chi viene a conoscenza di un demansionamento sui luoghi di lavoro",
+    "D": "chi spiffera vicende private dei dipendenti",
+    "corretta": "B",
+    "numero": 142
+  },
+  {
+    "domanda": "Nel settore pubblico la segnalazione-denuncia deve essere presentata:",
+    "A": "all'autorità giudiziaria e a quella contabile",
+    "B": "al Prefetto",
+    "C": "all'organismo di vigilanza",
+    "D": "alla funzione compliance della società",
+    "corretta": "A",
+    "numero": 143
+  },
+  {
+    "domanda": "La disciplina del whistleblowing nel settore privato:",
+    "A": "riguarda le fattispecie di diritto civile",
+    "B": "attiene al diritto pubblico",
+    "C": "riguarda l'ANAC",
+    "D": "è strettamente collegata ai modelli di organizzazione gestione idonei a prevenire i reati ex dlgs 231/01",
+    "corretta": "D",
+    "numero": 144
+  },
+  {
+    "domanda": "La segnalazione deve essere:",
+    "A": "generica e indeterminta",
+    "B": "unicamente circostanziata",
+    "C": "circostanziata e fondata su elementi di fatto precisi e concordanti",
+    "D": "fondata su elementi di fatto precisi e concordanti ma può essere anche generica",
+    "corretta": "C",
+    "numero": 145
+  },
+  {
+    "domanda": "Lo standard anticorruzione ISO370001:",
+    "A": "fornisce una linea guida solo per i fenomeni della corruzione privata",
+    "B": "fornisce una linea guida su come distribuire omaggi e regali ai dipendenti",
+    "C": "definisce requisiti e fornisce una linea guida su come prevenire, individuare e rispondere alla corruzione nell'ambito di una organizzazione",
+    "D": "riguarda solo i vantaggi di natura finanziaria",
+    "corretta": "C",
+    "numero": 146
+  },
+  {
+    "domanda": "I presupposti della ISO370001:",
+    "A": "riguardano le aziende che abbiano da 500 dipendenti a salire",
+    "B": "generali ed applicabili a qualunque organizzazione(o parte di organizzazione)",
+    "C": "applicabili alle sole imprese edili",
+    "D": "rivolti principalmente alle aziende di grandi dimensioni",
+    "corretta": "B",
+    "numero": 147
+  },
+  {
+    "domanda": "I soggetti responsabili identificati dalla ISO370001:",
+    "A": "il commissario giudiziale",
+    "B": "il class managment",
+    "C": "l'organismo interno di valutazione",
+    "D": "la funzione di compliance anticorruzione",
+    "corretta": "D",
+    "numero": 148
+  },
+  {
+    "domanda": "I vantaggi dell'adozione del sistema di gestione anticorruzione:",
+    "A": "benefici di governance",
+    "B": "benefici personali",
+    "C": "vantaggi lavorativi",
+    "D": "benefici a carattere non economici",
+    "corretta": "A",
+    "numero": 149
+  },
+  {
+    "domanda": "Le misure di prevenzione secondo le best pratice dovrebbero ispirarsi ai seguenti standard di controllo interno:",
+    "A": "unificazione dei compiti,poteri autorizzativi e di firma, rintracciabilità",
+    "B": "segregazione dei compiti, mancanza di procedure, mancanze di firme",
+    "C": "segregazione dei compiti, procedure, poteri autorizzativi e di firma, tracciabilità",
+    "D": "procedure, poteri autorizzativi e tracciabilità",
+    "corretta": "C",
+    "numero": 150
+  }
+]
