@@ -1,0 +1,1316 @@
+[
+  {
+    "domanda": "Qual è la funzione del diritto del lavoro:",
+    "A": "tutelare il lavoratore nel rapporto di lavoro con o senza vincolo di subordinazione",
+    "B": "tutelare il datore di lavoro",
+    "C": "tutelare il lavoratore nel rapporto di lavoro con di subordinazione",
+    "D": "tutelare il lavoratore, il datore di lavoro e i sindacati",
+    "corretta": "A",
+    "numero": 1
+  },
+  {
+    "domanda": "A cosa mirano le politiche sociali dell'UE:",
+    "A": "diversificare le politiche nazionali in base alle differenze socio-economiche",
+    "B": "diversificare le politiche nazionali in base alle differenze storico-culturali",
+    "C": "coordinare la politiche occupazionali nazionali",
+    "D": "coordinare la politiche occupazionali nazionali dei paesi maggiormente sviluppati",
+    "corretta": "C",
+    "numero": 2
+  },
+  {
+    "domanda": "Come può definirsi la competenza dell'Unione in materia di politica sociale (di cui all'art. 151 TFUE):",
+    "A": "ESCLUSIVA, gli Stati membri derogano in toto la disciplina",
+    "B": "CONCORRENTE con gli Stati membri",
+    "C": "su alcune materie ESCLUSIVA e su altre CONCORRENTE",
+    "D": "una mera competenza di SOSTEGNO",
+    "corretta": "B",
+    "numero": 3
+  },
+  {
+    "domanda": "Cosa comprende il diritto sindacale:",
+    "A": "esclusivamente norme relative a organizzazione delle associazioni sindacali ma non le libertà sindacali",
+    "B": "esclusivamente norme relative alle libertà sindacali ma non alle organizzazione delle associazioni sindacali",
+    "C": "norme relative a organizzazione delle associazioni sindacali e libertà sindacali",
+    "D": "tutte le norme del diritto del lavoro",
+    "corretta": "C",
+    "numero": 4
+  },
+  {
+    "domanda": "Come si pongono le norme dell'ordinamento statale rispetto alla Costituzione:",
+    "A": "sono sovraordinate",
+    "B": "a seconda del loro contenuto possono essere subordinate o sovraordinate",
+    "C": "si pongono sullo stesso livello",
+    "D": "sono subordinate",
+    "corretta": "D",
+    "numero": 5
+  },
+  {
+    "domanda": "Cosa prevede l'art. 1 della Costituzione:",
+    "A": "«L'Italia è una Repubblica democratica fondata sul lavoro»",
+    "B": "«L'Italia è una Repubblica fondata sul lavoro»",
+    "C": "«L'Italia è fondata sul lavoro»",
+    "D": "«L'Italia è una Repubblica democratica fondata sul diritto del lavoro»",
+    "corretta": "A",
+    "numero": 6
+  },
+  {
+    "domanda": "Cosa prevede l'art. 35 della Costituzione:",
+    "A": "«La Repubblica tutela i lavoratori che versino in uno stato di bisogno»",
+    "B": "«La Repubblica tutela il lavoro avente natura subordinata e ne disciplina la sua applicazione»",
+    "C": "«La Repubblica tutela il lavoro in tutte le sue forme ed applicazioni»",
+    "D": "«La Repubblica tutela i lavoratori fragili»",
+    "corretta": "C",
+    "numero": 7
+  },
+  {
+    "domanda": "Cosa è la contrattazione collettiva:",
+    "A": "processo di negoziazione tra i datori di lavoro e i lavoratori",
+    "B": "processo di negoziazione tra i datori di lavoro e le loro associazioni, da un lato, e le organizzazioni rappresentative dei lavoratori dall'altro",
+    "C": "processo di negoziazione tra le associazioni datoriali, da un lato, e i lavoratori dall'altro",
+    "D": "processo di negoziazione tra i datori di lavoro, da un lato, e le organizzazioni rappresentative dei lavoratori dall'altro",
+    "corretta": "B",
+    "numero": 8
+  },
+  {
+    "domanda": "Cosa comprende la competenza esclusiva delle Regioni:",
+    "A": "previdenza complementare ed integrativa",
+    "B": "tutela della salute",
+    "C": "istruzione professionale",
+    "D": "tutela e sicurezza del lavoro",
+    "corretta": "C",
+    "numero": 9
+  },
+  {
+    "domanda": "Il contratto individuale di lavoro può derogare quello collettivo:",
+    "A": "sì, sempre",
+    "B": "no, mai",
+    "C": "sì, anche in peius purché vi sia espresso accordo tra le parti",
+    "D": "sì, ma solo se prevede un trattamento nel complessopiù favorevole",
+    "corretta": "D",
+    "numero": 10
+  },
+  {
+    "domanda": "La differenza tra lavoro subordinato e autonomo è:",
+    "A": "vincolo di subordinazione",
+    "B": "inferiorità economica rispetto all'imprenditore",
+    "C": "retribuzione etero-imposta",
+    "D": "condizioni di lavoro differenti",
+    "corretta": "A",
+    "numero": 11
+  },
+  {
+    "domanda": "L'articolo del Codice civile che disciplina il lavoro autonomo è:",
+    "A": "art. 2223",
+    "B": "art. 2094",
+    "C": "art. 2222",
+    "D": "art. 2095",
+    "corretta": "C",
+    "numero": 12
+  },
+  {
+    "domanda": "Le collaborazioni coordinate e continuative (co.co.co.) sono quei rapporti di lavoro nei quali:",
+    "A": "il collaboratore si obbliga a compiere verso un corrispettivo un'opera o un servizio, con lavoro prevalentemente proprio e senza vincolo di subordinazione nei confronti del committente",
+    "B": "il collaboratore si impegna a compiere un'opera o un servizio, a carattere prevalentemente personale e in via continuativa, a favore del committente ed in coordinamento con quest'ultimo, ma senza che sussista alcun vincolo di subordinazione",
+    "C": "il collaboratore si impegna a svolgere le proprie mansioni con vincolo di subordinazione",
+    "D": "il collaboratore si impegna a compiere un'opera o un servizio, a carattere prevalentemente personale e in via continuativa, a favore del committente ed in coordinamento con quest'ultimo, ma con vincolo di subordinazione",
+    "corretta": "B",
+    "numero": 13
+  },
+  {
+    "domanda": "I criteri presuntivi del lavoro subordinato sono:",
+    "A": "l'eterodirezione",
+    "B": "il contratto individuale",
+    "C": "rischio di impresa in capo al solo datore di lavoro; Pagamento della retribuzione a scadenze periodiche; Osservanza di un orario di lavoro, ETC.",
+    "D": "la semplice previsione di una retribuzione periodica",
+    "corretta": "C",
+    "numero": 14
+  },
+  {
+    "domanda": "Elemento essenziale del rapporto di lavoro subordinato è:",
+    "A": "il vincolo di orario",
+    "B": "orario predeterminato e retribuzione in misura fissa",
+    "C": "il rapporto gerarchico",
+    "D": "l'eterodirezione",
+    "corretta": "D",
+    "numero": 15
+  },
+  {
+    "domanda": "La causa del contratto di lavoro è:",
+    "A": "elemento accidentale del contratto",
+    "B": "elemento eventuale del contratto",
+    "C": "elemento essenziale del contratto",
+    "D": "elemento irrilevante del contratto",
+    "corretta": "C",
+    "numero": 16
+  },
+  {
+    "domanda": "L'oggetto del contratto di lavoro deve essere:",
+    "A": "non necessariamente determinabile purché sia possibile e lecito",
+    "B": "non necessariamente determinabile purché sia lecito",
+    "C": "lecito, determinato o determinabile",
+    "D": "possibile, lecito, determinato o determinabile",
+    "corretta": "D",
+    "numero": 17
+  },
+  {
+    "domanda": "Il prestatore di lavoro subordinato è una persona fisica:",
+    "A": "con almeno 16 anni di età, ad eccezione del settore dello spettacolo, attività culturali, artistiche, sportive, pubblicitarie per cui è prevista una età inferiore",
+    "B": "che abbia raggiunto la maggiore età",
+    "C": "con almeno 14 anni di età, ad eccezione del settore dello spettacolo, attività culturali, artistiche, sportive, pubblicitarie per cui è prevista una età inferiore",
+    "D": "con almeno 12 anni di età, ad eccezione del settore dello spettacolo, attività culturali, artistiche, sportive, pubblicitarie per cui è prevista una età inferiore",
+    "corretta": "A",
+    "numero": 18
+  },
+  {
+    "domanda": "Il datore di lavoro:",
+    "A": "è una persona fisica che abbia raggiunto la maggiore età",
+    "B": "è una persona fisica o giuridica",
+    "C": "è una persona giuridica",
+    "D": "è una associazione del terzo settore",
+    "corretta": "B",
+    "numero": 19
+  },
+  {
+    "domanda": "Gli elementi essenziali del contratto sono:",
+    "A": "la forma e l'oggetto",
+    "B": "la forma, l'accordo, la causa e l'oggetto",
+    "C": "intestazione, corpo e conclusioni",
+    "D": "l'incontro delle volontà delle parti e la relativa capacità di intendere e di volere",
+    "corretta": "C",
+    "numero": 20
+  },
+  {
+    "domanda": "Durante il periodo di prova:",
+    "A": "ciascuna delle parti può recedere dal contratto, purché venga rispettato l'obbligo di preavviso.",
+    "B": "le parti non possono recedere dal contratto.",
+    "C": "ciascuna delle parti può recedere dal contratto, senza obbligo di preavviso o d'indennità",
+    "D": "le parti non possono recedere dal contratto, pena il pagamento della relativa indennità.",
+    "corretta": "C",
+    "numero": 21
+  },
+  {
+    "domanda": "Il periodo di prova:",
+    "A": "può risultare da atto scritto",
+    "B": "può essere accordato anche solo verbalmente",
+    "C": "non deve risultare da atto scritto",
+    "D": "deve risultare da atto scritto",
+    "corretta": "D",
+    "numero": 22
+  },
+  {
+    "domanda": "Il patto con il quale si limita lo svolgimento dell'attività del prestatore di lavoro, per il tempo successivo alla cessazione del contratto:",
+    "A": "è annullabile se non risulta da atto scritto e se il vincolo non è contenuto entro determinati limiti di oggetto, di tempo e di luogo",
+    "B": "è nullo se non risulta da atto scritto e se il vincolo non è contenuto entro determinati limiti di oggetto, di tempo e di luogo",
+    "C": "è annullabile se non risulta da atto scritto, se non è pattuito un corrispettivo a favore del prestatore di lavoro e se il vincolo non è contenuto entro determinati limiti di oggetto, di tempo e di luogo",
+    "D": "è nullo se non risulta da atto scritto, se non è pattuito un corrispettivo a favore del prestatore di lavoro e se il vincolo non è contenuto entro determinati limiti di oggetto, di tempo e di luogo",
+    "corretta": "D",
+    "numero": 23
+  },
+  {
+    "domanda": "La durata del patto di non concorrenza:",
+    "A": "non può essere superiore a cinque anni, se si tratta di dirigenti, e a tre anni negli altri casi.",
+    "B": "non può essere superiore a dieci anni, se si tratta di dirigenti, e a cinque anni negli altri casi.",
+    "C": "non può essere superiore a sei anni, se si tratta di dirigenti, e a tre anni negli altri casi.",
+    "D": "non può essere superiore a cinque anni, se si tratta di dirigenti, e a due anni negli altri casi.",
+    "corretta": "A",
+    "numero": 24
+  },
+  {
+    "domanda": "Ai sensi dell'art. 1, c. 2, d. lgs. n. 368/2001, l'apposizione del termine al contratto di lavoro subordinato:",
+    "A": "deve risultare, direttamente o indirettamente, da atto scritto, nel quale devono esserne specificate le ragioni",
+    "B": "deve risultare da atto scritto, certificato davanti alla Direzione provinciale del lavoro",
+    "C": "deve risultare da atto scritto con firme autenticate",
+    "D": "deve risultare da atto scritto e richiede la preventiva approvazione della Direzione provinciale del lavoro",
+    "corretta": "A",
+    "numero": 25
+  },
+  {
+    "domanda": "L'inquadramento unico determina il:",
+    "A": "superamento della classificazione in categorie",
+    "B": "superamento della divisione delle retribuzioni",
+    "C": "superamento della classificazione nella catena di montaggio",
+    "D": "superamento della classificazione per istruzione",
+    "corretta": "A",
+    "numero": 26
+  },
+  {
+    "domanda": "I prestatori di lavoro subordinato si distinguono in:",
+    "A": "dirigenti, funzionari e impiegati",
+    "B": "dirigenti, funzionari, impiegati e operai",
+    "C": "dirigenti, quadri, impiegati e operai",
+    "D": "dirigenti, funzionari, assistenti e operatori",
+    "corretta": "C",
+    "numero": 27
+  },
+  {
+    "domanda": "I quadri sono coloro che:",
+    "A": "svolgono continuativamente funzioni di rilevante importanza per lo sviluppo e attuazione degli obiettivi dell'impresa.",
+    "B": "svolgono attività professionale con funzioni di collaborazione con il datore di lavoro, eccettuata ogni prestazione di semplice mano d'opera.",
+    "C": "svolgono attività di collaborazione nell'impresa che attengono al solo processo produttivo",
+    "D": "hanno nell'azienda una posizione che richiede un elevato grado di professionalità, autonomia e potere decisionale per la realizzazione degli obiettivi dell'impresa.",
+    "corretta": "A",
+    "numero": 28
+  },
+  {
+    "domanda": "Il funzionario è una figura professionale introdotta da:",
+    "A": "legislatore nazionale",
+    "B": "contrattazione collettiva",
+    "C": "legislatore UE",
+    "D": "costituzione",
+    "corretta": "B",
+    "numero": 29
+  },
+  {
+    "domanda": "Gli Intermedi:",
+    "A": "si collocano al livello più alto della categoria degli quadri poiché sono preposti alla guida e controllo di un gruppo degli stessi",
+    "B": "si collocano al livello più alto della categoria dei funzionari poiché sono preposti alla guida e controllo di un gruppo degli stessi",
+    "C": "si collocano al livello più alto della categoriadei dirigenti poiché sono preposti alla guida e controllo di un gruppo degli stessi",
+    "D": "si collocano al livello più alto della categoria degli operai poiché sono preposti alla guida e controllo di un gruppo degli stessi",
+    "corretta": "D",
+    "numero": 30
+  },
+  {
+    "domanda": "Il datore di lavoro esercita un potere:",
+    "A": "direttivo, di controllo e discipinare",
+    "B": "direttivo e disciplinare. È escluso il potere di controllo in quanto sarebbe violativo della privacy del lavoratore",
+    "C": "solo direttivo. Il potere disciplinare è esercitato da apposito organo terzo e imperziale",
+    "D": "direttivo, di indagine e disciplinare",
+    "corretta": "A",
+    "numero": 31
+  },
+  {
+    "domanda": "Si definisce orario di lavoro qualsiasi periodo in cui il lavoratore è:",
+    "A": "al lavoro, a disposizione del datore di lavoro e nell'esercizio della sua attività o delle sue funzioni",
+    "B": "al lavoro, a disposizione del datore di lavoro ma non necessariamente nell'esercizio della sua attività o delle sue funzioni",
+    "C": "presente al lavoro",
+    "D": "presente al lavoro pur non a disposizione del datore di lavoro",
+    "corretta": "A",
+    "numero": 33
+  },
+  {
+    "domanda": "I nominativi e le mansioni specifiche del personale addetto alla vigilanza dell'attività lavorativa:",
+    "A": "debbono essere comunicati ai lavoratori interessati",
+    "B": "non debbono essere comunicati ai lavoratori interessati",
+    "C": "possono essere comunicati ai lavoratori interessati su loro richiesta",
+    "D": "possono essere comunicati ai lavoratori interessati su richiesta delle organizzazioni sindacali",
+    "corretta": "A",
+    "numero": 34
+  },
+  {
+    "domanda": "Il mutamento di mansioni:",
+    "A": "è accompagnato, ove necessario, dall'assolvimento dell'obbligo formativo, il cui mancato adempimento non determina comunque la nullità dell'atto di assegnazione delle nuove mansioni",
+    "B": "non è accompagnato da alcun obbligo",
+    "C": "non è mai accompagnato dall'assolvimento dell'obbligo formativo, essendo onere del lavoratore formarsi autonomamente",
+    "D": "è accompagnato, ove necessario, dall'assolvimento dell'obbligo formativo, il cui mancato adempimento determina la nullità dell'atto di assegnazione delle nuove mansioni",
+    "corretta": "A",
+    "numero": 35
+  },
+  {
+    "domanda": "La contestazione dell'addebito deve essere:",
+    "A": "generica, immediata e immutabile",
+    "B": "specifica, immediata e immutabile",
+    "C": "generica, immediata e modificabile in ogni stato e grado",
+    "D": "specifica, immediata e modificabile in ogni stato e grado",
+    "corretta": "B",
+    "numero": 36
+  },
+  {
+    "domanda": "In caso di inosservanza degli obblighi contrattuali imputabili al lavoratore, il datore di lavoro:",
+    "A": "non può irrorare sanzioni disciplinari, ma deve tempestivamente comunicare la condotta incriminata al proprio Consulente del lavoro",
+    "B": "non può irrorare sanzioni disciplinari, ma deve tempestivamente comunicare la condotta incriminata all'Ispettorato del Lavoro",
+    "C": "può irrorare adeguate sanzioni disciplinari in relazione alla gravità dell'infrazione",
+    "D": "non può irrorare sanzioni disciplinari",
+    "corretta": "C",
+    "numero": 37
+  },
+  {
+    "domanda": "Ai sensi dell'art. 55, c. 5°, d. lgs. n. 165/2001, l'amministrazione, prima di adottare un provvedimento disciplinare più grave del rimprovero verbale:",
+    "A": "deve solo sentire il dipendente al fine di consentirgli di difendersi",
+    "B": "può sentire il dipendente al fine di consentirgli di difendersi",
+    "C": "deve contestare per iscritto l'addebito al dipendente e sentirlo a sua difesa",
+    "D": "deve solo contestare per iscritto l'addebito al dipendente",
+    "corretta": "C",
+    "numero": 38
+  },
+  {
+    "domanda": "Il lavoratore ha facoltà di replicare alla contestazione di addebito entro:",
+    "A": "quindici giorni dalla ricezione della contestazione stessa",
+    "B": "cinque giorni dalla ricezione della contestazione stessa",
+    "C": "venti giorni dalla ricezione della contestazione stessa",
+    "D": "dieci giorni dalla ricezione della contestazione stessa",
+    "corretta": "B",
+    "numero": 39
+  },
+  {
+    "domanda": "Costituisce sanzione disciplinare propria del rapporto di impiego:",
+    "A": "la sospensione dal servizio e dalla retribuzione",
+    "B": "la sospensione della retribuzione con obbligo della prestazione",
+    "C": "la riduzione alla qualifica inferiore",
+    "D": "il trasferimento d'ufficio",
+    "corretta": "A",
+    "numero": 40
+  },
+  {
+    "domanda": "Il rapporto di lavoro a tempo determinato:",
+    "A": "non può essere trasformato in rapporto di lavoro a tempo pieno",
+    "B": "può essere trasformato in rapporto di lavoro a tempo pieno a part-time ma non viceversa",
+    "C": "può essere trasformato in rapporto di lavoro a tempo pieno e viceversa",
+    "D": "non può essere trasformato in rapporto di lavoro a tempo pieno, ma può avvenire il contrario",
+    "corretta": "C",
+    "numero": 41
+  },
+  {
+    "domanda": "Il contratto di lavoro intermittente:",
+    "A": "un lavoratore si pone a disposizione di un datore di lavoro che ne può utilizzare la prestazione lavorativa chiamandolo ad effettuare le lavorazioni nei limiti indicati dalla legge",
+    "B": "è una particolare tipologia di lavoro part-time verticale",
+    "C": "è una particolare tipologia di lavoro part-time orizzontale",
+    "D": "è una particolare tipologia di lavoro part-time misto",
+    "corretta": "A",
+    "numero": 42
+  },
+  {
+    "domanda": "Il part-time orizzontale si realizza quando:",
+    "A": "la prestazione è resa solo in determinati periodi dell'anno, del mese o della settimana",
+    "B": "la prestazione è resa solo per metà giornata",
+    "C": "la riduzione di orario è distribuita su ciascun giorno della settimana",
+    "D": "la prestazione è resa a giorni alterni",
+    "corretta": "C",
+    "numero": 43
+  },
+  {
+    "domanda": "Nel contratto di lavoro ripartito, di cui all'art. 41 del D.Lgs. n. 276/2003, sono coinvolti:",
+    "A": "un solo lavoratore",
+    "B": "due lavoratori",
+    "C": "ipoteticamente un numero infinito di lavoratori",
+    "D": "massimo dieci lavoratori",
+    "corretta": "B",
+    "numero": 44
+  },
+  {
+    "domanda": "Il contratto di lavoro ripartito:",
+    "A": "è il contratto di lavoro mediante il quale due lavoratori assumono in solido l'adempimento di un'unica ed identica obbligazione lavorativa",
+    "B": "è il contratto di lavoro mediante il quale più lavoratori assumono alternativamente l'adempimento di un'unica ed identica obbligazione lavorativa",
+    "C": "è il contratto mediante il quale due o più lavoratori si pongono in solido a disposizione di un datore di lavoro per lo svolgimento di un'unica ed identica obbligazione lavorativa",
+    "D": "è il contratto di lavoro mediante il quale due o più lavoratori assumono l'adempimento di un'unica ed identica obbligazione lavorativa, ciascuno per una parte predeterminata",
+    "corretta": "A",
+    "numero": 45
+  },
+  {
+    "domanda": "Il lavoro sportivo è:",
+    "A": "un rapporto di lavoro intercorrente tra datore di lavoro e sportivi anche non professionisti",
+    "B": "un rapporto di lavoro intercorrente tra società sportive e sportivi professionisti",
+    "C": "un rapporto di lavoro intercorrente tra società sportive e sportivi anche non professionisti",
+    "D": "un rapporto di lavoro intercorrente tra datore di lavoro e sportivi professionisti",
+    "corretta": "B",
+    "numero": 46
+  },
+  {
+    "domanda": "Il lavoro sportivo è disciplinato da un legge speciale:",
+    "A": "L. 369/87",
+    "B": "L. 91/1981",
+    "C": "L. 99/2013",
+    "D": "l. 15/2024",
+    "corretta": "B",
+    "numero": 47
+  },
+  {
+    "domanda": "Il lavoro accessorio comprende tutte quelle prestazioni di lavoro:",
+    "A": "non rientranti nella fattispecie civilistiche tipiche del lavoro subordinato o autonomo e che si caratterizzano per il limite economico dei compensi e per la forma di pagamento che avviene tramite voucher.",
+    "B": "che si svolgono al di fuori dell'orario di lavoro in favore di un altro datore di lavoro",
+    "C": "che si svolgono durante l'orario di lavoro e che sono strumentali all'attività principale",
+    "D": "che vengono svolte a livello domestico",
+    "corretta": "A",
+    "numero": 48
+  },
+  {
+    "domanda": "Il lavoro gratuito è:",
+    "A": "vietato dalla legge",
+    "B": "effettuato senza corresponsione di denaro o altra utilità perbenevolenza o per ottenere vantaggi indiretti.",
+    "C": "vietato dalla Costituzione",
+    "D": "configura sfruttamento del lavoro",
+    "corretta": "B",
+    "numero": 49
+  },
+  {
+    "domanda": "L'attività di volontariato:",
+    "A": "può essere retribuita",
+    "B": "non può essere retribuita e non sono ammessi i rimborsi spese",
+    "C": "può essere retribuita nella misura di cui all'art. 36 Cost.",
+    "D": "non può essere retribuita, ma sono ammessi i rimborsi spese.",
+    "corretta": "D",
+    "numero": 50
+  },
+  {
+    "domanda": "Il testo normativo di riferimento per la disciplina dei pubblici uffici e del lavoro nelle pubbliche amministrazioni è:",
+    "A": "L. 300/70",
+    "B": "D.Lgs. n. 165/2001",
+    "C": "R.D.L. 56/1933",
+    "D": "D.Lgs. 66/2003",
+    "corretta": "B",
+    "numero": 51
+  },
+  {
+    "domanda": "La privatizzazione del pubblico impiego consiste essenzialmente:",
+    "A": "nell'applicazione delle disposizioni di diritto privato al rapporto di pubblico impiego.",
+    "B": "nell'applicazione delle disposizioni di diritto comune al rapporto di pubblico impiego;",
+    "C": "nell'applicazione delle disposizioni di diritto privato internazionale al rapporto di pubblico impiego;",
+    "D": "nell'applicazione delle disposizioni di diritto pubblico al rapporto di pubblico impiego;",
+    "corretta": "A",
+    "numero": 52
+  },
+  {
+    "domanda": "Sono esclusi dal processo di privatizzazione:",
+    "A": "i lavoratori rappresentati dall'ARAN",
+    "B": "i lavoratori iscritti alla associazioni sindacali maggiormente rappresentative che non siano firmatarie degli accordi collettivi",
+    "C": "i magistrati ordinari, amministrativi e contabili, gli avvocati e procuratori dello Stato, il personale militare e le Forze di polizia di Stato, il personale della carriera diplomatica e della carriera prefettizia",
+    "D": "tutti i dipendenti pubblici assunti a partire dal 15 luglio 2015",
+    "corretta": "C",
+    "numero": 53
+  },
+  {
+    "domanda": "Il Libro V del Codice civile:",
+    "A": "non trova mai applicazione per i pubblici dipendenti",
+    "B": "trova sempre applicazione per i pubblici dipendenti",
+    "C": "trova applicazione per i pubblici dipendenti nelle materie che non siano già disciplinate dalla normativa speciale",
+    "D": "non trova applicazione per i pubblici dipendenti salvo che le parti non accordino di derogare la lex specialis",
+    "corretta": "C",
+    "numero": 54
+  },
+  {
+    "domanda": "In base all'art. 35, d. lgs. n. 165/2001, l'assunzione nelle amministrazioni pubbliche avviene con contratto individuale di lavoro:",
+    "A": "a) tramite procedure selettive, conformi ai principi del comma 3 dello stesso articolo, volte all'accertamento della professionalità richiesta, che garantiscano in misura adeguata l'accesso dall'esterno; b) mediante avviamento degli iscritti nelle liste di collocamento ai sensi della legislazione vigente per le qualifiche e profili per i quali è richiesto il solo requisito della scuola dell'obbligo, facendo salvi gli eventuali ulteriori requisiti per specifiche professionalità",
+    "B": "a) tramite procedure selettive, conformi ai principi del comma 3 dello stesso articolo, volte all'accertamento della professionalità richiesta, che garantiscano in misura adeguata l'accesso dall'esterno b) mediante scelta diretta per le qualifiche e profili per i quali è richiesto il solo requisito della scuola dell'obbligo, facendo salvi gli eventuali ulteriori requisiti per specifiche professionalità",
+    "C": "tramite procedure selettive, conformi ai principi del comma 3 dello stesso articolo, volte all'accertamento della professionalità richiesta, che garantiscano in misura adeguata l'accesso dall'esterno",
+    "D": "a) tramite procedure selettive che garantiscano in misura adeguata l'accesso dall'esterno; b) mediante avviamento degli iscritti nelle liste di mobilità, facendo salvi gli eventuali ulteriori requisiti per specifiche professionalità",
+    "corretta": "A",
+    "numero": 55
+  },
+  {
+    "domanda": "La retribuzione minima è:",
+    "A": "fissata dai contratti collettivi",
+    "B": "fissata dai contratti individuali",
+    "C": "fissata dalla legge",
+    "D": "fissata con decreto del Ministero del Lavoro",
+    "corretta": "A",
+    "numero": 56
+  },
+  {
+    "domanda": "La retribuzione a cottimo è erogata:",
+    "A": "in funzione del risultato prodotto",
+    "B": "in ragione del tempo di lavoro",
+    "C": "mediante forme di compartecipazione",
+    "D": "con prestazioni in natura",
+    "corretta": "A",
+    "numero": 57
+  },
+  {
+    "domanda": "Il principio della postnumerazione prevede che:",
+    "A": "il datore di lavoro consegni un prospetto da cui risultino i calcoli operati per l'esatta determinazione della retribuzione",
+    "B": "diritto alla retribuzione sorge durante l'esecuzione della prestazione",
+    "C": "diritto alla retribuzione sorge dopo che la prestazione è stata eseguita",
+    "D": "la retribuzione sia proporzionata e sufficiente",
+    "corretta": "C",
+    "numero": 58
+  },
+  {
+    "domanda": "Nel determinare la retribuzione sufficiente, ai sensi dell'art. 36 comma 1 della Costituzione, il giudice:",
+    "A": "può utilizzare come parametro di riferimento la retribuzione prevista dal contratto collettivo di lavoro astrattamente applicabile allo specifico contratto di lavoro",
+    "B": "deve applicare il contratto collettivo stipulato dalle associazione sindacale più rappresentative",
+    "C": "deve applicare i minimi retributivi fissati annualmente con Decreto del ministro del lavoro e delle politiche sociali",
+    "D": "deve far riferimento alle retribuzioni corrisposte in aziende presenti nello stesso territorio",
+    "corretta": "A",
+    "numero": 59
+  },
+  {
+    "domanda": "Il lavoratore ha diritto ad una retribuzione:",
+    "A": "proporzionata alla quantità del suo lavoro e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa",
+    "B": "sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa",
+    "C": "idonea, adeguata e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa",
+    "D": "proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa",
+    "corretta": "D",
+    "numero": 60
+  },
+  {
+    "domanda": "La funzione del Fondo di garanzia è:",
+    "A": "di erogare i crediti retributivi del lavoratore (tra cui il Tfr) allorquando il datore di lavoro si rifiuti di adempiere",
+    "B": "di erogare i crediti retributivi del lavoratore (ad eccezione del Tfr) allorquando il datore di lavoro sia insolvente a seguito dell'apertura di una procedura concorsuale",
+    "C": "di erogare i crediti retributivi del lavoratore (ad eccezione del Tfr) allorquando il datore di lavoro si rifiuti di adempiere",
+    "D": "di erogare i crediti retributivi del lavoratore (tra cui il Tfr) allorquando il datore di lavoro sia insolvente a seguito dell'apertura di una procedura concorsuale",
+    "corretta": "D",
+    "numero": 61
+  },
+  {
+    "domanda": "In ogni caso di cessazione del rapporto di lavoro subordinato, il prestatore di lavoro:",
+    "A": "ha diritto a un trattamento di fine rapporto",
+    "B": "ha diritto a un trattamento di fine rapporto ad eccezione della cessazione per giusta causa",
+    "C": "ha diritto a un trattamento di fine rapporto ad eccezione dell'ipotesi in cui il rapporto sia cessato per dimissioni volontarie",
+    "D": "ha diritto a un trattamento di fine rapporto ad eccezione di espressa rinuncia da parte del prestatore di lavoro",
+    "corretta": "A",
+    "numero": 62
+  },
+  {
+    "domanda": "Il Fondo di garanzia:",
+    "A": "è istituito presso l'INPS.",
+    "B": "è istituito presso l'INAIL.",
+    "C": "è istituito presso il datore di lavoro.",
+    "D": "è istituito presso il Ministero del Lavoro",
+    "corretta": "A",
+    "numero": 63
+  },
+  {
+    "domanda": "L'anticipazione del T.F.R. è prevista nel caso in cui il lavoratore:",
+    "A": "debba sostenere spese sanitarie per terapie e interventi straordinari, ovvero spese durante i periodi di fruizione dei congedi parentali ovvero acquisto della prima casa di abitazione per sé o per i figli",
+    "B": "abbia maturato almeno 15 anni di servizio presso lo stesso datore di lavoro",
+    "C": "abbia già richiesto e ottenuto l'anticipazione nel corso del rapporto di lavoro",
+    "D": "presenti richiesta scritta senza che debba ricorrere alcuna motivazione specifica trattandosi di suo diritto",
+    "corretta": "A",
+    "numero": 65
+  },
+  {
+    "domanda": "L'Inail tutela i lavoratori che subiscono un infortunio sul lavoro o contraggono una malattia professionale, mediante l'erogazione di prestazioni economiche, sanitarie e integrative:",
+    "A": "solo se il datore di lavoro ha versato regolarmente il premio assicurativo",
+    "B": "anche se il datore di lavoro non ha versato regolarmente il premio assicurativo",
+    "C": "anche se il datore di lavoro non ha versato regolarmente il premio assicurativo nella misura minima del 60%",
+    "D": "anche se il datore di lavoro non ha versato regolarmente il premio assicurativo nella misura minima del 70%",
+    "corretta": "B",
+    "numero": 66
+  },
+  {
+    "domanda": "In materia di sicurezza sul lavoro:",
+    "A": "il datore è l'unico soggetto obbligato",
+    "B": "il lavoratore nell'esecuzione delle proprie mansioni deve osservare le norme in materia di sicurezza",
+    "C": "il lavoratore non è in alcun modo tenuto ad osservare le norme in materia di sicurezza sul lavoro",
+    "D": "il datore di lavoro non può imporre al lavoratore di osservare le norme in materia di sicurezza sul lavoro",
+    "corretta": "B",
+    "numero": 67
+  },
+  {
+    "domanda": "La normativa relativa alla salute e sicurezza del lavoro è stata riordinata con l'emanazione del:",
+    "A": "D.lgs. 81/2008:",
+    "B": "D.lgs. 66/2003",
+    "C": "L. 15/2015",
+    "D": "L. 162/1992",
+    "corretta": "A",
+    "numero": 68
+  },
+  {
+    "domanda": "Ai sensi dell'art. 20 del Testo Unico sulla sicurezza del lavoro:",
+    "A": "ogni lavoratore deve prendersi cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni o omissioni, conformemente alla sua formazione, alle istruzioni e ai mezzi propri",
+    "B": "ogni lavoratore deve prendersi cura della propria salute e sicurezza conformemente alla sua formazione, alle istruzioni e ai mezzi forniti dal datore di lavoro",
+    "C": "ogni lavoratore deve prendersi cura della propria salute e sicurezza conformemente alla sua formazione, alle istruzioni e ai mezzi propri",
+    "D": "ogni lavoratore deve prendersi cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni o omissioni, conformemente alla sua formazione, alle istruzioni e ai mezzi forniti dal datore di lavoro",
+    "corretta": "D",
+    "numero": 69
+  },
+  {
+    "domanda": "I Vigili del fuoco:",
+    "A": "previa chiamata delle sigle sindacali effettuano visite di controllo, di collaudo, certificazione di prevenzione incendi, vigilano sul rispetto delle norme antincendio.",
+    "B": "previa chiamata del datore di lavoro effettuano visite di controllo, di collaudo, certificazione di prevenzione incendi, vigilano sul rispetto delle norme antincendio.",
+    "C": "effettuano visite periodiche di controllo, di collaudo, certificazione di prevenzione incendi, vigilano sul rispetto delle norme antincendio.",
+    "D": "previa chiamata del preposto alla sicurezza effettuano visite di controllo, di collaudo, certificazione di prevenzione incendi, vigilano sul rispetto delle norme antincendio.",
+    "corretta": "C",
+    "numero": 70
+  },
+  {
+    "domanda": "I lavoratori hanno diritto ad un riposo giornaliero di:",
+    "A": "9 ore consecutive ogni 24 ore",
+    "B": "13 ore consecutive ogni 24 ore",
+    "C": "11 ore consecutive ogni 24 ore",
+    "D": "16 ore consecutive ogni 24 ore",
+    "corretta": "C",
+    "numero": 71
+  },
+  {
+    "domanda": "In base all'art. 8, D.Lgs. n. 66 del 2003, e successive modificazioni, il lavoratore deve beneficiare di un intervallo per pausa se:",
+    "A": "l'orario di lavoro giornaliero eccede il limite di 5 ore",
+    "B": "l'orario di lavoro giornaliero eccede il limite di 6 ore",
+    "C": "l'orario di lavoro giornaliero eccede il limite di 5 ore e mezzo",
+    "D": "l'orario di lavoro giornaliero eccede il limite di 4 ore e mezzo",
+    "corretta": "B",
+    "numero": 72
+  },
+  {
+    "domanda": "In materia di riposi giornalieri, l'art. 7, D.Lgs. n. 66 del 2003, e successive modificazioni, prevede che, ferma restando la durata normale dell'orario settimanale, il lavoratore ha diritto",
+    "A": "a 10 ore di riposo consecutivo ogni 24 ore. Detto riposo deve essere fruito in modo consecutivo, fatti salvi eventuali casi di forza maggiore, tali da ostacolare momentaneamente il funzionamento dell'azienda; in queste ipotesi, tuttavia, i lavoratori hanno diritto a dei periodi di riposo compensativi",
+    "B": "a 9 ore di riposo consecutivo ogni 24 ore. Detto riposo deve essere fruito in modo consecutivo, fatte salve le specifiche attività individuate con apposito decreto del Ministero del lavoro e delle politiche sociali di concerto con il Ministero della sanità, sottoposte ad un regime particolare",
+    "C": "a 8 ore di riposo consecutivo ogni 24 ore. Detto riposo deve essere fruito in modo consecutivo, fatte salve le attività caratterizzate da periodi di lavoro frazionati durante la giornata e quelle individuate con apposito decreto del Ministero del lavoro e delle politiche sociali di concerto con il Ministero della sanità, sottoposte ad un regime particolare",
+    "D": "a 11 ore di riposo consecutivo ogni 24 ore. Detto riposo deve essere fruito in modo consecutivo, fatte salve le attività caratterizzate da periodi di lavoro frazionati durante la giornata",
+    "corretta": "D",
+    "numero": 73
+  },
+  {
+    "domanda": "Per lavoratore notturno si intende:",
+    "A": "qualsiasi lavoratore che durante il periodo notturno svolga almeno quattro ore del suo tempo di lavoro giornaliero impiegato in modo normale",
+    "B": "qualsiasi lavoratore che durante il periodo notturno svolga almeno tre ore del suo tempo di lavoro giornaliero impiegato in modo normale",
+    "C": "qualsiasi lavoratore che durante il periodo notturno svolga almeno due ore del suo tempo di lavoro giornaliero impiegato in modo normale",
+    "D": "qualsiasi lavoratore che durante il periodo notturno svolga almeno cinque ore del suo tempo di lavoro giornaliero impiegato in modo normale",
+    "corretta": "B",
+    "numero": 74
+  },
+  {
+    "domanda": "È in ogni caso vietato adibire, dalle ore 24 alle ore 6,",
+    "A": "le donne dall'accertamento dello stato di gravidanza fino al compimento di un anno di età del bambino",
+    "B": "le donne dall'accertamento dello stato di gravidanza fino al compimento di tre anni di età del bambino",
+    "C": "i lavoratori con figli di età inferiore ad un anno",
+    "D": "i lavoratori con figli di età inferiore ad tre anni",
+    "corretta": "A",
+    "numero": 75
+  },
+  {
+    "domanda": "La discriminazione indiretta si verifica quando:",
+    "A": "una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri possono mettere le persone di una determinata razza od origine etnica in una posizione di particolare vantaggio rispetto ad altre persone",
+    "B": "una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri possono mettere le persone di una determinata razza od origine etnica in una posizione di particolare svantaggio rispetto ad altre persone",
+    "C": "una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri non possono mettere le persone di una determinata razza od origine etnica in una posizione di particolare svantaggio rispetto ad altre persone",
+    "D": "una disposizione, un criterio, una prassi, un atto,un patto o un comportamento apparentemente faziosi possono mettere le persone di una determinata razza od origine etnica in una posizione di particolare vantaggio rispetto ad altre persone",
+    "corretta": "B",
+    "numero": 76
+  },
+  {
+    "domanda": "Lo scopo delle azioni positive è quello di:",
+    "A": "promuovere le tutele in materia di salute e sicurezza sul lavoro",
+    "B": "eliminare le disparità nella formazione scolastica e professionale, nell'accesso al lavoro, nella progressione in carriera, nella vita lavorativa",
+    "C": "promuovere l'occupazione dei lavoratori extracomunitari",
+    "D": "promuovere l'occupazione dei disabili ai sensi della legge n. 68 del 1999",
+    "corretta": "B",
+    "numero": 77
+  },
+  {
+    "domanda": "Le iniziative finalizzate a rimuovere gli ostacoli che di fatto impediscono la realizzazione di pari opportunità fra lavoratori e lavoratrici di cui all'art. 42 del D.Lgs. n. 198/2006, sono le c.d.:",
+    "A": "Azioni di diritto.",
+    "B": "azioni di fatto",
+    "C": "best practise",
+    "D": "azioni positive",
+    "corretta": "D",
+    "numero": 78
+  },
+  {
+    "domanda": "Il lavoratore, laddove venga riconosciuta in giudizio lacondotta discriminatoria, ha diritto:",
+    "A": "al solo risarcimento del danno. Per ottenere la cessazione del comportamento e la rimozione dei suoi effetti dovrà proporre autonoma azione di cui è competente il giudice del lavoro",
+    "B": "all'assegnazione a mansioni superiori a titolo di risarcimento",
+    "C": "al risarcimento del danno e alla cessazione del comportamento discriminatorio, nonché alla rimozione dei suoi effetti",
+    "D": "alla cessazione del comportamento discriminatorio, nonché alla rimozione dei suoi effetti. Per chiedere il risarcimento dovrà proporre un'azione a parte",
+    "corretta": "C",
+    "numero": 79
+  },
+  {
+    "domanda": "Nelle controversie in materia di discriminazione:",
+    "A": "l'onere della prova è a carico del lavoratore.",
+    "B": "l'onere della prova è a carico del datore di lavoro.",
+    "C": "l'onere della prova è a carico dell'associazione sindacale che rappresenta il lavoratore in giudizio.",
+    "D": "l'onere della prova è a carico del lPatronato che tutela il lavoratore.",
+    "corretta": "A",
+    "numero": 80
+  },
+  {
+    "domanda": "Il Mobbing ascendente si compone di:",
+    "A": "i comportamenti vessatori sono posti in essere da soggetti sott'ordinati rispetto alla vittima",
+    "B": "i comportamenti vessatori sono posti in essere da soggetti pariordinati rispetto alla vittima",
+    "C": "i comportamenti vessatori sono posti in essere da soggetti gerarchicamente superiori rispetto alla vittima",
+    "D": "i comportamenti vessatori sono posti in essere da soggetti esterni all'azienda in cui lavora la vittima",
+    "corretta": "A",
+    "numero": 81
+  },
+  {
+    "domanda": "Secondo la giurisprudenza c'è mobbing:",
+    "A": "anche quando non c'è la volontà di vessare il lavoratore al fine di indurlo alle dimissioni",
+    "B": "quando manca l'intenzione di vessare il lavoratore al fine di indurlo alle dimissioni",
+    "C": "quando c'è la volontà di vessare il lavoratore al fine di indurlo alle dimissioni",
+    "D": "quando c'è il dolo o anche solo la colpa cosciente",
+    "corretta": "C",
+    "numero": 82
+  },
+  {
+    "domanda": "Il trattamento dei dati personali dei lavoratori è oggi regolato dal:",
+    "A": "D.lgs 30 giugno 2003, n. 196",
+    "B": "Legge 31 dicembre 1996 n. 675",
+    "C": "Regolamento UE n.679/2016 (GDPR)",
+    "D": "Regolamento UE n.967/2017 (GDPR)",
+    "corretta": "C",
+    "numero": 83
+  },
+  {
+    "domanda": "In caso di danno biologico:",
+    "A": "i'INAIL eroga l'indennizzo secondo quanto previsto dalla legge",
+    "B": "i'INPS eroga l'indennizzo secondo quanto previsto dalla legge",
+    "C": "i'INPDAP eroga l'indennizzo secondo quanto previsto dalla legge",
+    "D": "i'INAS eroga l'indennizzo secondo quanto previsto dalla legge",
+    "corretta": "A",
+    "numero": 84
+  },
+  {
+    "domanda": "Il danno morale è:",
+    "A": "lesione del diritto alla salute fisica del soggetto medicalmente accertata",
+    "B": "patema d'animo, l'ingiusto turbamento dello stato d'animo del soggetto",
+    "C": "lesione alla vita di relazione, peggioramento delle condizioni di vita quotidiane oggettivamente apprezzabile",
+    "D": "lesione del diritto alla salute psico-fisica del soggetto medicalmente accertata",
+    "corretta": "B",
+    "numero": 85
+  },
+  {
+    "domanda": "Ai fini dell'applicazione della legge sull'esercizio del diritto di sciopero n. 146/1990, e succ. mod. o integr., non sono considerati servizi pubblici essenziali per quanto riguarda la libertà di comunicazione",
+    "A": "quelli volti a garantire l'informazione radiotelevisiva pubblica",
+    "B": "quelli volti a garantire le telecomunicazioni.",
+    "C": "quelli volti a garantire le poste",
+    "D": "quelli volti a garantire l'invio di messaggi attraverso il sistema informatico (c.d. e-mail)",
+    "corretta": "D",
+    "numero": 86
+  },
+  {
+    "domanda": "Ai sensi dell'art. 40 della Costituzione, lo sciopero è:",
+    "A": "una libertà condizionata",
+    "B": "un diritto",
+    "C": "una libertà",
+    "D": "un reato",
+    "corretta": "B",
+    "numero": 87
+  },
+  {
+    "domanda": "La revoca spontanea dello sciopero, dopo che è avvenuta la comunicazione all'utenza:",
+    "A": "è un diritto riconosciuto alle organizzazioni per sopravvenuti motivi",
+    "B": "è sempre ammessa così come disposto dalla giurisprudenza di legittimità",
+    "C": "è una libera facoltà riconosciuta alle organizzazioni per sopravvenuti motivi",
+    "D": "può costituire una forma sleale di azione sindacale",
+    "corretta": "D",
+    "numero": 88
+  },
+  {
+    "domanda": "La condotta antisindacale consiste in quei comportamenti posti in essere daL:",
+    "A": "lavoratore che, pur essendo iscritto ad un sindacato, non aderisce allo sciopero",
+    "B": "datore di lavoro che, pur consentendo il diritto di sciopero omette di versare la retribuzione per i giorni interessati",
+    "C": "lavoratore che non aderisce a nessun sindacato",
+    "D": "datore di lavoro volti ad impedire o a limitare l'esercizio della libertà sindacale, dell'attività sindacale, nonché del diritto di sciopero.",
+    "corretta": "D",
+    "numero": 89
+  },
+  {
+    "domanda": "Ai sensi dell'art. 20 dello Statuto dei lavoratori, il diritto di assemblea consiste:",
+    "A": "nell'obbligo dei lavoratori di riunirsi, in periodi determinati dell'anno, stabiliti per legge o dai contratti collettivi",
+    "B": "nella facoltà dei lavoratori di riunirsi, al di fuori dell'unità produttiva, ed al di fuori dell'orario di lavoro, per trattare materie di interesse sindacale o del lavoro",
+    "C": "nella facoltà dei lavoratori di riunirsi, nell'unità produttiva in cui prestano la loro opera, sia durante l'orario di lavoro, sia al di fuori di esso, per trattare materie di interesse sindacale e del lavoro",
+    "D": "nell'obbligo dei lavoratori di riunirsi, in periodi determinati dell'anno, stabiliti per legge o dai contratti collettivi, per trattare materie di interesse sindacale e del lavoro",
+    "corretta": "C",
+    "numero": 90
+  },
+  {
+    "domanda": "In caso di infortunio sul lavoro o malattia professionale l'INAIL è tenuto ad erogare le seguenti prestazioni:",
+    "A": "prestazioni economiche, prestazioni sanitarie, prestazioni integrative e assistenziali",
+    "B": "prestazioni sanitarie e prestazioni integrative e assistenziali",
+    "C": "prestazioni economiche e prestazioni integrative e assistenziali",
+    "D": "prestazioni economiche e prestazioni sanitarie",
+    "corretta": "A",
+    "numero": 91
+  },
+  {
+    "domanda": "I lavoratori hanno diritto che siano preveduti ed assicurati mezzi adeguati alle loro esigenze di vita in caso di:",
+    "A": "infortunio, malattia, invalidità e vecchiaia",
+    "B": "infortunio, malattia, invalidità e vecchiaia, disoccupazione involontaria",
+    "C": "infortunio, malattia e invaidità che determinano una riduzione permanente della capacità lavorativa superiore al 60%",
+    "D": "infortunio, malattia, invalidità e vecchiaia, disoccupazione",
+    "corretta": "B",
+    "numero": 92
+  },
+  {
+    "domanda": "A norma dell'art. 2, lett. c), d. lgs. n. 151/2001 (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità) per \"congedo parentale\", si intende:",
+    "A": "l'astensione facoltativa della lavoratrice o del lavoratore, nei periodi consentiti dalla stessa legge",
+    "B": "l'astensione dei genitori della lavoratrice o del lavoratore nel corso della gravidanza",
+    "C": "l'astensione obbligatoria della lavoratrice o del lavoratore, nei periodi previsti dalla stessa legge",
+    "D": "l'astensione facoltativa di altri lavoratori componenti il nucleo familiare del nascituro, conviventi con i genitori",
+    "corretta": "A",
+    "numero": 93
+  },
+  {
+    "domanda": "Le cause che danno il diritto al padre lavoratore, in alternativa alla lavoratrice madre, di usufruire del congedo di paternità sono:",
+    "A": "esclusivamente la morte oppure la grave infermità della madre",
+    "B": "la rinuncia della madre al congedo di maternità",
+    "C": "la morte oppure la grave infermità della madre, oppure l'abbandono o l'affidamento esclusivo del bambino al padre per tutta la durata del congedo di maternità, oppure per la parte residua che sarebbe spettata alla lavoratrice",
+    "D": "non vi sono cause che danno al padre il diritto di usufruire del congedo al posto della madre",
+    "corretta": "C",
+    "numero": 94
+  },
+  {
+    "domanda": "Il congedo di maternità è il periodo di astensione obbligatoria dal lavoro:",
+    "A": "per un periodo pari a cinque mesi",
+    "B": "per un periodo variabile a seconda dello stato di salute della lavoratrice",
+    "C": "per un periodo pari a sei mesi",
+    "D": "per un periodo pari a tre mesi",
+    "corretta": "A",
+    "numero": 95
+  },
+  {
+    "domanda": "In caso di trasferimento d'azienda:",
+    "A": "il rapporto di lavoro non continua con il cessionario",
+    "B": "il rapporto di lavoro non continua con il cessionario ma il lavoratore può agire giudizialmente per far valere i propri diritti",
+    "C": "il rapporto di lavoro continua con il cessionario ma il lavoratore non conserva alcun diritto",
+    "D": "il rapporto di lavoro continua con il cessionario ed il lavoratore conserva tutti i diritti che ne derivano",
+    "corretta": "D",
+    "numero": 96
+  },
+  {
+    "domanda": "Per trasferimento d'azienda si intende:",
+    "A": "l'ipotesi in cui un datore di lavoro, per soddisfare un proprio interesse, pone temporaneamente uno o più lavoratori a disposizione di altro soggetto per l'esecuzione di una determinata attività lavorativa",
+    "B": "qualsiasi operazione che, in seguito a cessione contrattuale o fusione, comporti il mutamento nella titolarità di un'attività economica organizzata",
+    "C": "qualsiasi operazione che non comporti il mutamento nella titolarità di un'attività economica organizzata",
+    "D": "l'ipotesi in cui un datore di lavoro, per soddisfare un interesse altrui, pone temporaneamente uno o più lavoratori a disposizione di altro soggetto per l'esecuzione di una determinata attività lavorativa",
+    "corretta": "B",
+    "numero": 97
+  },
+  {
+    "domanda": "Il distacco si configura quando un datore di lavoro, per soddisfare un proprio interesse:",
+    "A": "pone temporaneamente uno o più lavoratori a disposizione di altro soggetto per l'esecuzione di una determinata attività lavorativa",
+    "B": "pone definitivamente uno o più lavoratori a disposizione di altro soggetto per l'esecuzione di una determinata attività lavorativa",
+    "C": "trasferisce temporaneamnete il lavoratore in un'altra sede dislocata sul territorio",
+    "D": "trasferisce definitivamente il lavoratore in un'altra sede dislocata sul territorio",
+    "corretta": "A",
+    "numero": 98
+  },
+  {
+    "domanda": "La procedura sindacale di cui all'art. 47 della Legge 428/1990 deve essere attivata:",
+    "A": "nell'ipotesi di trasferimento d'azienda con più di 15 dipendenti",
+    "B": "nell'ipotesi di trasferimento d'azienda con più di 25 dipendenti",
+    "C": "nell'ipotesi di trasferimento d'azienda con più di 50 dipendenti",
+    "D": "nell'ipotesi di trasferimento d'azienda con più di 100 dipendenti",
+    "corretta": "A",
+    "numero": 99
+  },
+  {
+    "domanda": "Con riferimento al trasferimento d'azienda, il cedente ed il cessionario devono comunicare alle Rappresentanze sindacali aziendali l'intenzione di addivenire alla cessione almeno:",
+    "A": "dieci giorni prima che sia perfezionato l'atto, ma soltanto quando il trasferimento riguarda imprese che occupano più di 60 dipendenti",
+    "B": "quindici giorni prima che sia perfezionato l'atto, ma soltanto quando il trasferimento riguarda imprese che occupano più di 15 dipendenti",
+    "C": "venticinque giorni prima che sia perfezionato l'atto, ma soltanto quando il trasferimento riguarda imprese che occupano più di 15 dipendenti",
+    "D": "venti giorni prima che sia perfezionato l'atto, ma soltanto quando il trasferimento riguarda imprese che occupano più di 15 dipendenti",
+    "corretta": "C",
+    "numero": 100
+  },
+  {
+    "domanda": "È vietato l'utilizzo del contratto di somministrazione, tra le varie ipotesi, per:",
+    "A": "la sostituzione di lavoratori durante la serrata",
+    "B": "la sostituzione di lavoratori in sciopero",
+    "C": "la sostituzione di lavoratrici in congedo di maternità",
+    "D": "la sostituzione di lavoratori in genere",
+    "corretta": "B",
+    "numero": 101
+  },
+  {
+    "domanda": "Sul somministratore fanno capo gli oneri contributivi, previdenziali e assicurativi ma, in caso di inadempienza:",
+    "A": "l'utilizzatore non ne risponde in solido",
+    "B": "l'utilizzatore ne risponde in misura pari al 30%",
+    "C": "l'utilizzatore ne risponde in via esclusiva",
+    "D": "l'utilizzatore ne risponde in solido",
+    "corretta": "D",
+    "numero": 102
+  },
+  {
+    "domanda": "Ai sensi dell'art. 1655 c.c. l'appalto è il contratto con il quale una parte assume,",
+    "A": "con organizzazione dei mezzi necessari e con gestione a rischio altrui, il compimento di una porzione di opera o di servizio verso un corrispettivo in danaro",
+    "B": "con organizzazione dei mezzi necessari e con gestione a proprio rischio, il compimento di un'opera o di un servizio verso un corrispettivo in danaro",
+    "C": "con organizzazione dei mezzi necessari e con gestione a rischio altrui, il compimento di un'opera o di un servizio verso un corrispettivo in danaro",
+    "D": "con organizzazione dei mezzi necessari e con gestione a proprio rischio, il compimento di una porzione di opera o di servizio verso un corrispettivo in danaro",
+    "corretta": "B",
+    "numero": 103
+  },
+  {
+    "domanda": "La somministrazione di lavoro coinvolge:",
+    "A": "due distinti soggetti: l'agenzia di lavoro e l'INPS",
+    "B": "due distinti soggetti: l'agenzia di lavoro e il lavoratore",
+    "C": "tre distinti soggetti: l'agenzia di lavoro, l'utilizzatore e il lavoratore",
+    "D": "tre distinti soggetti: l'agenzia di lavoro, il lavoratore e l'INPS",
+    "corretta": "C",
+    "numero": 104
+  },
+  {
+    "domanda": "Il contratto di somministrazione è:",
+    "A": "l'attività di mediazione tra domanda e offerta di lavoro, anche in relazione all'inserimento lavorativo dei disabili e dei gruppi di lavoratori svantaggiati",
+    "B": "il contratto avente ad oggetto la fornitura professionale di manodopera, a tempo indeterminato o a termine",
+    "C": "il contratto col quale una parte assume, con gestione a proprio rischio, il compimento di un'opera dietro un corrispettivo in denaro",
+    "D": "il contratto con cui una parte assume, con gestione a proprio rischio, l'erogazione di un servizio dietro corrispettivo",
+    "corretta": "B",
+    "numero": 105
+  },
+  {
+    "domanda": "Il datore di lavoro che presenta i requisiti dimensionali previsti dalla tutela reale e che intenda procedere ad un licenziamento per giustificato motivo oggettivo:",
+    "A": "deve esperire preventivamente una fase di conciliazione obbligatoria",
+    "B": "può esperire successivamente una fase di conciliazione facoltativa",
+    "C": "può esperire preventivamente una fase di conciliazione facoltativa",
+    "D": "deve esperire successivamente una fase di conciliazione obbligatoria",
+    "corretta": "A",
+    "numero": 106
+  },
+  {
+    "domanda": "Ai sensi dell'art. 2119 c.c., giusta causa di licenziamento è:",
+    "A": "una causa che configuri un notevole inadempimento degli obblighi contrattuali",
+    "B": "una causa che attenga alle condizioni di salute del lavoratore",
+    "C": "una causa che non consenta la prosecuzione anche provvisoria del rapporto",
+    "D": "una causa che renda impossibile la prestazione di lavoro",
+    "corretta": "C",
+    "numero": 107
+  },
+  {
+    "domanda": "A norma della legislazione vigente, vige il divieto di licenziamento in caso di:",
+    "A": "infortunio professionale, fino ad un massimo di due mesi",
+    "B": "stato di gravidanza e di puerperio, dall'inizio della gravidanza fino al compimento di un anno di età del bambino",
+    "C": "matrimonio della lavoratrice, dal giorno delle nozze fino ad un anno dopo la celebrazione del matrimonio",
+    "D": "infortunio professionale, fino ad un massimo di due settimane",
+    "corretta": "B",
+    "numero": 108
+  },
+  {
+    "domanda": "Il licenziamento deve essere impugnato a pena di decadenza entro:",
+    "A": "il termine indicato nella lettera di licenziamento",
+    "B": "venti giorni dalla ricezione della sua comunicazione in forma scritta",
+    "C": "sessanta giorni dalla ricezione della sua comunicazione in forma scritta",
+    "D": "un anno dalla ricezione della sua comunicazione in forma scritta",
+    "corretta": "C",
+    "numero": 109
+  },
+  {
+    "domanda": "Il licenziamento si configura come:",
+    "A": "recesso del datore di lavoro dal contratto di lavoro",
+    "B": "recesso del lavoratore dal contratto di lavoro",
+    "C": "recesso di una delle parti del contratto (lavoratore e/o datore di lavoro) dal contratto di lavoro stesso",
+    "D": "risoluzione del contratto da parte del giudice",
+    "corretta": "A",
+    "numero": 110
+  },
+  {
+    "domanda": "Secondo la Corte Costituzionale in caso di licenziamento illegittimo il giudice, nel determinare la misura dell'indennità spettante al lavoratore dovrà tener conto:",
+    "A": "innanzi tutto dell'anzianità di servizio",
+    "B": "innanzi tutto dell'esperienza professionale",
+    "C": "innanzi tutto dell'età",
+    "D": "innanzi tutto del carico familiare",
+    "corretta": "A",
+    "numero": 111
+  },
+  {
+    "domanda": "I rimedi avverso il licenziamento illegittimo nelle imprese di medio/grandi dimensioni sono previsti:",
+    "A": "dall'art. 19 Statuto dei lavoratori",
+    "B": "dall'art. 18 Statuto dei lavoratori",
+    "C": "dall'art. 39 Statuto dei lavoratori",
+    "D": "dall'art. 52 Statuto dei lavoratori",
+    "corretta": "B",
+    "numero": 113
+  },
+  {
+    "domanda": "La tutela reale comporta che il giudice - ove accerti l'invalidità del licenziamento - ordina al datore di lavoro di:",
+    "A": "assumere ex novo il dipendente.",
+    "B": "erogare una somma a titolo di risarcimento del danno",
+    "C": "reintegrare il lavoratore nel posto di lavoro.",
+    "D": "erogare una somma a titolo di equo indennizzo",
+    "corretta": "C",
+    "numero": 114
+  },
+  {
+    "domanda": "È facoltà del lavoratore esercitare il c.d. diritto di opzione, che consiste nel richiedere:",
+    "A": "al posto della reintegrazione, la corresponsione di un'indennità",
+    "B": "al posto della corresponsione di un'indennità, la reintegrazione",
+    "C": "al posto della corresponsione di un risarcimento, la reintegrazione",
+    "D": "al posto della reintegrazione, la corresponsione di un'indennità perpetua",
+    "corretta": "A",
+    "numero": 115
+  },
+  {
+    "domanda": "Il licenziamento può essere revocato, purché:",
+    "A": "entro il termine di quindici giorni dalla comunicazione al datore di lavoro dell'impugnazione del medesimo",
+    "B": "effettuata entro il termine di trenta giorni dalla comunicazione al datore di lavoro dell'impugnazione del medesimo",
+    "C": "effettuata entro il termine di venti giorni dalla comunicazione al datore di lavoro dell'impugnazione del medesimo",
+    "D": "effettuata entro il termine di sessanta giorni dalla comunicazione al datore di lavoro dell'impugnazione del medesimo",
+    "corretta": "A",
+    "numero": 116
+  },
+  {
+    "domanda": "In caso di revoca del licenziamento il rapporto di lavoro:",
+    "A": "viene ripristinato, ma con soluzione di continuità",
+    "B": "si applicano le sanzioni dell'art. 18 della legge 300/1970",
+    "C": "viene ripristinato, ma senza soluzione di continuità",
+    "D": "si applicano le sanzioni dell'art. 39 della legge 300/1970",
+    "corretta": "C",
+    "numero": 117
+  },
+  {
+    "domanda": "Le dimissioni:",
+    "A": "possono essere poste in essere con modalità telematica o anche cartacea",
+    "B": "devono essere poste in essere solo con modalità telematiche",
+    "C": "devono essere poste in essere solo con modalità cartacea",
+    "D": "devono essere firmate in bianco",
+    "corretta": "B",
+    "numero": 118
+  },
+  {
+    "domanda": "I moduli per le dimissioni sono predisposti da:",
+    "A": "INPS",
+    "B": "Ministero del lavoro",
+    "C": "Centri per l'Impiego",
+    "D": "Ispettorato del Lavoro",
+    "corretta": "B",
+    "numero": 119
+  },
+  {
+    "domanda": "Le dimissioni devono essere convalidate da:",
+    "A": "servizio ispettivo del Ministero del lavoro e delle politiche sociali competente per territorio",
+    "B": "servizio ispettivo dell' INPS",
+    "C": "servizio ispettivo dei Centri per l'Impiego",
+    "D": "servizio dell'Ispettorato del Lavoro",
+    "corretta": "A",
+    "numero": 120
+  },
+  {
+    "domanda": "Ogni diritto si estingue per prescrizione, quando il titolare non lo esercita per il tempo determinato:",
+    "A": "dalla legge",
+    "B": "dalla giurisprudenza",
+    "C": "dagli usi",
+    "D": "dalla consuetudine e dalla prassi",
+    "corretta": "A",
+    "numero": 121
+  },
+  {
+    "domanda": "Le rinunzie e le transazioni, che hanno per oggetto diritti del prestatore di lavoro derivanti da disposizioni inderogabili della legge e dei contratti o accordi collettivi concernenti i rapporti di cui all'articolo 409 del codice di procedura civile:",
+    "A": "non sono valide",
+    "B": "sono valide",
+    "C": "sono valide, fatta salva la facoltà di revoca esercitata entro 6 mesi",
+    "D": "sono valide, fatta salva la facoltà di impugnare entro 6 mesi",
+    "corretta": "A",
+    "numero": 122
+  },
+  {
+    "domanda": "Laddove i beni del datore di lavoro siano insufficienti a soddisfare i crediti del lavoratori, è possibile fare ricorso:",
+    "A": "ad un apposito Fondo di garanzia istituito presso l'Ispettorato del lavoro",
+    "B": "ad un apposito Fondo di garanzia istituito presso il Ministero del Lavoro",
+    "C": "ad un apposito Fondo di garanzia istituito presso l'Istituto bancario del datore di lavoro",
+    "D": "ad un apposito Fondo di garanzia istituito presso l'INPS",
+    "corretta": "D",
+    "numero": 123
+  },
+  {
+    "domanda": "I crediti del lavoratori verso il datore di lavoro:",
+    "A": "non sono assistiti dal privilegio generale sui beni mobili del datore di lavoro stesso",
+    "B": "sono assistiti dal privilegio generale sui beni mobili del datore di lavoro stesso",
+    "C": "sono assistiti dal privilegio speciale sui beni mobili del datore di lavoro stesso",
+    "D": "sono assistiti dal privilegio universale sui beni mobili del datore di lavoro stesso",
+    "corretta": "B",
+    "numero": 124
+  },
+  {
+    "domanda": "La decadenza convenzionale è:",
+    "A": "un tipo di decadenza prevista dagli usi",
+    "B": "un tipo di decadenza prevista dalla prassi",
+    "C": "un tipo di decadenza prevista dalle parti",
+    "D": "un tipo di decadenza prevista dalla consuetudine",
+    "corretta": "C",
+    "numero": 125
+  },
+  {
+    "domanda": "Il licenziamento collettivo è disciplinato da:",
+    "A": "D.Lgs. 66/2003",
+    "B": "legge 223/1991",
+    "C": "D.Lgs. 172/2003",
+    "D": "D.Lgs. 22/2015",
+    "corretta": "B",
+    "numero": 126
+  },
+  {
+    "domanda": "Le imprese che intendano procedere al licenziamento collettivo sono tenute a darne comunicazione preventiva per iscritto a:",
+    "A": "Ispettorato del Lavoro",
+    "B": "rappresentanze sindacali aziendali",
+    "C": "INPS",
+    "D": "Ministero del Lavoro",
+    "corretta": "B",
+    "numero": 127
+  },
+  {
+    "domanda": "La NASPI si applica quando vi è una perdita:",
+    "A": "involontaria del posto di lavoro ovvero una risoluzione consensuale del rapporto di lavoro.",
+    "B": "volontaria del posto di lavoro ovvero una risoluzione consensuale del rapporto di lavoro.",
+    "C": "a prescindere della volontà da parte del lavoratore",
+    "D": "vi è una risoluzione consensuale del rapporto di lavoro",
+    "corretta": "A",
+    "numero": 128
+  },
+  {
+    "domanda": "La NASPI è erogata mensilmente:",
+    "A": "per un numero di settimane pari ad un terzo di quelle coperte dai contributi degli ultimi 2 anni",
+    "B": "per un numero di settimane pari ad un terzo di quelle coperte dai contributi degli ultimi 4 anni",
+    "C": "per un numero di settimane pari a metà di quelle coperte dai contributi degli ultimi 4 anni",
+    "D": "per un numero di settimane pari a metà di quelle coperte dai contributi degli ultimi 2 anni",
+    "corretta": "C",
+    "numero": 129
+  },
+  {
+    "domanda": "La NASPI è stata introdotta con:",
+    "A": "D.Lgs. 66/2003",
+    "B": "legge 223/1991",
+    "C": "D.Lgs. 172/2003",
+    "D": "D.Lgs. 22/2015",
+    "corretta": "D",
+    "numero": 130
+  },
+  {
+    "domanda": "Mediante il ricorso all'arbitrato, le partideferiscono a:",
+    "A": "al giudice una controversia insorta tra loro",
+    "B": "al giudice di un altro Foro la controversia insorta tra loro",
+    "C": "un terzo il potere di decidere una controversia insorta tra loro",
+    "D": "ad un legale una controversia insorta tra loro",
+    "corretta": "C",
+    "numero": 132
+  },
+  {
+    "domanda": "Le commissioni di certificazione certificano, se richiesto dal datore e/o dal lavoratore:",
+    "A": "l'idoneità del lavoratore alla specifica prestazione",
+    "B": "contratti in cui sia dedotta una prestazione di lavoro.",
+    "C": "contratti collettivi",
+    "D": "la salubrità dei luoghi di lavoro",
+    "corretta": "B",
+    "numero": 133
+  },
+  {
+    "domanda": "Il lodo arbitrale che conclude la procedura:",
+    "A": "ha mera funzione di indirizzo",
+    "B": "non ha efficacia vincolante tra le parti",
+    "C": "ha forza di legge tra le parti",
+    "D": "non ha forza di legge tra le parti, ma le vincola a tenere un determinato comportamento",
+    "corretta": "C",
+    "numero": 134
+  },
+  {
+    "domanda": "In caso di conciliazione in sede sindacale il verbale di conciliazione è depositato presso:",
+    "A": "la cancelleria del Tribunale del luogo ove ha sede l'azienda datrice di lavoro",
+    "B": "l'Ispettorato del lavoro",
+    "C": "il Ministero del Lavoro",
+    "D": "la Direzione Territoriale del Lavoro",
+    "corretta": "D",
+    "numero": 135
+  },
+  {
+    "domanda": "Competente per territorio è il giudice nella cui circoscrizione:",
+    "A": "è sorto il rapporto ovvero ha residenza il datore di lavoro.",
+    "B": "è sorta la controversia",
+    "C": "è sorto il rapporto ovvero si trova l'azienda o una sua dipendenza alla quale è addetto il lavoratore o presso la quale egli prestava la sua opera al momento della fine del rapporto.",
+    "D": "è sorto il rapporto ovvero ha residenza il lavoratore.",
+    "corretta": "C",
+    "numero": 136
+  },
+  {
+    "domanda": "Le clausole derogative della competenza per territorio:",
+    "A": "sono inefficaci",
+    "B": "sono nulle",
+    "C": "sono valide",
+    "D": "sono annullabili",
+    "corretta": "B",
+    "numero": 137
+  },
+  {
+    "domanda": "Dopo il deposito del ricorso, il giudice fissa la data dell'udienza:",
+    "A": "con ordinanza",
+    "B": "con decreto",
+    "C": "con sentenza",
+    "D": "con avviso inviato dalla cancelleria a mezzo PEC",
+    "corretta": "B",
+    "numero": 138
+  },
+  {
+    "domanda": "All'udienza di discussione le parti:",
+    "A": "devono comparire di persona",
+    "B": "possono comparire di persona",
+    "C": "non devono comparire di persona",
+    "D": "non possono comparire di persona",
+    "corretta": "A",
+    "numero": 139
+  },
+  {
+    "domanda": "Il giudice pronuncia in udienza:",
+    "A": "la sentenza con cui decide il giudizio",
+    "B": "l'ordinanza con cui decide il giudizio",
+    "C": "il decreto con cui decide il giudizio",
+    "D": "la declaratoria con cui decide il giudizio",
+    "corretta": "A",
+    "numero": 140
+  },
+  {
+    "domanda": "Nel giudizio di appello:",
+    "A": "non sono ammesse nuove domande ed eccezioni",
+    "B": "sono ammesse nuove domande ed eccezioni",
+    "C": "non sono ammesse nuove domande ma sono ammesse nuove eccezioni",
+    "D": "sono ammesse nuove domande ma non nuove eccezioni",
+    "corretta": "A",
+    "numero": 141
+  },
+  {
+    "domanda": "Le sentenze di appello possono essere impugnate dinanzi:",
+    "A": "alla Corte di Cassazione",
+    "B": "alla Corte Costituzionale",
+    "C": "ad altra Corte di Appello",
+    "D": "all'Ispettorato del Lavoro",
+    "corretta": "A",
+    "numero": 142
+  },
+  {
+    "domanda": "Il mancato rispetto dei termini di impugnazione:",
+    "A": "non determina alcun vizio",
+    "B": "determina l'inammissibilità dell'appello con possibilità di riproporre successivamente nuovo appello",
+    "C": "determinal'inammissibilità dell'appello e passaggio in giudicato della sentenza",
+    "D": "determinal'inammissibilità dell'appello ma non il passaggio in giudicato della sentenza",
+    "corretta": "C",
+    "numero": 143
+  },
+  {
+    "domanda": "Ai sensi dell'art. 434 c.p.c., la motivazione dell'appello deve contenere, a penadi inammissibilità:",
+    "A": "la sola indicazione delle circostanze da cui deriva la violazione della legge e della loro rilevanza ai fini della decisione impugnata",
+    "B": "l'indicazione delle parti del provvedimento che si intendeappellare ma non le modifiche che vengono richieste alla ricostruzione del fatto compiuta dal giudice di primo grado",
+    "C": "le sole modifiche che vengono richieste alla ricostruzionedel fatto compiuta dal giudice di primo grado",
+    "D": "l'indicazione delle parti del provvedimento che si intendeappellare e delle modifiche che vengono richieste alla ricostruzione del fatto compiuta dal giudice di primo grado nonché l'indicazione delle circostanze da cui deriva la violazione della legge e della loro rilevanza ai fini della decisione impugnata",
+    "corretta": "D",
+    "numero": 144
+  },
+  {
+    "domanda": "Il ricorso in appello deve essere depositato:",
+    "A": "nella cancelleria della Corte di appello",
+    "B": "nella cancelleria della Tribunale che ha pubblicato la sentenza impugnata",
+    "C": "presso la sezione stralcio",
+    "D": "nella cancelleria della Corte di cassazione",
+    "corretta": "A",
+    "numero": 145
+  },
+  {
+    "domanda": "Secondo la Corte di Cassazione n. 10280/2018 la diffusione di un messaggio diffamatorio attraverso l'uso di una bacheca 'facebook' integra:",
+    "A": "un'ipotesi di diffamazione, per la potenziale capacità di raggiungere un numero indeterminato di persone",
+    "B": "libertà di espressione",
+    "C": "un'ipotesi di denigrazione, per la potenziale capacità di raggiungere un numero indeterminato di persone",
+    "D": "un'ipotesi di calunnia, per la potenziale capacità di raggiungere un numero indeterminato di persone",
+    "corretta": "A",
+    "numero": 146
+  },
+  {
+    "domanda": "Secondo la Corte di Cassazione n. 6047/2018 lo svolgimentodi altra attività lavorativa da parte del dipendente assente per malattia:",
+    "A": "è idonea a giustificare la sospensione del rapporto di lavoro",
+    "B": "è idonea a giustificare il recesso del datore di lavoro",
+    "C": "è inidonea a giustificare il recesso del datore di lavoro",
+    "D": "è inidonea a giustificare la sospensione del rapporto di lavoro",
+    "corretta": "B",
+    "numero": 147
+  },
+  {
+    "domanda": "Secondo la Corte di Cassazione n. 8260/2017 IL verbale di conciliazione sottoscritto dallavoratore in sede aziendale sulla base di false informazioni ovvero in caso di mancata informazione in merito a determinate circostanze:",
+    "A": "è annullabile per vizio di consenso",
+    "B": "è nullo per vizio di consenso",
+    "C": "è valido",
+    "D": "è regolare",
+    "corretta": "A",
+    "numero": 148
+  },
+  {
+    "domanda": "Secondo orientamento consolidato, la Corte di Cassazione:",
+    "A": "ammette lo svolgimento di attività ludiche o di intrattenimento nel periodo di malattia purché non rallentino la ripresa psico-fisica",
+    "B": "non ammette lo svolgimento di attività ludiche o di intrattenimento nel periodo di malattia",
+    "C": "ammette lo svolgimento di attività ludiche ma non quelle di intrattenimento nel periodo di malattia",
+    "D": "non ammette lo svolgimento di attività ludiche, ma ammette quelle di intrattenimento nel periodo di malattia",
+    "corretta": "A",
+    "numero": 149
+  },
+  {
+    "domanda": "Il lavoratore:",
+    "A": "non è tenuto ad osservare gli obblighi di correttezza e buona fede connessi al rapporto di lavoro",
+    "B": "anche nel periodo di malattia, deve osservare gli obblighi di correttezza e buona fede purché non siano connessi al rapporto di lavoro",
+    "C": "anche nel periodo di malattia, deve osservare gli orari di lavoro",
+    "D": "anche nel periodo di malattia, deve osservare gli obblighi di correttezza e buona fede connessi al rapporto di lavoro",
+    "corretta": "D",
+    "numero": 150
+  }
+]
