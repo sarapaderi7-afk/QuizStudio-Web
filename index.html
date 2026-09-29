@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header><h1>Quiz Studio</h1><p>Allenati con le tue domande</p></header>
+    <section id="home">
+      <h2>Scegli la materia</h2>
+      <div id="subjects" class="grid"></div>
+    </section>
+    <section id="quiz" hidden>
+      <button id="back">← Materie</button>
+      <div class="bar"><strong id="title"></strong><span id="progress"></span></div>
+      <div class="card">
+        <p id="question"></p>
+        <div id="answers"></div>
+        <div id="feedback"></div>
+      </div>
+      <div class="actions">
+        <button id="next" disabled>Prossima domanda</button>
+        <button id="finish" hidden>Fine test</button>
+      </div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
